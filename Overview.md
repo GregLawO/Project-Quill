@@ -22,7 +22,7 @@ Only details the author has explicitly settled are listed here. Open questions a
 - **No Kenji POV is dated after 2064 until B1.2**, so the realization lands there.
 
 **Kenji's voice (auto approved).**
-- **Habit of attention:** what a thing is for, and what it will be used for next. This keeps him distinct from Hannah (what is missing), Brooks (what can be counted), Manswell (money and ownership), and Vance (what can be defended).
+- **Habit of attention:** what a thing is for, and what it will be used for next. This keeps him distinct from Hannah (what is missing), Brooks (what can be counted), Manswell (money and ownership), and the marine (what can be defended).
 - **Speech:** short declaratives, few metaphors, and workshop and tool images when he does use one. He asks "what do you need?" more often than he gives orders. His dry humor is rare.
 - **Fate habit:** he never says "it can't get worse." He notes what arrives early or late and does not count it.
 - **Fast Gear tell:** he squares objects on a desk and washes his hands. His own chapters never name shaking hands. Named feelings are stripped as in every Fast Gear passage.
@@ -31,22 +31,23 @@ Only details the author has explicitly settled are listed here. Open questions a
 
 **Fate (author ruling).** Kenji thinks and feels as if the universe is working against him. The text mostly allows chance or human causes to explain what happens. Fate's pressure costs him materials, money, time, people, and trust, and never the end state (the Imperium wins in 2150, and the Reapers arrive in 2183).
 
-### Vance
+### The marine
 
 **Gunnery Sergeant Dominic Vance, USMC, retired (author ruling; name and rank are placeholders (decision) and may be swapped on request).** A locked recurring OC and member of the main cast. His profile is Dominic_Gunny_Vance_Character_Profile.md.
 - **Origin.** He is dying in 2051. He trades his memories, experience, and expertise for treatment, through a two-way upload that copies them out and gives him his lungs back. Kenji uses the copy to create and hone the security droids' combat abilities, and the droids' routines are the only place it lives. This supersedes "knowledge upload never spreads" for this case only. No character is told where the droids' fighting style comes from.
-- **Role.** He is the first member of the secret network and its first leader. He scouts and recruits Brooks and brings her to Kenji. When Brooks takes over the network, he becomes Kenji's personal guard, and later Lord Commander of the Custodian Legion. The Custodian Legion is not one of the ten Legions, and its head is titled Lord Commander and not Legion Master (author ruling). The ten-Legion rule stands.
+- **Role.** He is the first member of the secret network and its first leader. He scouts and recruits Brooks and brings her to Kenji. When Brooks takes over the network, he becomes Kenji's personal guard, and later Legion Master of the Custodian Legion. This supersedes the ten-Legion rule (author ruling); the Legions file and the Custodian entries need a Custodian Legion with its own Legion Master.
 - **Conditioning.** He is not conditioned in his early years and stays by choice. He receives the conditioning layer with the Primaris Process when he joins the guard (decision).
+- **His squad (author ruling).** Teodor Ashby, the squad's radio technician, survived the same ambush. Vance recruits him in March 2053 (A2.4).
 - **POV in Act I.** A2.4 (told as his dated ledger, 2052 to 2061) and A3.1 (2062, Brooks's recruitment from his side), at most. The match to the published A1.5 must hold in every gesture.
 - **Habit of attention:** what can be defended and what cannot. He reads ground, cover, sight lines, and where he would stand, with his body. He counts nothing, so he does not clash with Brooks. He taught Kenji where to sit in a room.
 
 ### The secret network and the early conspiracy
 
-- **Robots first (author ruling).** From 2052 the private sites are guarded by Level 2 robot sentries, each run by a Level 1 Dumb AI task controller. No human operative exists before the network does, and none appears in any chapter dated earlier. Public robots are Level 1 (fixed arms and simple mobile units under human control), and no public robot guards anything.
-- **The network is founded at the end of A2.3 (2052), with Vance as its first member (author ruling).** It exists before Kenji meets the Shepards, grows in A2.4, and the Galveston clinic of A1 opens in 2053. Operatives carry no POV, apart from Vance, who is main cast and not an operative in this sense. From 2052 human sentries stand beside the robots at the clinics.
+- **Robots first (author ruling).** From 2052 the private sites, such as the Baytown warehouse, are guarded by Level 2 robot sentries, each run by a Level 1 Dumb AI task controller. Clinics hold no robot sentries (author ruling): a public clinic shows nothing the world could not have built, and only human operatives guard its doors. No human operative exists before the network does, and none appears in any chapter dated earlier. Public robots are Level 1 (fixed arms and simple mobile units under human control), and no public robot guards anything.
+- **The network is founded at the end of A2.3 (2052), with the marine as its first member (author ruling).** It exists before Kenji meets the Shepards, grows in A2.4, and the Galveston clinic of A1 opens in 2053. Operatives carry no POV, apart from the marine, who is main cast and not an operative in this sense. From 2053 human operatives guard the clinic doors, with no robots beside them.
 - **The conspiracy begins with the release of his technology (author ruling, 2051).** The early pressure is its first moves. Four probes before 2065 read to every POV as ordinary greed: the break-in (A2.3), the stolen Primitive Med-Pod (A2.4), the clinic shakedown (A2.6), and the "partnership" offer (A4.3). No POV before 2065 links the incidents, and none names the conspiracy. Brooks logs the earlier incidents as unrelated files. No in-universe document connects them. This supersedes the earlier 2059 start date in Human_Characters.md and Protagonist_and_Timeline.md. The four delegates of 2125 are partly responsible for the 2059 bomb and the 2065 withdrawals only, so the conspiracy stays larger than those four.
 - **Tiers (author ruling).** Kenji starts the tech-level system in A2.2: he writes two columns himself, a Primitive grade for what may leave the room and a higher level for what stays behind. The Primitive grade must always be one the world could have invented unaided. The public and private levels by 2060 are set in Act_I_Outline.md.
-- **Early timeline notes.** The first unmanned warp flights (2061 to 2063) are private. The first crewed crossing beyond the Solar System is A2.17 (2064), so the A2 excerpt's "no human being had gone beyond the Solar System" holds. Hannah leaves the complex security post after the 2059 bomb and founds her private firm in 2060 (decision). Teodor Ashby first appears in A2.14 (2063).
+- **Early timeline notes.** The first unmanned warp flights (2061 to 2063) are private. The first crewed crossing beyond the Solar System is A2.17 (2064), so the A2 excerpt's "no human being had gone beyond the Solar System" holds. Hannah leaves the complex security post after the 2059 bomb and founds her private firm in 2060 (decision). Teodor Ashby first appears in A2.4 (March 2053), recruited by Vance, and first carries POV in A2.14 (2063). He later becomes a Custodian (author ruling).
 
 ### Reaper secrecy
 
@@ -73,7 +74,7 @@ These are set (author ruling), and they supersede the earlier wording that the h
 ### Patron characters
 
 - Exactly 10 patron seats exist. Each patron builds one original character through a character profile. Roles are hidden from patrons until their characters appear. The Author writes each character from the locked profile.
-- Patrons cannot influence Kenji, Hannah, her parents, Brooks, Vance, or other canon and OC characters the Author has not opened.
+- Patrons cannot influence Kenji, Hannah, her parents, Brooks, the marine, or other canon and OC characters the Author has not opened.
 - Hannah's parents (Tom and Ruth Shepard) are not patron characters. The found-family servants are background characters and carry no POV.
 - A patron's character may die. Death is a result of the story and not a penalty.
 
@@ -97,3 +98,10 @@ Every micro-chapter draft of the excerpt carries the header.
 ### Contrast conjunctions
 
 **Contrast conjunctions (author ruling).** Use "but", not "and", when the second clause cuts against what the first clause leads the reader to expect. An event whose expected result fails to follow, a sign that is not borne out, or a fact that undercuts the one before it takes "but". Use "and" only when the second clause adds to the first or follows from it. The test is the reader's expectation: if the first clause sets up a confirmation and the second clause refuses it, the word is "but". Example: "A card slides under the door, but the step is empty," not "and the step is empty." The rule matters most at a chapter's close, where a quiet reversal or an empty result carries the hook.
+
+### Reader flow
+
+**Reader flow (author ruling).** Never use words or structure that make a reader pause. A sentence is read once and understood. The test is whether a reader would stop to work out what a word means or what a sentence is saying.
+- (inference) The rule governs narration and prose in every POV, in both gears. It does not apply to the excerpt text, which stays word for word.
+- (inference) The opening-hook rule is unaffected. The question a chapter raises comes from a concrete detail on the page, never from wording the reader has to decode.
+- (inference) Atmosphere and deduction stay allowed in the Slow Gear when they say something plainly. A character may withhold something in dialogue, but the sentence that withholds it is still clear.

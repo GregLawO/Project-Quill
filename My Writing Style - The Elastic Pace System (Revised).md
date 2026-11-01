@@ -144,6 +144,10 @@ Each batch echoes one earlier element: the nameless card, the blank line, the qu
 
 Characters feel, show, and are moved by what happens to them. The Slow Gear carries emotion through what the character notices and deduces, and the Fast Gear carries it through the body. This follows the Overview's register ruling: an excerpt's description of how the in-universe accounts read does not flatten the chapters.
 
+### Reader flow (author ruling)
+
+Never use words or structure that make a reader pause. A sentence is read once and understood. This holds in both gears and for every POV. The opening hook is the one place a question belongs, and it comes from a concrete detail on the page, never from wording the reader has to decode.
+
 ### Pre-draft checklist
 
 - [ ] One line written for what the batch ends on emotionally
@@ -154,6 +158,7 @@ Characters feel, show, and are moved by what happens to them. The Slow Gear carr
 - [ ] No motif repeated across POVs in the same batch
 - [ ] Exposition chapters have a want and a deadline
 - [ ] One earlier thread echoed
+- [ ] No word or structure that makes a reader pause
 
 ## What Changed
 
@@ -167,3 +172,4 @@ Characters feel, show, and are moved by what happens to them. The Slow Gear carr
 | Voices | Not specified | Voice sheet, one motif per batch |
 | Exposition | Not specified | A want and a deadline for every narrator |
 | Threads | Not specified | One earlier element echoed per batch |
+| Reader flow | Not specified | Never use words or structure that make a reader pause |

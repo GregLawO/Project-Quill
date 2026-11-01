@@ -4,7 +4,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 ## Part A. Who he is
 
-1. **Name.** Tom Shepard. Everyone calls him "Tom." Ruth calls him "Tommy" when she is teasing or worried. Hannah is "Darling" to him, and he says it in front of her crew without caring. Kenji calls him "Tom," and Tom calls Kenji "son" in private. He dislikes being called "Pops" by younger workers, and corrects them once. **(decision)**
+1. **Name.** Tom Shepard. Everyone calls him "Tom." Ruth calls him "Tommy" when she is teasing or worried. Hannah is "Darling" to him, and he says it in front of her crew without caring. She calls him "Dad." Before the wedding Kenji calls him "Sir," and after it he calls him "Dad." Tom calls Kenji "son" in private. He dislikes being called "Pops" by younger workers, and corrects them once. **(decision)**
 2. **Birth year.** 2001. He is fifty-two when he is dying of pancreatic cancer and gets cured, and he lives to 116 on the clinics' public treatment. His age matters because he was within weeks of dying, and every year after is one he did not expect.
 3. **Region of origin.** Galveston, Texas, in a family that has worked the same shipyards for three generations. The street smelled of salt, diesel, and welding smoke, and everyone knew whose father could fix what.
 4. **Languages.** English with a thick Gulf Coast accent that he never tried to lose. Working Spanish from forty years of crews. He swears in both when he is angry, and in neither when a child is in the room.

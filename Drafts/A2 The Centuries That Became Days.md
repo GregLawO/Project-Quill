@@ -32,7 +32,7 @@ The ruling was not ruling.
 
 It was a column of small capitals, a hand's width from the edge, in the same square hand as the name.
 
-*Surface plate. Lathe, scraped true. Bench vise. Gauge set. Taper reamers.*
+Surface plate. Lathe, scraped true. Bench vise. Gauge set. Taper reamers.
 
 He ran a finger down it.
 
@@ -47,3 +47,167 @@ He squared the sheet on its pin. Squared it again.
 Under tonight's line, there was one more.
 
 It was the word at the head of the sheet.
+
+---
+
+## *Act I, 1st Movement · A2 · Kenji Himura (31)*
+
+### *Texas City, 2051*
+
+The dog stood up on a hip that should not have held it. Kenji kept one hand on the lid as it finished rising and watched the animal test the leg, weight forward and weight back, the way he had once tested the body. It had come off the channel road at four that morning with its pelvis in pieces, and he had carried it in across both arms because he did not know what else a person did. Now it sneezed at the smell of the coolant and walked out of the cradle on four sound legs.
+
+The machine filled the back half of the bay, a cradle of ceramic and printed steel under a glass-clear lid, with the tank behind it breathing through its filters. He had not designed it so much as followed it. The sheet from the first morning had carried only the early lines, and the hands had gone on down the ladder for a year, past the lathe and the gauges and the tooling, until the ladder ended in this. He could read the word at the head of the sheet now, and it said what the thing was.
+
+He read the machine the way he read everything, by what it was for and what it would be used for next. It was for rebuilding a body. Next it would be used by whoever held it, on whoever they chose, and every government, hospital chain, and criminal who heard of it would come to be that person. He looked at the roller door and the hardware-store padlock on its hasp, and the size of the problem arrived all at once.
+
+The machine could not leave the room.
+
+Something had to, though. A cure that no one saw cured no one, and a man who sat on a miracle in a tire shop was a man waiting to be found. He pulled a stool to the bench, and the hands began a second, cruder design before he had decided to draw it.
+
+The new model mended and did not renew. It would set a bone, clear a growth, and close a failing organ, but it would not give anyone back their years. Every part could be bought, ground, or wound by a good shop with a decade to spare. The question he put to each part was the only one that mattered: could the world have made this without him?
+
+He ruled a clean sheet into two columns and pinned it above the vise, beside the old one. He headed the left column Primitive and the right Level Two, wrote the cruder machine under the first and the true one under the second, and drew a line beneath both. Under the line he wrote a single rule. What leaves the room must be something the world could have invented without him, or the question of who built it will have an answer.
+
+By October a medical-equipment distributor in Houston had watched the cruder unit knit a deckhand’s forearm in forty minutes, and wanted the rights. The distributor’s lawyer arrived a day early to settle terms. Kenji checked the clock, then the padlock on the roller door, and took him through to the front office. They sat among the tire racks, and the lawyer set a folder on the desk and uncapped a pen.
+
+“Before my client commits a dollar, I need the owner of the design,” he said. “Whoever it is signs the license, and whoever it is takes the liability if a patient sues. Give me the name and I’ll have it drafted by Friday.”
+
+Kenji had prepared for questions about the machine, but the lawyer wanted only a name. “Tallis Bay Medical Systems,” he said. “It’s new, and I’m its only officer, so I’ll sign for it. It holds every drawing and every part of the design, and it will go on holding them whether I’m here or not.”
+
+The lawyer wrote it down without looking up.
+
+Kenji watched the pen finish the last word. He had made the name up that morning at the sink, and he had not checked a map or a register to see whether it was taken. The lawyer had not checked either. A name cost nothing, and it would be used next by anyone who came looking for him, to find whoever stood behind it, and so far that was one man in a tire shop.
+
+When the lawyer had gone, he went back to the bay and stood facing the tarp. Under it the true machine sat quiet, worth more than the building and everything on the street, and it needed a guard he could not hire. A guard was a person, and a person could be asked questions. He cleared the corner bench and laid out an actuator set and a frame, and the hands began to build a sentry.
+
+The agreement came on Friday by courier.
+
+Eleven pages. A yellow tab marked the last.
+
+He carried it to the bench. The tarp stood behind him. Under it the true machine ticked as its coolant settled, and in the corner the half-built sentry waited without a head.
+
+The signature block read *Tallis Bay Medical Systems, by:*
+
+The line under it was empty.
+
+He washed his hands. Twice. Dried them.
+
+He squared the page to the edge of the bench. Squared it again.
+
+He uncapped the pen.
+
+His hand came down and stopped a hair above the paper.
+
+It did not go on.
+
+It did not go back.
+
+---
+
+## *Act I, 1st Movement · A2 · Kenji Himura (32)*
+
+### *Baytown, 2052*
+
+The buzzer went off at twenty to three.
+
+It was a washing-machine buzzer, bolted to a sheet of plywood with drywall screws, and in the closed mezzanine it was loud enough to rattle his teeth. Kenji came off the cot with the blanket still in one fist. Below him a chain hit the concrete and slithered.
+
+He found the work lamp on the second try. The console was the thing he had rigged in one weekend: four salvaged monitors stacked two and two, a strip of indicator lamps soldered to perfboard, the buzzer, and a bundle of wire running down through the floor to the controllers. One lamp burned red, and it was the dock door. The three beside it were amber, which meant the sentries were awake and had not yet been asked to do anything.
+
+On the monitors, four men in black rolled under the dock door, flashlights low, one with a pistol along his thigh. He had lain down at midnight meaning to watch, and the nothing had put him under. The warehouse was a sheet-metal shell on a gravel lot east of Houston, rented that spring, with pallets of tire stock along the walls and three long crates standing open by the east wall. In the middle of the floor, under a canvas tarp, sat the real machine, worth more than the building and everything on the road.
+
+Each sentry was a grey frame with a task controller behind its chest plate. The controller had one job: if a man crossed the yellow line Kenji had painted ten feet inside the dock, take him down and bind him without killing him. Kenji had built all three over the winter, and none of them had ever met a living person.
+
+The men did not search. They did not look at the pallets. They crossed the yellow line without looking down, heading for the tarp like men who had been shown a map.
+
+“Worth a hospital,” one muttered. “That’s what he said.”
+
+“You ever meet him?”
+
+“Never. Get the tarp.”
+
+The first sentry moved.
+
+No sound. No warning. It stood in its corner, and then it stood between them and the tarp.
+
+The pistol came up.
+
+A grey hand closed on the wrist. The pistol left the man’s fingers and sat in the sentry’s other palm.
+
+The second man charged. The second sentry turned a shoulder. He went down hard, face to the concrete, and a knee settled in the small of his back.
+
+Kenji’s hand found the stack of monitors. Squared it. Squared it again.
+
+The third sentry took the man at the tarp by both arms. The fourth man bolted for the dock. The first sentry crossed forty feet in four strides and took him by the collar.
+
+Nobody fired. Nobody bled.
+
+Four men lay face down in a row. Cable ties snicked, one, two, three, four.
+
+None of them had reached the tarp.
+
+Then he did the rest from a list. He called the county sheriff on a prepaid phone bought for cash, gave the address and the word *burglary* and nothing more, and put the phone in the drainage ditch behind the lot. The sentries carried the four men out to the loading dock and sat them against the wall, then walked back to their crates and stood in them. He closed the lids and sent the stand-down, and each frame went dark with a small click. Four men would tell a deputy about grey machines, and the deputy would write down *intoxicated*, and by the time the headlights turned onto the gravel the floor held only pallets and a tarp.
+
+He washed his hands at the utility sink in the back, and when they were clean he washed them again.
+
+He was quietly pleased with himself, which was not a feeling he trusted. But under the pleasure lay a debt to a man he had met twice. Last autumn a retired Marine named Dominic Vance had lain in a hospice bed with failing lungs and nothing to pay with but what was in his head, and Kenji had offered the only trade he had. A two-way upload had copied the sergeant’s memories, years, and craft out of him, and the same session had given him his breath back. All winter Kenji had run the sentries through the sergeant’s engagements until they moved as he had moved, and tonight the second sentry had put a man on the floor with the sergeant’s own knee and the sergeant’s own thumb on the pulse at the wrist. Kenji knew both. He had watched them from the inside.
+
+The sentries had worked, but they had worked late. They had stopped four men only after the four men were inside, and no one had warned him the four were coming, and no one was watching the road they came by. A lock tells you about a man only once he is touching it.
+
+He needed eyes beyond the fence. Eyes were people, and people could not be built in a shed over a winter. They had to be found, and he had one name.
+
+He did not trust Vance from acquaintance, having met him only at the treatment and the upload. But the sergeant was the only living man who knew what the machine did, and he had told no one. And Kenji had read his memories closely enough to know how he behaved under fire and how he treated his men.
+
+He lifted the desk phone and dialed from memory.
+
+The line rang.
+
+His hand lay flat on the desk beside the monitors, squared to their edge.
+
+It rang a second time.
+
+It rang a third.
+
+---
+
+## *Act I, 1st Movement · A2 · Gunnery Sergeant Dominic Vance (50 to 59)*
+
+### *Houston and the Gulf coast, 2052 to 2061*
+
+The ledger was a green canvas-bound book from a surplus store, and its first page held no names. Vance had bought it the week after the treatment, out of a habit older than his stripes. It rode in the inside pocket of his coat, and he kept each entry to what he had walked himself.
+
+**October 2052.** He took the call on the porch at three in the morning, where he had slept most nights since the treatment because a porch has a street in front of it. The voice on the line said four men had come through a warehouse dock east of Houston, and the sentries had stopped them only after they were inside. Vance asked where the road ran, and he drove out before light.
+
+He walked the gravel lot from the fence to the dock and found what the machines could not see: a culvert where a car could sit unseen, and a rise across the road where a man with glasses could watch the dock all day. The sentries had held the door well. Nobody had been holding the road. He wrote that down, and then he wrote the first thing he needed, which was people who would stand where he told them.
+
+**March 2053.** The first one he wanted, he already knew. Ashby had been the radio technician in the squad, nineteen years old and the youngest man in it, and he had walked out of the same ambush Vance had. Vance had found him work afterward, and then the hospice had taken them out of each other's lives. Since then the kid had refused to sign against the officer who sent them in, and the army had taken his pension for it.
+
+Vance found him in Duluth, in a back room over a bait shop, repairing radios. Ashby looked up and said "Gunny" quietly, like a man who had not expected to say it again. A mechanic's stethoscope hung around his neck, the earpieces taped where they had cracked. A transformer on the wall had started to hum, and he tilted his head toward it, went still, and pulled its plug.
+
+Vance told him what the work was: machines that must not fail and could not be explained. The kid asked one question, which was whether he could write down a fault nobody wanted to hear about. Vance told him that was the job.
+
+Teodor Ashby came off the real machine in the Baytown warehouse in April with his knee and his lungs mended and his stethoscope back around his neck. By the end of the week he had put it to every servo on all three sentries.
+
+**June 2053.** Galveston opened on a Tuesday, and from the first morning a person stood at each door. There were no robots among them, because a public clinic could show the world nothing it could not have built itself, and the sentries stayed in the warehouse. A person can read a stranger and speak to a deputy, which a sentry cannot. Vance had no one trained yet, so he used the people he had, and only one of them, Ashby, had ever been a soldier.
+
+The others were a retired insurance analyst, a fixer who had smoothed trouble for men he disliked, and a locksmith who could not stop looking at every lock in the building. All of them owed their lives to the machine in the back, and he taught them what he knew in the clinic's staff room: where to stand, which way a door opened, what a man looked like before he did something.
+
+By autumn the doors had gone to operatives he had trained for them, and he had moved each of the other three to the work they did best. The analyst took the shell companies and the ledgers behind them, which he read as easily as Vance read ground. The fixer took the city offices and the vendors, so trouble that would have reached the doors reached his phone instead. The locksmith took the doors themselves, every lock and hinge and key in the building, and told Vance more about its weak points than any walk of his had. Ashby went back to the sentries in Baytown. Twice that summer he wrote up a servo that sounded wrong a week before it failed, and Vance read both notes standing in the warehouse.
+
+The sentries were a stopgap for him too. A man who hears a fault early is wasted on three machines, but they were the only machines there were. The car park was the open side, and the city owned the lamps, so Vance wrote it down and let it go. At night he drove out to the warehouse to watch the sentries drill. They moved the way his point man used to move, and he had not expected to see that again.
+
+**August 2056.** The fixer heard it first, from a cleaner at a rival hospital: a chain wanted one of the clinics shut, and had hired men to ask about its corridors. Vance put two operatives in the corridor the evening before, with one order each, which was to stand there and say nothing. The facilities chief, a big man who watched everyone's hands, looked them over and asked no questions, and Vance liked him for it. The chain's men came the next night and left without what they wanted.
+
+**April 2057.** The clinics reached other countries, each under its own shell company, and each shell needed a manager. He found them in the wards, dying professionals who had run offices and shipping lines and hospitals, and who owed their years to the machine. They took the managers' seats and learned only what each seat required. Vance trained operatives for every new site and walked the ground of each himself, because a clinic in another country was a door he could not see from home.
+
+**May 2058.** Kenji married Hannah Shepard, and Vance was asked to come as a guest. He took the back door and the car park instead, because from there he could see the whole room and every way into it. One side of the hall was empty, and he wrote that down, since an empty side of a room says something about the people who should have filled it. Then he went out to walk the car park again.
+
+**February 2061.** A Primitive-model Med-Pod went missing from a clinic outside Tulsa in a single night. The doors had stayed locked, and the night guard's log showed nothing crossing the floor. Ashby read the alarm panel's record and put in writing that it had stayed silent in the wrong way. The unit had left on a transfer order with the regional manager's signature, and the manager swore he had signed nothing.
+
+Vance followed the order to a shell company, then to another shell, and then to a desk that did not exist. The analyst, who kept the books on those shells, found each link in a day. Vance could hold any ground he could walk, but this had been taken across a table, with paper. He told Kenji that guards and locked doors would not stop it, and Kenji asked what he needed. He did not yet know.
+
+**October 2061.** He needed someone who read paper the way he read ground, and his own people did not. The analyst could follow a trail but could not see what a document left out. The Tulsa paper had crossed three borders on its way to nowhere, so he had the network pull the staff files of every ministry that licensed a clinic, in every country the clinics stood in, and he read them for weeks.
+
+One paper was better than the rest. It was an analysis of the Ankara tariff schedules, and it was the only one that said what the schedules left out. The author was Maya Brooks, an analyst in Marseille, and he had been looking for someone strong enough to find the hand behind the paper, but her file ended in the spring with a leave of absence and a hospital ward. She was dying.
+
+He sat a while with the file open. Then he turned back to the first page of the green book, the one that had held no names, and wrote hers.

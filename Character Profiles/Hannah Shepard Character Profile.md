@@ -4,7 +4,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 ## Part A. Who she is
 
-1. **Name.** Hannah Shepard. Her family and her husband call her "Hannah." Her father called her "Darling" and she answered to it only from him. She dislikes "Empress," the title she carries from 2125, because it describes where she stands and not what she does. **(decision)**
+1. **Name.** Hannah Shepard. Her family and her husband call her "Hannah." Her father called her "Darling" and she answered to it only from him. She calls her parents "Mom" and "Dad," and never uses their first names, even as an adult. She dislikes "Empress," the title she carries from 2125, because it describes where she stands and not what she does. **(decision)**
 2. **Birth year.** 2031. She is twenty-two when her father is cured and when she refuses the knowledge upload. Her age matters because she outlives nearly everyone she grows up with. She is a hundred and forty-four in 2175, and she still looks and moves like a woman in her prime.
 3. **Region of origin.** Galveston, Texas, a shipyard district of cranes, hurricane shutters, and families who have worked the same docks for generations. Everyone in her street knew everyone else's wages and everyone else's illnesses.
 4. **Languages.** English with a Gulf Coast Texas accent that flattens over the decades and comes back when she is tired or angry. She picked up working Spanish from the yard crews as a girl and uses it to calm frightened people. **(decision)**

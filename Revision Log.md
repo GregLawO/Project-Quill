@@ -270,6 +270,13 @@ Applied Revision_Proposal_and_Related_Fixes.md to the files it touches: The_Legi
 - **Inference made without asking:** the reader-expectation test, and the emphasis on chapter closes.
 - **Applied.** The A1.1 beat is worded this way in Act_I_Outline.md and the Movement 1 outline.
 
+### Revision: reader flow
+
+- **New Writing Rule (author ruling).** Never use words or structure that make a reader pause. A sentence is read once and understood. Added to Overview.md (Writing Rules), the style file (Part 5), and the Drafting Checklist (Style draft checks).
+- **Prompted by.** A2.3's sentry paragraph, which described the task controller in figures ("as dumb as a hammer," "hold one job and hold it well") and ended on an aphorism. It was rewritten to state what the controller does.
+- **Inferences made without asking:** the rule covers narration in both gears and not the excerpt text; the hook rule is unaffected; atmosphere and deduction stay allowed when stated plainly; a character may withhold in dialogue if the sentence itself is clear.
+- **Noticed, not changed.** Two lines in A2.3 still use the older figurative habit ("A lock tells you about a man only once he is touching it" and "The sentries had worked, but they had worked late"), and A2.2 has not been checked against the rule.
+
 ## Human_Characters.md
 
 ### Revision: chapter POVs
