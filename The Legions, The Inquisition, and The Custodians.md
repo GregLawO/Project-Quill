@@ -8,6 +8,7 @@
 - The Legion stands outside the four grades. Only its top leadership belongs to the cadre. Every Legionnaire receives the Primaris Process, and its conditioning layer makes betrayal unthinkable, including under duress. All Legionnaires are therefore conditioned. Rank-and-file Legionnaires receive Primaris at half strength (1/2), and Legion officers and NCOs at three quarters (3/4) (author ruling, see Section 10D). (inference) Aspirants and acolytes have not yet received the Primaris Process, so they are unconditioned and know only what an applicant would.
 - All ten Legions are established before the war begins in 2125, each with a single Chapter of 10,000 at first, and all ten fight in the war from the start (author ruling). They fill toward 100,000 each over the following years. The 1st Legion alone garrisons Adamant itself, and Legions 4 and 7 to 9 garrison the other four Adamant Systems (see Section 6B and Section 9A).
 - **Fortress and Redoubt systems are garrisons only** (author ruling). No Legion has its homeworld or a chapter world in one (see Section 9C).
+- **The Custodian Legion is not one of the ten Legions** (author ruling, 1 November 2026). The Custodians may be called the Custodian Legion, but the name does not make them an eleventh Legion. The ten-Legion total, the 1,000,000 Legionnaires, and the Legion Master count of ten in this section are unchanged. The Custodians are a separate body of 100,000, and their Legion Master is a separate post (see Section 10A).
 - The cadre and the guard among his servants are the seeds of the Inquisition and the Custodians (see Section 4 and Section 10A).
 
 ### Composition
@@ -24,6 +25,7 @@
 **Ranks, lowest to highest:** Sergeant, Lieutenant, Captain, Chapter Master or Lord Commander, Legion Master.
 
 - Chapter Master and Lord Commander are the same rank with two titles.
+- This table covers the ten Legions only. The Custodian Legion is not a unit in it and is not counted in the full force of 1,000,000.
 
 ### Derived Numbers
 
@@ -57,7 +59,7 @@ All Legions are Primaris and conditioned from their first upload and fly Mark II
 - Only the 1st Legion reaches full strength of 100,000 by 2160. All ten Legions are complete at full strength by 2175 (author ruling).
 - The Redoubt Worlds are garrisoned by Legion detachments and the Guard, and no Legion is based there. (open) Which detachments.
 - (open) How the Legions, which start small, conquer every polity in twenty-five years, and what the Navy, the robots, and Dumb AI do in the war.
-- (open) Legion Masters' names, Chapter designations, and where Legions 2, 3, 5, and 6 are stationed.
+- (open) The names of the ten Legion Masters, Chapter designations, and where Legions 2, 3, 5, and 6 are stationed. The Custodian Legion's Legion Master is already set (Section 10A) and is not one of the ten.
 
 ### Garrisons (author ruling)
 
@@ -196,6 +198,9 @@ Each Legion has one homeworld and ten chapter worlds, one per Chapter. They supp
 - The guard receive the first Primaris Process ever performed and seed the Custodians, who grow to **100,000** (author ruling, replacing 1,000). They are full Primaris, fully conditioned, and Tier 4 to 6 biotics, with the increased height and build (see Section 10D).
 - Their role is Guardians of the Imperial Palace and the Imperial Family, and they are the only Primaris-types who wear Custodian-type armor.
 - Their ships, and the Imperial Family's ships, carry Mark V gravitic drives and Level Five warp drives (author ruling).
+- **The Custodian Legion (author ruling, 1 November 2026).** The Custodians may be called the Custodian Legion, but it is not one of the ten Legions (see Section 9). It has its own Legion Master, a post in addition to the ten Legion Masters of the Legions. The ten-Legion rule stands.
+- **Its Legion Master is the marine** (author ruling): Gunnery Sergeant Dominic Vance, USMC, retired (placeholder name and rank, decision). He is the first member of Kenji's secret network and its first leader, scouts and recruits Brooks, becomes Kenji's personal guard once Brooks takes over the network, and later becomes Legion Master of the Custodian Legion. He is not conditioned in the early years. He receives the conditioning layer with the Primaris Process when he joins the guard (decision), which is how he becomes one of the first to be made a Custodian.
+- (open) Whether the Custodian Legion uses the Legion unit table in Section 9, since 10 Chapters of 10,000 would match its 100,000. (open) Whether its ranks and titles differ from the Legions'. (open) The Legion Master's biotic tier. (open) The date the Custodians reach 100,000.
 - The author will cover the Imperial Family and the Palace later.
 
 ### Armor split
