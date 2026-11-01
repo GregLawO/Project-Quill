@@ -35,7 +35,7 @@
 **30. Dominic Vance.** Gunnery Sergeant Dominic Vance, USMC, retired (name and rank are placeholders), is a locked recurring OC and member of the main cast. Facts his profile lacks:
 - In Act I he carries POV in A2.4 (2052 to 2061) and A3.1 (2062) only, and his A3.1 must match every gesture of the published A1.5.
 - Kenji uses the copy of his memories to create and hone the security droids' combat abilities, and the droids' routines are the only place it lives. This supersedes "knowledge upload never spreads" for this case only.
-- He is the first member of the secret network (founded at the end of A2.3, 2052) and its first leader. He scouts Brooks, recruits her, and brings her to Kenji. When Brooks takes over the network he becomes Kenji's personal guard, and later Legion Master of the Custodian Legion.
+- He is the first member of the secret network (founded at the end of A2.3, 2052) and its first leader. He scouts Brooks, recruits her, and brings her to Kenji. When Brooks takes over the network he becomes Kenji's personal guard, and later Lord Commander of the Custodian Legion.
 
 **31. Robots first, operatives second.** From 2052 the private sites are guarded by Level 2 robot sentries under Level 1 Dumb AI task controllers. No human operative exists before the network does, and none appears in a chapter dated earlier. Operatives carry no POV, apart from Vance, who is main cast and not an operative in this sense.
 
