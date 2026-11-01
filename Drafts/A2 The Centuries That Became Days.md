@@ -10,42 +10,40 @@
 
 ### *Texas City, 2050*
 
-The lathe had just stopped, though Kenji couldn't for the life of him remember turning it off. A bar of tool steel sat between the centers, tapered in a way he hadn't intended, still warm beneath his palm and giving off the sharp scent of hot iron and cutting oil. He turned it over twice. Nothing was wrong with it, which was the part that kept creeping him out.
+The lathe had stopped, and Kenji could not remember switching it off. A bar of tool steel sat between the centers, cut to a taper he had not planned, still warm under his palm and smelling of hot iron and cutting oil. He turned it over twice and found nothing wrong with it, which was the part that never stopped being strange.
 
-He had rented the rear bay of the tire shop back in the spring, paying the owner in cash with no questions asked as long as the envelope arrived on the first of the month. The lathe itself was an old yard castoff with a cracked bed, hauled in piece by piece on a borrowed trolley and trued by hand over six weekends. Next to it sat a surface plate he had lapped flat, a vise bolted to a sturdy timber he had leveled himself, and a pegboard of gauges lined up in the exact order he had fabricated them. When the rolling door was cracked, you could smell the ship channel—brine and diesel mixed with stale rubber and motor oil.
+The rear bay of the tire shop had been his since spring, rented for cash from an owner who asked nothing as long as the rent came on the first. The lathe was a scrapped yard unit with a cracked bed, hauled here in pieces on a borrowed trolley and scraped true by hand over six weekends. Beside it stood a surface plate he had lapped flat, a vise bolted to a beam he had checked with a level, and a pegboard of gauges hung in the order he had made them. Through the roller door came the smell of the ship channel, brine and diesel, laid over rubber and oil.
 
-Seven months had gone by since the pencil incident, and he still remembered that morning in jagged, disjointed pieces. A line that seemed to finish itself. A stranger's hands, a stranger's reflection in the glass, and a bowl of cold rice he had eaten down to the final grain simply because that was just how he ate now. For the first week, he had tested his own body the way a man tests the thickness of frozen pond ice—one cautious step at a time, asking his hands to do things he had never practiced. Every single time, they had delivered without hesitation.
+Seven months had passed since the pencil, and he still thought of that morning in pieces. The line that finished itself. The stranger's hands, the stranger's face in the mirror, the cold rice he had eaten to the last grain because that was how he ate. He had spent the week after testing the body the way a man tests ice, one careful step at a time, asking the hands for things he had never learned, and the hands had answered every time.
 
-By the end of that week, he quit testing. The hands didn't make mistakes. But he didn't write anything down either; a man keeping a diary about this sort of thing was begging to be found out, and there was no one to tell anyway. No one would believe him, and anyone who actually bought the story would spell trouble.
+By the end of that week he had stopped testing, because the hands had never once been wrong. He wrote nothing down. A man who kept notes on a thing like this was a man who could be read, and there was no one to tell, since no one would believe him and anyone who took an interest would be worse.
 
-So he took the Thursday shift. The foreman's offer had slid under his door on that very first morning—three quiet raps—and hearing his own name called had felt like a dead weight in his chest. Still, a man hiding out in his apartment is a man who draws suspicion. The crew just called him Himura, and eventually they stopped talking much at all. He let them. The shift work paid the rent on the bay, week by week.
+He had taken the Thursday shift. The foreman's offer had come through his door that first morning, three patient raps, and being asked for by name had sat badly in his chest, but a man who stayed in his flat was a man who got noticed. The crew called him Himura and then quiet, and he let them. The yard paid for the bay one shift at a time.
 
-Without really thinking about it, his hands went back to the steel bar, and he just let them work. They squared it in the chuck, set the tool, and started the next pass while his mind drifted back over the last few months. That was how the whole workbench had come together, really. He would sit down intending to think, and an hour later, a precision gauge would be sitting where the hour used to be.
+His hands were already back at the bar, and he let them go. They squared it in the chuck, set the tool, and began the next pass while his mind wandered back over the months, which was how most of the bench had been built. He did not decide, as a rule. He sat down meaning to think, and an hour later there was a gauge where the hour had been.
 
-He looked at the bench the way he looked at everything else: by its function, by what it was building toward. The surface plate existed to keep the lathe honest. The lathe existed to cut gauges. The gauges existed to make finer tools, each one a fraction truer than the last, leading step-by-step toward something none of them were capable of building yet. The whole setup was a ladder, and he had been climbing it for seven months without ever once checking the view from above.
+He read the bench the way he read everything, by what each piece was for and what it would be used for next. The surface plate existed to check the lathe. The lathe existed to cut the gauges, and the gauges existed to cut finer tools, each a little truer than the last, each one step nearer to something none of them could make yet. The whole bench was a ladder, and he had been climbing it for seven months without once looking up.
 
-Until now.
+He looked up. The sheet from that first morning hung over the vise, pinned at the corners and browned by the bay's damp, the cradle and the tank drawn in a draftsman's fine line. Tonight the work lamp had slipped on its arm and thrown its light across the paper at a low angle. Down the left edge, where he had always taken the ruling for a border, the ruling had a texture, small and regular, like writing.
 
-The original sheet from that first morning was pinned above the vise, its edges curled and yellowed by the damp bay air. It showed the cradle and the tank, drawn in clean, draftsman-grade lines. Tonight, though, the work lamp had slipped on its mount, casting a low-angle glare straight across the paper. Down the left margin, where he had always assumed was just a decorative border, the line turned out to have a strange texture. Small, regular. Like writing.
+He stepped closer.
 
-He leaned in closer.
+The ruling was not ruling.
 
-It wasn't a border at all.
-
-It was a column of tiny capital letters, running just a hand's width from the edge, written in the exact same squared-off hand as the signature at the top.
+It was a column of small capitals, a hand's width from the edge, in the same square hand as the name.
 
 *Surface plate. Lathe, scraped true. Bench vise. Gauge set. Taper reamers.*
 
-He dragged a finger down the list.
+He ran a finger down it.
 
-The finger stopped right at the line the steel bar in the chuck was scheduled to finish tonight.
+The finger stopped at the line the bar in the chuck would finish tonight.
 
-Everything above that mark was already done.
+Every line above it was done.
 
-For seven months, he had convinced himself he was just winging it, improvising as he went.
+Seven months he had called it improvising.
 
-He reached up, smoothed the sheet against its pin, and checked it again.
+He squared the sheet on its pin. Squared it again.
 
-And right underneath tonight's line was one final entry.
+Under tonight's line, there was one more.
 
-It was the word waiting at the very head of the page.
+It was the word at the head of the sheet.
