@@ -64,11 +64,17 @@ The machine could not leave the room.
 
 Something had to, though. A cure that no one saw cured no one, and a man who sat on a miracle in a tire shop was a man waiting to be found. He pulled a stool to the bench, and the hands began a second, cruder design before he had decided to draw it.
 
-The new model mended and did not renew. It would set a bone, clear a growth, and close a failing organ, but it would not give anyone back their years. Every part could be bought, ground, or wound by a good shop with a decade to spare. The question he put to each part was the only one that mattered: could the world have made this without him?
+The new model mended and did not renew. Every part could be bought, ground, or wound by a good shop with a decade to spare. The question he put to each part was the only one that mattered: could the world have made this without him?
 
 He ruled a clean sheet into two columns and pinned it above the vise, beside the old one. He headed the left column Primitive and the right Level Two, wrote the cruder machine under the first and the true one under the second, and drew a line beneath both. Under the line he wrote a single rule. What leaves the room must be something the world could have invented without him, or the question of who built it will have an answer.
 
-By October a medical-equipment distributor in Houston had watched the cruder unit knit a deckhand’s forearm in forty minutes, and wanted the rights. The distributor’s lawyer arrived a day early to settle terms. Kenji checked the clock, then the padlock on the roller door, and took him through to the front office. They sat among the tire racks, and the lawyer set a folder on the desk and uncapped a pen.
+By October a medical-equipment distributor in Houston had set up a demonstration in its own loading bay. The cruder unit sat on a pallet under the sodium lights with a deckhand’s broken forearm in its cradle, and the distributor’s man watched the clock for forty minutes. When the lid lifted, the deckhand flexed his fingers and swore softly in wonder.
+
+“Could it take ten years off a man?” the distributor’s man asked. “I have clients who would pay more for that than for a new hip.”
+
+“No. It mends what is broken, and it stops there,” Kenji said. “Sell it as exactly that, and it will be worth more to you for being honest.”
+
+The man smiled the way a man smiles at a price, and wanted the rights. The distributor’s lawyer arrived a day early to settle terms. Kenji took him through to the front office, where they sat among the tire racks and the lawyer uncapped a pen.
 
 “Before my client commits a dollar, I need the owner of the design,” he said. “Whoever it is signs the license, and whoever it is takes the liability if a patient sues. Give me the name and I’ll have it drafted by Friday.”
 
@@ -114,7 +120,7 @@ It was a washing-machine buzzer, bolted to a sheet of plywood with drywall screw
 
 He found the work lamp on the second try. The console was the thing he had rigged in one weekend: four salvaged monitors stacked two and two, a strip of indicator lamps soldered to perfboard, the buzzer, and a bundle of wire running down through the floor to the controllers. One lamp burned red, and it was the dock door. The three beside it were amber, which meant the sentries were awake and had not yet been asked to do anything.
 
-On the monitors, four men in black rolled under the dock door, flashlights low, one with a pistol along his thigh. He had lain down at midnight meaning to watch, and the nothing had put him under. The warehouse was a sheet-metal shell on a gravel lot east of Houston, rented that spring, with pallets of tire stock along the walls and three long crates standing open by the east wall. In the middle of the floor, under a canvas tarp, sat the real machine, worth more than the building and everything on the road.
+On the monitors, four men in black rolled under the dock door, flashlights low, one with a pistol along his thigh. The warehouse was a sheet-metal shell on a gravel lot east of Houston, rented that spring, with pallets of tire stock along the walls and three long crates standing open by the east wall. In the middle of the floor, under a canvas tarp, sat the real machine, worth more than the building and everything on the road.
 
 Each sentry was a grey frame with a task controller behind its chest plate. The controller had one job: if a man crossed the yellow line Kenji had painted ten feet inside the dock, take him down and bind him without killing him. Kenji had built all three over the winter, and none of them had ever met a living person.
 
@@ -150,7 +156,15 @@ Then he did the rest from a list. He called the county sheriff on a prepaid phon
 
 He washed his hands at the utility sink in the back, and when they were clean he washed them again.
 
-He was quietly pleased with himself, which was not a feeling he trusted. But under the pleasure lay a debt to a man he had met twice. Last autumn a retired Marine named Dominic Vance had lain in a hospice bed with failing lungs and nothing to pay with but what was in his head, and Kenji had offered the only trade he had. A two-way upload had copied the sergeant’s memories, years, and craft out of him, and the same session had given him his breath back. All winter Kenji had run the sentries through the sergeant’s engagements until they moved as he had moved, and tonight the second sentry had put a man on the floor with the sergeant’s own knee and the sergeant’s own thumb on the pulse at the wrist. Kenji knew both. He had watched them from the inside.
+He was quietly pleased with himself, which was not a feeling he trusted. But under the pleasure lay a debt to a man he had met twice. Last autumn, in a hospice room that smelled of bleach, a retired Marine named Dominic Vance had lain with failing lungs and a nurse’s card taped above the bed.
+
+“I’ve got nothing to pay you with,” Vance had said, one breath at a time. “Whatever you’re selling, it would be what’s in my head.”
+
+“That’s all I’m asking for,” Kenji had said. “I would copy it out and give you your breath back in the same hour. I can’t tell you what I would do with it.”
+
+Vance had studied the ceiling a while. “Do it,” he said. “I’ve got nothing else anyone would take.”
+
+All winter Kenji had run the sentries through the sergeant’s engagements until they moved as he had moved, and tonight the second sentry had put a man on the floor with the sergeant’s own knee and the sergeant’s own thumb on the pulse at the wrist. Kenji knew both. He had watched them from the inside.
 
 The sentries had worked, but they had worked late. They had stopped four men only after the four men were inside, and no one had warned him the four were coming, and no one was watching the road they came by. A lock tells you about a man only once he is touching it.
 
@@ -176,7 +190,13 @@ It rang a third.
 
 The ledger was a green canvas-bound book from a surplus store, and its first page held no names. Vance had bought it the week after the treatment, out of a habit older than his stripes. It rode in the inside pocket of his coat, and he kept each entry to what he had walked himself.
 
-**October 2052.** He took the call on the porch at three in the morning, where he had slept most nights since the treatment because a porch has a street in front of it. The voice on the line said four men had come through a warehouse dock east of Houston, and the sentries had stopped them only after they were inside. Vance asked where the road ran, and he drove out before light.
+**October 2052.** The phone rang on the porch well before dawn, where he had slept most nights since the treatment because a porch has a street in front of it. "Sergeant Vance, it's Kenji Himura," said a level voice. "A crew came through the dock of my warehouse east of Houston tonight. The sentries stopped them, but only after they were inside."
+
+"Where does the road run?" Vance asked. "Not the one on the map. The one they came in by, because that's the one nobody was watching."
+
+"I don't know. That's why I called you."
+
+"Then I'll walk the ground," Vance said, and he drove out before light.
 
 He walked the gravel lot from the fence to the dock and found what the machines could not see: a culvert where a car could sit unseen, and a rise across the road where a man with glasses could watch the dock all day. The sentries had held the door well. Nobody had been holding the road. He wrote that down, and then he wrote the first thing he needed, which was people who would stand where he told them.
 
@@ -184,7 +204,11 @@ He walked the gravel lot from the fence to the dock and found what the machines 
 
 Vance found him in Duluth, in a back room over a bait shop, repairing radios. Ashby looked up and said "Gunny" quietly, like a man who had not expected to say it again. A mechanic's stethoscope hung around his neck, the earpieces taped where they had cracked. A transformer on the wall had started to hum, and he tilted his head toward it, went still, and pulled its plug.
 
-Vance told him what the work was: machines that must not fail and could not be explained. The kid asked one question, which was whether he could write down a fault nobody wanted to hear about. Vance told him that was the job.
+"The work is machines that mustn't fail and can't be explained," Vance said. "I need someone who'll tell me when one's about to."
+
+The kid turned the taped stethoscope over in his hands. "Can I write down a fault nobody wants to hear about?"
+
+"That's the whole job. Write it down, and bring it to me first."
 
 Teodor Ashby came off the real machine in the Baytown warehouse in April with his knee and his lungs mended and his stethoscope back around his neck. By the end of the week he had put it to every servo on all three sentries.
 
@@ -200,7 +224,11 @@ The sentries were a stopgap for him too. A man who hears a fault early is wasted
 
 **February 2061.** A Primitive-model Med-Pod went missing from a clinic outside Tulsa in a single night. The doors had stayed locked, and the night guard's log showed nothing crossing the floor. Ashby read the alarm panel's record and put in writing that it had stayed silent in the wrong way. The unit had left on a transfer order with the regional manager's signature, and the manager swore he had signed nothing.
 
-Vance followed the order to a shell company, then to another shell, and then to a desk that did not exist. The analyst, who kept the books on those shells, found each link in a day. Vance could hold any ground he could walk, but this had been taken across a table, with paper. He told Kenji that guards and locked doors would not stop it, and Kenji asked what he needed. He did not yet know.
+Vance followed the order to a shell company, then to another shell, and then to a desk that did not exist. The analyst, who kept the books on those shells, found each link in a day. "Guards and locked doors won't stop this," he told Kenji. "I can hold a door against a man, but this came across a table, on paper, and I can't hold a door against a signature."
+
+"What do you need?" Kenji asked.
+
+"I don't know yet. When I do, you'll hear it from me first."
 
 **October 2061.** He needed someone who read paper the way he read ground, and his own people did not. The analyst could follow a trail but could not see what a document left out. The Tulsa paper had crossed three borders on its way to nowhere, so he had the network pull the staff files of every ministry that licensed a clinic, in every country the clinics stood in, and he read them for weeks.
 
