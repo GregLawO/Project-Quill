@@ -34,7 +34,7 @@ It wasn't a border at all.
 
 It was a column of tiny capital letters, running just a hand's width from the edge, written in the exact same squared-off hand as the signature at the top.
 
-Surface plate. Lathe, scraped true. Bench vise. Gauge set. Taper reamers.
+*Surface plate. Lathe, scraped true. Bench vise. Gauge set. Taper reamers.*
 
 He dragged a finger down the list.
 
