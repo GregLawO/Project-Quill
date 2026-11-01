@@ -34,7 +34,7 @@ He allows the following technologies to spread, up to the limits shown.
 | --- | --- | --- |
 | Anti-Gravity | Primitive | Lifts heavy loads over short ranges at high power cost. |
 | Warp | Primitive before the Imperium. Under the Imperium, civilian haulers up to Level One and civilian passenger ships up to Level Two | Primitive is 1 ly/day, Level One 31.25, Level Two 62.5 (Ships.md, Section 7). Haulers of 5 km and longer are Crown assets and stay outside the civilian grade. |
-| Med-Pod | Primitive | Rejuvenation and longevity treatments are available, and rare diseases can be treated. |
+| Med-Pod | Primitive | Cures disease and injury, and rare diseases can be treated, but it does not renew the body (author ruling, 1 November 2026). Rejuvenation and longevity treatment is private (Level 2) only. |
 | Lasgun and Bolter | Primitive | Reliable but of low quality. |
 | Energy Dissipation | Primitive | A thin, partial shield with a heavy power draw and short duration. |
 | Energy Generation | Functional tokamak fusion reactor | The Palladium Arc Reactor stays private. |
@@ -80,7 +80,7 @@ Kenji starts the tier system in A2.2 (2051): a two-column sheet pinned above his
 
 - No public robot guards anything. Private sites are guarded by Level 2 sentry robots, with human operatives beside them once the secret network exists (founded 2052).
 - (open) Med-Pod and Anti-Gravity have no tier tables in this file. The L1 and L2 levels above are decisions. Gundarium Beta is shown only in A2.10.
-- (open) A2.2 describes the Primitive Med-Pod as one that "cures but does not renew," while the Med-Pod row in the table above says rejuvenation and longevity treatments are available at Primitive. One of the two needs to change.
+- **Primitive Med-Pod (author ruling, 1 November 2026).** The Primitive grade "cures but does not renew," as in A2.2. The Med-Pod row in the table above was changed to match. Longevity treatment, such as Manswell's in B3, comes only from the private Level 2 grade.
 - (open) The A3 robot crews build a district in a season, which is Robotics Level 3. Treat them as private Level 2 units working in teams under Level 1 Dumb AI site controllers until the author sets when Level 3 appears.
 
 ### Cloning tiers
