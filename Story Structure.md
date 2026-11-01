@@ -9,8 +9,8 @@
 - **Chapters and micro-chapters (author ruling, revised).** Each chapter is built on an excerpt and made of single-POV micro-chapters from varied walks of life. A1 is published at 5 micro-chapters. A2 has 20, released as four batches of 5, and A3 has 10, released as two. From A4 on every chapter has 10 micro-chapters, released 5 at a time, ordered by date inside the chapter, except C6, which stays at 5. A4 to B4 are cast at 10. C1 to G5 carry their original casts (5 each, D to F carry 7 to 9) and are extended to 10 each when drafted, apart from C6. The casts are in Excerpt_Bank.md, and the Act I casts as revised are in Act_I_Outline.md. Two deliberate date-order exceptions: A3.1 (2062) leads A3 as a step back to the published A1.5, and A2.4 is told as a ledger from 2052 to 2061 and is ordered by its start date.
 - **Release plan.** Chapters release weekly in batches of five. With A2 at 20 micro-chapters, A3 at 10, and A4 at 10, Act I is 120 micro-chapters and about 24 weekly batches, replacing the earlier 75 chapters and 15 weeks.
 - **Kenji's POV (author ruling, revised).** Kenji Himura carries POV from A2 on. He carries 7 of A2's 20 micro-chapters, none of A3's 10, and 1 of A4's 10, and at most 3 or 4 per 10 micro-chapters in every other chapter. No Kenji POV is dated after 2064 until B1.2, where the realization lands. The excerpts are read from A2 on as an uninformed independent scholar's account that the micro-chapters can contradict. Rules are in Overview.md.
-- **The marine (author ruling).** Gunnery Sergeant Dominic Vance (placeholder name and rank) is a locked recurring OC and member of the main cast. He is the first member and first leader of the secret network, scouts and recruits Brooks, and later guards Kenji and becomes Lord Commander of the Custodian Legion. He carries POV in A2.4 and A3.1 in Act I. Rules are in Overview.md.
-- **Patron seats (author ruling).** Ten patron-built OC seats appear across Movement 2 and later. Their roles are secret from patrons and kept in an author-only file. Patrons cannot influence Kenji, Hannah, her parents, Brooks, the marine, or any character the author has not opened.
+- **Vance (author ruling).** Gunnery Sergeant Dominic Vance (placeholder name and rank) is a locked recurring OC and member of the main cast. He is the first member and first leader of the secret network, scouts and recruits Brooks, and later guards Kenji and becomes Lord Commander of the Custodian Legion. He carries POV in A2.4 and A3.1 in Act I. Rules are in Overview.md.
+- **Patron seats (author ruling).** Ten patron-built OC seats appear across Movement 2 and later. Their roles are secret from patrons and kept in an author-only file. Patrons cannot influence Kenji, Hannah, her parents, Brooks, Vance, or any character the author has not opened.
 - **Draft format (author ruling).** Each chapter draft opens with its excerpt at the very top: the chapter's title only, the text in italics inside quotation marks, and the attribution "— *The Road to the Stars*". Each micro-chapter's byline (act, movement, code, narrator, place, year) and prose follow. The full rule is in Overview.md. An excerpt's description of how the accounts read applies to the in-universe record only, and the micro-chapters carry full emotion.
 - **Style (author ruling).** The Elastic Pace System, revised for serialization, governs every chapter. Endings rotate through five types with no more than two physical events per batch of five, and the strongest hook sits in the fifth chapter of a batch.
 - **D to F expansion.** Chapters_D_to_F_Expansion_and_Recurring_OCs.md added 33 micro-chapters to Parts D to F and ten recurring OCs (Human_Characters.md, Section 8A). Open: Part G has no slots for the follow-ons of Haddad, Hale, and Voss, whether any recurring OC survives into the 2160 first phase, and Reyes's Primaris date.
@@ -48,14 +48,14 @@ The 32 chapters are divided into three acts and six arcs. An act ends on a major
 |---|---|---|
 | Hannah's lost child (2059) and her private dissent | Arcs 1 to 6 | Alexandra's birth (2154) and the Reaper secret she carries from 2170 |
 | The conspiracy against Kenji | From 2051, the first release of his technology, through the 2059 bomb and the 2065 withdrawals, to the 2125 killing, surviving it | Depends on how the story unfolds |
-| The secret network and the marine | From the network's founding in 2052 (A2.3), through the marine's recruitment of Brooks (A1.5, A3.1), to the hidden service, the Inquisition, and the Custodian Legion | The marine as Kenji's guard and Lord Commander of the Custodian Legion |
+| The secret network and Vance | From the network's founding in 2052 (A2.3), through Vance's recruitment of Brooks (A1.5, A3.1), to the hidden service, the Inquisition, and the Custodian Legion | Vance as Kenji's guard and Lord Commander of the Custodian Legion |
 | Kenji's tier system (public and private grades) | From A2.2 through the 2060 technology showcase | The propagation limits in Tech_List.md Section 2A |
 | Brooks against Harper | Starts in arc 3 (2112), runs through arcs 4 to 6 | The G4 file and the Wong broadcast |
 | Zaeed's vengeance and the Legion's debt | Arcs 3 and 4 | The 2133 storming (E3.4), then the yearly reading of the names |
 | Anderson's guilt | Arc 3 (the 2125 killing), arc 4 (Euler) | His role as Commandant in arc 6 |
 | The recurring OCs | Arcs 3 to 5 | Ground-level voices for the Legions, Navy, Guard, Alliance, and colonies |
 
-Arcs 1 and 2 lean on Kenji, Hannah, Brooks, Manswell, Hannah's parents, the marine, and Ashby, because everyone else is born later. Manswell drops out after D1.2, and the cast broadens from there.
+Arcs 1 and 2 lean on Kenji, Hannah, Brooks, Manswell, Hannah's parents, Vance, and Ashby, because everyone else is born later. Manswell drops out after D1.2, and the cast broadens from there.
 
 ## 13. Open Questions
 
@@ -73,9 +73,9 @@ Anything the author has ruled on is not listed. Unsettled items only.
 - **The Imperial Guard.** Size, ranks, drill, and weapon quality.
 - **The Imperial Family and the Palace.** The author covers them later.
 - **Custodian growth.** How they grow from the guard to 100,000.
-- **The Custodian Legion.** The marine's later title is Lord Commander of the Custodian Legion. The Custodian Legion is not one of the ten Legions and its head is not a Legion Master, so the ten-Legion rule stands (author ruling). The Legions file and its Section 10A already carry this.
-- **Memory exchange.** The marine's combat memories passing to Kenji and then into the droids supersedes "knowledge upload never spreads" for this case only. Tech_List.md Section 2A needs a note on it.
-- **The marine.** His final name and rank (placeholders now), and when he receives the Primaris Process and conditioning.
+- **The Custodian Legion.** Vance's later title is Lord Commander of the Custodian Legion. The Custodian Legion is not one of the ten Legions and its head is not a Legion Master, so the ten-Legion rule stands (author ruling). The Legions file and its Section 10A already carry this.
+- **Memory exchange.** Vance's combat memories passing to Kenji and then into the droids supersedes "knowledge upload never spreads" for this case only. Tech_List.md Section 2A needs a note on it.
+- **Vance.** His final name and rank (placeholders now), and when he receives the Primaris Process and conditioning.
 - **Biotics and Primaris.** The Imperial Family's biotic tiers, when Brooks and Bailey were made biotics, the numbers of Guard and Navy elites, officers, and NCOs, and whether Ashley Williams stays rank and file.
 - **The Inquisition.** When its members undergo the altered Primaris Process, and what it has surveilled by 2160.
 - **The Legions.** Legion Masters' names, Chapter designations, where Legions 2, 3, 5, and 6 are stationed, whether a recruited brother can rise to sergeant, aspirant and acolyte training, the 100 chapter worlds, and auxiliary numbers.
@@ -94,7 +94,7 @@ Anything the author has ruled on is not listed. Unsettled items only.
 - **Hannah's firm.** She is a Navy officer in 2053 (A1.1) and runs complex security in 2059 (A1.4). The decision is that she leaves after the 2059 bomb and founds a private firm in 2060, so A2.13 and A2.17 hold.
 - **Date order.** C5 ends on a 2072 chapter after two 2073 chapters, and C7 runs 2075, 2075, 2074, 2074, 2075. Both stay until C is extended.
 - **The voice thinness.** Act I draws 33 of its 120 micro-chapters (28 percent) from generic OC slots, and the count could be eased by trading some for Tom or Ruth.
-- **Dependent files not yet updated.** Excerpt_Bank.md (A2, A3, A4 casts and casting rules), Human_Characters.md (ruling 17, the Kenji entry, a new entry for the marine, and the conspiracy start date in ruling 28), Protagonist_and_Timeline.md (conspiracy start date, the Stage 2 table, and the network's founding in 2052), Tech_List.md Section 2A, the Legions file, and the Revision Log.
+- **Dependent files not yet updated.** Excerpt_Bank.md (A2, A3, A4 casts and casting rules), Human_Characters.md (ruling 17, the Kenji entry, a new entry for Vance, and the conspiracy start date in ruling 28), Protagonist_and_Timeline.md (conspiracy start date, the Stage 2 table, and the network's founding in 2052), Tech_List.md Section 2A, the Legions file, and the Revision Log.
 
 ### Relays, expansion, and the Adamant Systems
 - **The Manswell expedition.** The date of sailing, the ships, the size and name of the settlement, how many people it carries, and how its success is publicized.

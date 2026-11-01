@@ -57,10 +57,10 @@ He allows the following technologies to spread, up to the limits shown.
 
 ### Memory exchange (author ruling, 1 November 2026)
 
-- The marine (Gunnery Sergeant Dominic Vance, USMC, retired; placeholder name) trades his memories, experience, and expertise for treatment. The exchange runs through the Matrix-style upload, in both directions: his memories are copied out, and his lungs and years are given back.
+- Dominic Vance (Gunnery Sergeant, USMC, retired; placeholder name) trades his memories, experience, and expertise for treatment. The exchange runs through the Matrix-style upload, in both directions: his memories are copied out, and his lungs and years are given back.
 - Kenji uses the copy to create and then hone the combat abilities of the automated security droids (Level 2 sentry robots under Level 1 Dumb AI task controllers). The droids' routines are the only place the copy lives.
 - This supersedes "Knowledge Upload: never allowed to spread" for this case only. No character is told where the droids' fighting style comes from.
-- The marine is not conditioned at this stage. He receives the conditioning layer with the Primaris Process when he joins the guard (decision).
+- Vance is not conditioned at this stage. He receives the conditioning layer with the Primaris Process when he joins the guard (decision).
 
 ### Technology by 2060 (decision, pending the author's tier definitions)
 
