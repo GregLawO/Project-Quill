@@ -211,6 +211,7 @@ Vance followed the order to a shell company, then to another shell, and then to 
 One paper was better than the rest. It was an analysis of the Ankara tariff schedules, and it was the only one that said what the schedules left out. The author was Maya Brooks, an analyst in Marseille, and he had been looking for someone strong enough to find the hand behind the paper, but her file ended in the spring with a leave of absence and a hospital ward. She was dying.
 
 He sat a while with the file open. Then he turned back to the first page of the green book, the one that had held no names, and wrote hers.
+
 ---
 
 ## *Act I, 1st Movement · A2 · Kenji Himura (33)*
