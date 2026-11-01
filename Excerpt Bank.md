@@ -2,21 +2,25 @@
 
 **Labels (author ruling).** Parts are the seven groups, A to G. Chapters are A1, A2, A3, and so on (32 in all). Micro-chapters are the single-POV pieces inside a chapter, coded A1.1, A1.2, and so on. Each chapter opens with its excerpt, the quoted passage that is its epigraph and base.
 
-**The excerpts (author ruling).** The excerpt text stays word for word. From Movement 2 (A4 on) it is read as the account of an uninformed independent scholar. The micro-chapters carry what the scholar cannot see, so every excerpt can be incomplete or wrong. The excerpts carry no first-person voice and no sign of who wrote them.
+**The excerpts (author ruling).** The excerpt text stays word for word. From A2 on it is read as the account of an uninformed independent scholar (author ruling, revised 1 November 2026). A1 stands as published. The micro-chapters carry what the scholar cannot see, so every excerpt can be incomplete or wrong. The excerpts carry no first-person voice and no sign of who wrote them.
 
-**Status of the casts.** A1 to A3 are published as written. A4 to B4 (Movement 2) are cast at 10 micro-chapters each, released 5 at a time, with micro-chapters ordered by date inside each chapter. C1 to G5 still carry their original casts of 5 (D to F carry 7 to 9). They will be extended to 10 each when drafted.
+**Status of the casts (revised 1 November 2026).** Only A1 is published and canon, at 5 micro-chapters. A2 (20, four batches of 5) and A3 (10, two batches) go live on 2 November 2026 and were reopened and revised, so they are not canon yet. A4 to B4 (Movement 2) are cast at 10 micro-chapters each, released 5 at a time. Micro-chapters are ordered by date inside each chapter, with two deliberate exceptions: A3.1 (2062) leads A3 as a step back to A1.5, and A2.4 is a ledger from 2052 to 2061 ordered by its start date. C1 to G5 still carry their original casts of 5 (D to F carry 7 to 9), apart from C6, which stays at 5. The others will be extended to 10 each when drafted. Act I as cast is 120 micro-chapters. The codes of the old A2 and A3 micro-chapters shifted: old A2.1 to A2.5 are now A2.16 to A2.20, and the drafted A3 chapters are now A3.3, A3.5, A3.6, A3.8, and A3.10.
 
 ## Casting rules
 
 - A file character carries POV only from age 8, only while alive, and only for what they could see or know. Ages in each cast line follow the story birth year.
-- **Kenji Himura** carries POV from A4 on, at most 3 or 4 per chapter. Before 2065 he does not know it is Mass Effect, and there are no Reaper thoughts. From 2065 the reader sees his thoughts, including the Reapers. No character is told how he knows. His voice is in Overview.md.
-- Before 2072 the characters old enough for POV are Kenji, Hannah, Brooks, Manswell, Tom and Ruth Shepard, and the Author-built **Teodor Ashby** (b. 2030, cadre, oversees the secret network's droid crews, discovers the Mars cavern in B3; a locked character). Found-family servants carry no POV.
-- Generic OC slots stay below 20 percent of Movement 2. In A to C up to two of five are OC. In D to F at most three of the five added slots may be OC. G keeps one. Some OC slots are filled by patron-built characters, whose roles are kept in an author-only file and never here.
+- **Kenji Himura** carries POV from A2 on (author ruling, revised). He carries 7 of A2's 20 micro-chapters (A2.1, A2.2, A2.3, A2.5, A2.10, A2.12, A2.15), none of A3's 10, and 1 of A4's 10. In every other chapter he carries at most 3 or 4 per 10. No Kenji POV is dated after 2064 until B1.2, so the realization lands there. Before 2065 he does not know it is Mass Effect, and there are no Reaper thoughts and no thought that this was once a story he read. He may suspect he has transmigrated. From 2065 the reader sees his thoughts, including the Reapers. No character is told how he knows. His voice is in Overview.md. A1 stands as published, with him unnamed and without POV.
+- **The marine, Gunnery Sergeant Dominic Vance, USMC, retired (placeholder name and rank).** A locked recurring OC and member of the main cast, with a profile of his own. He carries POV in A2.4 (his ledger, 2052 to 2061) and A3.1 (2062) only in Act I. He reads what can be defended and counts nothing. His A3.1 must match every gesture of the published A1.5.
+- Before 2072 the characters old enough for POV are Kenji, Hannah, Brooks, Manswell, Tom and Ruth Shepard, the marine, and the Author-built **Teodor Ashby** (b. 2030, cadre, oversees the secret network's droid crews, first appears in A2.14 in 2063, discovers the Mars cavern in B3; a locked character). Found-family servants and network operatives carry no POV, apart from the marine, who is main cast. Robots are the only site security until the network is founded at the end of A2.3 (2052), and no human operative appears in a chapter dated earlier.
+- Generic OC slots stay below 20 percent of Movement 2 (8 of 50). Movement 1 is exempt from the guide, because its OC voices carry the technology showcase (11 of 35). In C up to two of five are OC. In D to F at most three of the five added slots may be OC. G keeps one. Some OC slots are filled by patron-built characters, whose roles are kept in an author-only file and never here.
 - Hannah argues against empire and Brooks presses the question (D1.4, E1.1, F2.1, F2.2). Kenji's answer is that democracy has had its chance and has lasted poorly beside Rome, whose legacies are far better.
 - The Reaper-war generation appears only in the 2160s and 2170s. The inner circle (Hannah from 2170, Brooks, Alexandra from her twenty-first birthday) is told much later. No one else knows or suspects.
+- The conspiracy against Kenji begins with the release of his technology in 2051 (author ruling). Four probes before 2065 read to every POV as ordinary greed (the break-in in A2.3, the stolen Primitive Med-Pod in A2.4, the clinic shakedown in A2.6, and the "partnership" offer in A4.3). No POV links them before 2065, Brooks logs them as unrelated files, and no document connects them.
 - No in-universe document contains the truth about the 2065 withdrawals, the conspiracy, or the 2125 killing, which appears in documents only as the act of the Russian Federation. POVs may show it where they could know it. No chapter names the conspiracy before Kenji's network discovers it.
 - No human meets an alien, and the Citadel appears nowhere.
 - Recurring OC rules are in Human_Characters.md, Section 8A.
+- Kenji starts the tier system in A2.2 (a Primitive grade for what may leave the room, a higher grade for what stays behind). The Primitive grade must always be one the world could have invented unaided. The public and private levels by 2060 are in Act_I_Outline.md, Section 2.
+- Ending types (P physical event, Q quiet reversal, B held breath, W withheld answer, E emotional beat) follow Act_I_Outline.md. A batch of five has at most two physical events, and its strongest hook sits in the fifth chapter.
 
 **Key.** [I] investigative (600 to 1,000 words), [A] action (400 to 700), [H] hybrid (about 750). Each line ends with the micro-chapter's hook. OC (outlook) is a general-outlook voice, OC (exposition) carries light exposition, OC (action) is an action voice.
 
@@ -37,30 +41,92 @@ The clinics were built around a single apparatus, the Med-Pod. Patients entered 
 
 Then, in the 2060s, ships appeared that could cross to another star in days. The papers of the time give their pace as about a light year a day. Alpha Centauri lies a little over four light years from Sol, so the trip took four days or so. Until that decade no human being had gone beyond the Solar System, and Alpha Centauri had been, for every earlier generation, a destination fit only for the dreams of grandchildren's grandchildren. The chronicles show crowds at the first departures, and governments scrambling to understand what had been placed in their hands.
 
-*Published. Cast: A2.1 Brooks (25), 2063; A2.2 Hannah (33), 2064; A2.3 OC (outlook), 2065; A2.4 OC (exposition), 2065; A2.5 Hannah (35), 2066.*
+**Cast (20), released as four batches of 5, ordered by date. Revised before release (author ruling, 1 November 2026). A2a to A2c are a fixed past with no patron input. Kenji carries 7 (A2.1, A2.2, A2.3, A2.5, A2.10, A2.12, A2.15). No Kenji POV is dated after 2064. Tech levels are public L1 and private L2 (Act_I_Outline.md, Section 2).**
+
+*A2a: the build.*
+
+- **A2.1 · Kenji Himura (30), 2050.** He wakes in a body that is not his, in a flat that is. His hands finish a diagram he does not remember starting. He suspects what has happened and says nothing. No Reaper thought and no past-fiction thought. *[I]* Hook (Q): the diagram has a name at the top, in his own handwriting, that he cannot read yet.
+- **A2.2 · Kenji Himura (31), 2051.** The Med-Pod. He builds a full Level 2 unit in private, reads what it is worth to every government and criminal who hears of it, and builds a cruder Primitive model beside it for the public. He writes the first two-column tier sheet: Primitive for what may leave the room, a higher level for what stays. He opens the first shell under a name invented that morning. *[I]* Hook (B): the pen is over the filing for the Primitive model, and the chapter cuts before he signs. *Tech: Med-Pod.*
+- **A2.3 · Kenji Himura (32), 2052.** A rented warehouse east of Houston, guarded by three Level 2 sentry robots under Level 1 task controllers. A crew of four breaks in for the machine, hired by a broker none of them has met. The robots restrain them without killing anyone, moving as the marine once moved. He decides to build a network, starting with the marine. *[H]* Hook (B): he picks up the phone, and the chapter cuts before the call is answered. *Tech: Robotics L2, Dumb AI L1.*
+- **A2.4 · Gunnery Sergeant Dominic Vance, USMC, retired (placeholder), 2052 to 2061.** The network grows, told as the marine's dated ledger (2052, 2053, 2056, 2058, 2061) and ordered by its start date. He reads ground and cover and counts nothing. A Primitive Med-Pod is stolen from a clinic and cannot be traced. Locked recurring OC and main cast. *[I]* Hook (Q): he opens a file on Brooks, a ministry analyst in Marseille who is dying. *Tech: Robotics L2 with human sentries, Med-Pod L2 wing.*
+- **A2.5 · Kenji Himura (33), 2053.** The same morning as A1.1, from his side. He took the license off the wall because a license names an owner. He slides the blank card under the door. Ten days later Tom and Ruth Shepard come to thank him, and Ruth asks "who are you?" before anyone else does. Tom says "son," and Kenji flinches. *[I]* Hook (E): Tom looks at the tool bench and says he could run the building. *Tech: Med-Pod L1, Med-Pod L2 wing.*
+- **Batch ends on:** a man who wants to stay unnoticed learning that he needs guards and secrecy, and a man who is wanted by the Shepards. **Echo:** the invented name of A2.2 and the "who built it" blank of A2.16.
+
+*A2b: what the clinics and the yards were built from.*
+
+- **A2.6 · Tom Shepard (55), 2056.** Clinic facilities chief. A hospital chain's hired men come to shake the clinic down. Two sentry robots stand dark in the corridor and two operatives he has never seen are already beside them. He notices hands and tools. *[I]* Hook (P): the pipe comes down on the glass, the sentries do not move because the order has not come, and Tom's hand finds the wrench.
+- **A2.7 · OC (exposition), a transplant surgeon, 2057.** Public Med-Pod L1 and tissue cloning have emptied her waiting lists. Want: one last donor kidney sorted before the registry's midnight cutoff. *[I]* Hook (Q): the cloned kidney's tag carries the clinic's name and no maker. *Tech: Cloning L1, Med-Pod L1.*
+- **A2.8 · OC (exposition), a dock rigger, 2057.** A Gulf port. He wears a public L1 exoskeleton and rides an L1 anti-gravity sled beside a fixed robot arm. Want: the container tally cleared before the shift whistle. *[I]* Hook (Q): the sled is rated for two tons, and the new container weighs nothing at all. *Tech: Robotics L1, MIPS L1, Anti-Gravity L1.*
+- **A2.9 · Ruth Shepard (55), 2058.** The wedding with one side of the room empty. She notices who looks after whom, including a sentry unit by the car park and a man at the back door with a Marine's stance watching the room and not the bride. *[I]* Hook (W): she lifts her glass to the empty side of the room, and the man at the back door lifts his in return.
+- **A2.10 · Kenji Himura (40), 2060.** The foundation is complete. In a private Gulf coast plant, Level 2 robots under Level 1 Dumb AI assemble a tokamak core, a data-crystal bank, an exoskeleton frame, and a Gundarium Beta plate in one hall. The two-column sheet from A2.2 is on the wall with nine rows. *[I]* Hook (B): his pen is over the line on the yard lease, and the chapter cuts before he signs. *Tech: Tokamak, Data Crystal, Gundarium, MIPS L2, Dumb AI L2.*
+- **Batch ends on:** a man who wanted a quiet life learning how much work it takes to protect one. **Echo:** the nameless card of A1.1 and A2.5.
+
+*A2c: the yards and the first warp tests.*
+
+- **A2.11 · Tom Shepard (60), 2061.** The first primitive assembly yard, in a drained basin on the Texas coast. Tom is foreman of the human crew, and robot sentries walk the fence. Want: the keel section set before the tide. *[I]* Hook (P): a sled's field stutters and a section drops three feet and stops in the air. *Tech: Anti-Gravity L2, Robotics L2, Dumb AI.*
+- **A2.12 · Kenji Himura (42), 2062.** The marine's file on Brooks, including the 2059 file she was handed, is on his desk. The night of the bomb returns as the blank file he still keeps. He answers A1.5's recruiter question from his side: why a woman who counts is what he needs. *[I]* Hook (Q): he writes "approved," and the marine is sent to make the pitch.
+- **A2.13 · Hannah Shepard (31), 2062.** Her firm guards the Toulouse hangar. A single unmanned frame on a gantry hums and shimmers with no readout she can read. She notices what is missing: no maker's plate, no technician. *[H]* Hook (P): the frame lifts off the gantry, and the hum drops half a tone.
+- **A2.14 · Teodor Ashby (33), 2063.** (Author-built, locked.) He oversees the droid crews on the test range and listens to what machines do wrong. The new drive does nothing wrong. Want: the range log signed before the crews rotate. *[I]* Hook (Q): his instruments hold a perfect silence through the whole flight.
+- **A2.15 · Kenji Himura (43), 2063.** The first unmanned hull flies a measured light year in a day and returns. He writes the log in a plain hand and squares the pages. *[I]* Hook (B): the hull returns, and his hand is over the line that would send the same drive to a customer. *Tech: Primitive warp.*
+- **Batch ends on:** a decision to sell what he built to keep people dreaming. **Echo:** the half-tone drop of A2.13, Hannah's pre-flight note in A2.17.
+
+*A2d: the world meets it (the five chapters drafted before the revision, with the small edits listed in Act_I_Outline.md).*
+
+- **A2.16 · Maya Brooks (25), 2063.** The three forms with the blank line. As drafted. *[I]* Ends Q.
+- **A2.17 · Hannah Shepard (33), 2064.** The checklist and the stutter at midpoint. Adds one line recalling the Toulouse frame of 2062 (A2.13) and keeps the line that nobody could find the technician. As drafted otherwise. *[A]* Ends P.
+- **A2.18 · Emil Varga, 2065.** The Lisbon docks. As drafted. *[I]* Ends E.
+- **A2.19 · Colm Farrady, 2065.** The eleven-month-old firm. As drafted. *[I]* Ends Q.
+- **A2.20 · Hannah Shepard (35), 2066.** The Halyard. As drafted. *[A]* Ends P.
+- **Batch ends on:** a ship that vanished, and no card for it. **Echo:** the blank line that Colm and Brooks both stared at, answered in A2.2 by Kenji's invented name.
 
 ### A3. Cheap Hands and Angry Ones
 
 Within the decade came power that did not depend on fuel markets, machines that could raise a district from raw material in a season, and robots able to do almost any manual task. Each of these threw someone out of work or into debt. The builders met the new machines first with disbelief and then with orders. The labor disputes of the late 2060s are among the best documented events of the age. The strikers were furious about losing their jobs, exactly as people always have been, and the fact that the thing taking their jobs was a robot from nowhere hardly seemed to trouble them.
 
-*Published. Cast: A3.1 OC (outlook), 2067; A3.2 Hannah (36), 2067; A3.3 Brooks (30), 2068; A3.4 OC (exposition), 2068; A3.5 Hannah (38), 2069.*
+**Cast (10), released as two batches of 5, ordered by date. Revised before release (author ruling, 1 November 2026). No Kenji POV, because the chapter is dated after the 2065 realization apart from its first micro-chapter, and a Kenji chapter would spoil B1.2. A3.1 is dated 2062 and leads the chapter as a deliberate step back to A1.5.**
+
+*A3a: the strike.*
+
+- **A3.1 · Gunnery Sergeant Dominic Vance (placeholder), 2062.** Marseille, July. The scene of A1.5 from the recruiter's side, matching every gesture of the published chapter: the gray coat, the quarter-turned chair, the four-second pause. He reads the ward as ground and approves of Brooks counting the exits, counting nothing himself. Her answer, which A1.5 withheld: she asks who is giving the cure away and what it costs the one who gives. A week later he brings her to Kenji, who sits with his back to the wall and squares the folder, and she asks for a window that opens. Want: her signature before the day matron's rounds. *[I]* Hook (Q): Kenji tells the marine that she will run this one day, and the marine understands that he has hired the person who will have his seat, and finds he does not mind.
+- **A3.2 · OC (exposition), a utility engineer, 2066.** A coastal grid station switches to a functional tokamak plant. Want: the switch-over inspection signed before the fuel tanker's berth contract expires. He notices dials and the weight of the breaker handle. *[I]* Hook (Q): the plant's owner line on the inspection form is blank, and the supervisor says it always is. *Tech: Tokamak (public), Data Crystal logs.*
+- **A3.3 · Marek Kowalczyk, 2067.** The march. As drafted. *[I]* Ends P.
+- **A3.4 · OC (exposition), a site operative, 2067.** Night before the march. She walks the Eastgate fence with a Level 2 sentry and finds the roof hatch across the road unlocked. She is told to leave it. Want: the fence log signed before the shift change. *[I]* Hook (W): the sentry's camera has a blind arc over that roof, and she did not know it until now. *Tech: Robotics L2, Dumb AI.*
+- **A3.5 · Hannah Shepard (36), 2067.** The gate. As drafted, with one addition: the robot sentries stand at the yard's inner fence, powered down by standing order, with thirty-one humans on the apron. *[A]* Hook (P): the stone comes from the roof.
+- **Batch ends on:** a stone from a roof that nobody was meant to be on. **Echo:** the blank owner line (A3.2) and the quarter-turned chair of A3.1.
+
+*A3b: what the machines took.*
+
+- **A3.6 · Maya Brooks (30), 2068.** The cream slip. As drafted. The slip's hand is one she has seen once before, in a ward in Marseille. *[I]* Ends Q.
+- **A3.7 · OC (exposition), an anti-gravity rigger, 2068.** The district's last Gundarium Alpha span goes up on a public L1 sled with a robot crew below. Want: the span set before the wind rises. *[I]* Hook (Q): the crew sets the span to a tolerance he cannot measure with his tools. *Tech: Anti-Gravity L1, Gundarium Alpha, Robotics.*
+- **A3.8 · Aurelio Benedetti, 2068.** The stair rail. As drafted. *[I]* Ends Q.
+- **A3.9 · Victor Manswell (53), 2068.** The hulls for his expedition need yards, and the only seller of robot labor offers a price no company can undercut, with no seller to meet. Want: a contract signed before his lender's call. *[I]* Hook (Q): the quoted price is lower than the robots' own cost of metal.
+- **A3.10 · Hannah Shepard (38), 2069.** The blank owner plate. As drafted. *[I]* Hook (W): "I don't know. Not all of it."
+- **Batch ends on:** "I don't know. Not all of it." **Echo:** the bare "Owner" line of the service plate, first met in A3.2.
+- **Held in reserve.** The retraining student (the first graduates hired by the firm that laid off their friends) was cut to keep A3 at 10. It is held for A4 or an extension of A3. The foundation that funds the course stays in Brooks's slip (A3.6) as a loose thread.
 
 ### A4. The Inventor Nobody Could Name
 
 Where did all of this come from? Every history of invention has false starts, rival claimants, patent quarrels, and a famous laboratory or two. This one has none. The firms that sold the ships, the machines, and the clinics were young, and when asked how they had come by their designs they gave vague answers, every time, without exception. People at the time guessed at a recovered foreign program, a private genius, a theft from some government. No named inventor, university, or state laboratory has ever been found, and no evidence supports any of the guesses.
 
-**Cast (10). Release A4a is A4.1 to A4.5, a fixed past with no patron input. Release A4b is A4.6 to A4.10.**
+**Cast (10), released as two batches of 5, ordered by date. A4 loses its former flashback block, whose beats moved to A2 and A3 (the build, the card, the shakedown, the wedding, the recruit). It is now the world's side of the question. Kenji carries 1. No Kenji POV is dated after 2064 until B1.2. Every probe before 2065 reads as ordinary greed.**
 
-- **A4.1 · Kenji Himura (30), 2050.** He wakes with knowledge his hands know before his head does, tests it in private, and chooses to be quiet. *[I]* Hook: His hands finish a diagram he does not remember starting.
-- **A4.2 · Kenji Himura (33), 2053.** The first cure. He writes a card with no name on it for Tom Shepard's daughter and slides it under the Galveston clinic door. This is the other end of A1.1. *[I]* Hook: He is gone before the door opens, and the step is empty behind him.
-- **A4.3 · Ruth Shepard (55), 2058.** She watches her daughter marry a man whose side of the room is empty. She notices who looks after whom. *[I]* Hook: She asks him who he is, and his answer is true and tells her nothing.
-- **A4.4 · Kenji Himura (39), 2059.** The night after the bomb. He hears the oath in the corridor and keeps it. *[I]* Hook: He opens a blank file and puts the date on it.
-- **A4.5 · Kenji Himura (42), 2062.** The hidden service takes shape. He answers the recruiter's question from A1.5 (what would she do with sixty more years?) with the reason he asked it. *[I]* Hook: He tells the recruiter to make the offer.
-- **A4.6 · Maya Brooks (26), 2064.** She drafts the answer every firm will give when asked about its designs: vague, consistent, and never the same words twice. *[I]* Hook: The first press query arrives before the ink is dry.
-- **A4.7 · OC (outlook), 2066.** An investigative journalist chases the inventor through patent offices, university archives, and state laboratories and finds nothing. *[I]* Hook: The one clerk who remembers the filing has been on leave for a year.
-- **A4.8 · Hannah Shepard (35), 2066.** At a dinner she is asked who builds the ships. She gives the answer she was given and watches the questioner decide she is lying. *[I]* Hook: His card names a ministry that does not appear on any chart.
-- **A4.9 · OC (exposition), 2068.** A state analyst follows a money trail through eleven jurisdictions and meets layered holding companies. *[H]* Hook: The last shell is a laundromat with a very good lawyer.
-- **A4.10 · Maya Brooks (30), 2068.** A rival probe gets too close. She ends it with paper only, a forged trail and a transfer, and no one is harmed. *[A]* Hook: The probe's lead thanks her for the tidy file. He has noticed the tidiness.
+*A4a: the world fails to find him.*
+
+- **A4.1 · Maya Brooks (26), 2064.** She drafts the answer every firm will give when asked about its designs: vague, consistent, and never the same words twice. She logs the older incidents as unrelated files, which is all she was handed. *[I]* Hook (Q): the first press query arrives before the ink is dry.
+- **A4.2 · Kenji Himura (44), 2064.** He reads the copies of every answer and sees how well they hold and how little they say. He reads what a name on a lease is for, and tells the managers to keep the answers vague and never repeat them. *[I]* Hook (W): he realizes he has not heard his own name spoken aloud by anyone but Hannah in a month, and he does not mind.
+- **A4.3 · OC (exposition), a state agent, 2064.** He offers "partnership" for equity against a network that now exists, and reads who in the room wants something from whom. Want: the signature before the quarter closes. *[I]* Hook (Q): he is told the owner will sign tomorrow, and learns there is no owner to sign.
+- **A4.4 · OC (outlook), an investigative journalist, 2066.** She chases the inventor through patent offices, university archives, and state laboratories and finds nothing. *[I]* Hook (B): the receiver is lifted at the clerk's old extension, and the chapter cuts before anyone answers.
+- **A4.5 · Hannah Shepard (35), 2066.** At a dinner she is asked who builds the ships. She gives the answer she was given and watches the questioner decide she is lying. *[I]* Hook (W): she is about to ask which ministry the card names, and he is already gone.
+- **Batch ends on:** a world that cannot find a name, and a woman who cannot give one. **Echo:** the blank line of A2.16 and the card of A2.5.
+
+*A4b: the tidiness.*
+
+- **A4.6 · Tom Shepard (66), 2067.** He notices helpful strangers at the clinic: the same man in the corridor on three different nights, and a courier who is never paid in his hearing. He notices hands and tools. *[I]* Hook (Q): the man is at the end of the corridor a fourth night, and he is in no one's visitor log.
+- **A4.7 · Ruth Shepard (64), 2067.** A school board proposal arrives with the wrong signatures and a good lawyer. She notices who looks after whom. *[I]* Hook (E): the lawyer has a daughter at her school, and Ruth knows the girl's name before he says it.
+- **A4.8 · Victor Manswell (52), 2067.** He asks his lawyers who the hull supplier is and is told it is not for sale to anyone who asks. He reads what each party owns. *[I]* Hook (Q): the supplier's address is a post office box paid ten years in advance.
+- **A4.9 · OC (exposition), a state analyst, 2068.** He follows a money trail through eleven jurisdictions and layered holding companies to a laundromat. He notices the weight of the files and the laundromat's coin slots. Want: the trail closed for his agency's filing before the reporting date. *[H]* Hook (P): the door chimes, and the machines inside stop.
+- **A4.10 · Maya Brooks (30), 2068.** A rival probe gets too close. She ends it with paper only, a forged trail and a transfer, and no one is harmed. *[A]* Hook (Q): the probe's lead thanks her for the tidy file. He has noticed the tidiness.
+- **Batch ends on:** being noticed by the one man who sees how clean the work is. **Echo:** the unsigned note of A3.6 and the post office box of A4.8, traced to a laundromat in A4.9.
 
 ---
 

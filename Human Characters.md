@@ -1,102 +1,149 @@
-# Human_Characters.md: Update
+# Human_Characters.md
 
-Drop-in replacements for the sections of Human_Characters.md that the new rulings change. Each block names what it replaces. Everything not listed is unchanged. Decisions that the author left to me are marked (decision).
+**Purpose.** The roster for the whole cast. It holds what no single profile can: story-wide rulings, the age and role-fit tables, relationships and secrets between characters, the POV roster, and full entries for every character who has no profile of their own. Characters with a profile (Kenji, Hannah, Brooks, Manswell, Tom, Vance) get one pointer line here, and the profile governs their voice, habits, appearance, and personal facts. Nothing a profile already says is repeated in this file.
 
-## 1. Rulings (replace the listed items in Section 1)
+**Scope of this copy.** This file integrates the two drop-in updates (the first, and the 1 November 2026 Act I revision) into one standalone document. The original full file is not in the project, so its other rulings (2, 4, 6 to 10, 12 to 14, 16, 18, 22 to 24), the entries for characters not named here (Harper, Anderson, Hackett, Grissom, Zaeed, Udina, and the rest), Section 8A's recurring OCs, and the full Section 10 are not reproduced. Those stay in the original and should be merged in. Decisions that the author left to me are marked (decision).
 
-**1. The Protagonist (ruling, replaces item 1).** His name is **Kenji Himura**, of Japanese descent. His body is thirty in 2050 (born 2020). He marries Hannah in 2058.
+## 1. Rulings
 
-**3. Alexandra's birth (ruling, replaces the second sentence of item 3 and adds the cause).** In 2059, five months pregnant, Hannah survives a bomb at the Galveston clinic complex, but the child she carries is lost. The attack was carried out for the conspiracy (ruling 28). Its aim was to cut Kenji's network off at its central clinic, and the child's death was a cost its planners accepted. No one in the world identifies the attackers, and no one claims it. The oath, the wait, and the 2153 conception stand as written.
+**1. The Protagonist.** His name is **Kenji Himura**, of Japanese descent. His body is thirty in 2050 (born 2020). He marries Hannah in 2058.
 
-**5. The resistance and the conspiracy (ruling, replaces item 5).** Canon's Cerberus does not exist. Harper's black cell is the **Third Hand**, inside the **Charter Front**. The author-side label "Cerberus" belongs to a separate organization, the conspiracy of ruling 28, which has no link to Harper or the Front.
+**3. Alexandra's birth.** In 2059, five months pregnant, Hannah survives a bomb at the Galveston clinic complex, but the child she carries is lost. The attack was carried out for the conspiracy (ruling 28), though it was not the conspiracy's first move, since its first moves date from 2051 and read as ordinary greed. Its aim was to cut Kenji's network off at its central clinic, and the child's death was a cost its planners accepted. No one in the world identifies the attackers, and no one claims it. The oath, the wait, and the 2153 conception stand as written.
 
-**11. Who knows what (ruling, replaces item 11).** Nobody in the story is ever told that Kenji is a transmigrator, and nobody learns where his foresight comes from. The reader learns it from his POV (Overview.md). Hannah learns the enemy's name in 2170 (age 139). Brooks and Alexandra learn it later, as set in the Overview. Until then Kenji gives only his hypothetical: what if what killed the aliens on Mars, or the makers of the alien FTL artifacts, came back hostile?
+**5. The resistance and the conspiracy.** Canon's Cerberus does not exist. Harper's black cell is the **Third Hand**, inside the **Charter Front**. The author-side label "Cerberus" belongs to a separate organization, the conspiracy of ruling 28, which has no link to Harper or the Front.
 
-**15. The framing of 2125 (ruling, replaces item 15).** The public record says the delegates were killed by the Russian Federation. No in-universe document contains evidence of the truth. The truth, which POVs may show:
+**11. Who knows what.** Nobody in the story is ever told that Kenji is a transmigrator, and nobody learns where his foresight comes from. The reader learns it from his POV (Overview.md). Hannah learns the enemy's name in 2170 (age 139). Brooks and Alexandra learn it later, as set in the Overview. Until then Kenji gives only his hypothetical: what if what killed the aliens on Mars, or the makers of the alien FTL artifacts, came back hostile? Vance knows he traded his memories for treatment and that the droids' combat routines came from them. He is never told how Kenji knows what he knows, and he does not know about the Reapers. Nobody else is told where the droids' fighting style comes from.
+
+**15. The framing of 2125.** The public record says the delegates were killed by the Russian Federation. No in-universe document contains evidence of the truth. The truth, which POVs may show:
 - A few UNIN delegates were verified members of the conspiracy, working with channels inside the Russian Federation. They were partly responsible for the 2059 bombing and the 2065 withdrawals. Brooks found this and reported it. Kenji decided on the operation, and Brooks carried it out. His motive was revenge.
 - **The count (decision).** The delegation held fifteen delegates. Fourteen died in the attack. Four of the fourteen were the verified conspirators. The other ten were innocent and died as cover. The fifteenth was absent that day and lived. Kenji carries the ten as a cost he chose.
 - Harper's file is right that the Russian Federation was framed for the killing. It cannot see that Russia did conspire against Kenji, and it cannot say by whom. He proves nothing.
 - The UNIN does not annul the charters. It decries its helplessness to win justice for its slain, and Kenji takes up the burden of justice for all humankind.
 
-**17. The Protagonist's POV (ruling, replaces item 17).** Kenji carries POV from Movement 2 on, at most 3 or 4 micro-chapters per 10-micro-chapter chapter. Movement 1 (A1 to A3) stays as published, with him unnamed and without POV. From the proclamation in 2125 he is also the public Emperor, seen by every POV.
+**17. The Protagonist's POV.** Kenji carries POV from A2 on. He carries 7 of A2's 20 micro-chapters (A2.1, A2.2, A2.3, A2.5, A2.10, A2.12, A2.15), none of A3's 10, and 1 of A4's 10. In every other chapter he carries at most 3 or 4 per 10 micro-chapters. No Kenji POV is dated after 2064 until B1.2, where the realization lands. A1 stays as published, with him unnamed and without POV. From the proclamation in 2125 he is also the public Emperor, seen by every POV.
 
-**19. The early pool (ruling, replaces item 19).** Before 2072 the characters old enough to carry POV are Kenji, Hannah, Brooks, Manswell, and Hannah's parents Tom and Ruth Shepard. The found-family servants carry no POV. In chapters A to C, up to two of five micro-chapters per chapter are generic OC slots. From Movement 2 on, generic OC voices stay under 20 percent. In D to F at most three of the five added slots may be OC, and G keeps one.
+**19. The early pool.** Before 2072 the characters old enough to carry POV are Kenji, Hannah, Brooks, Manswell, Tom and Ruth Shepard, Vance (ruling 30), and Teodor Ashby (b. 2030, locked, Author-built). The found-family servants and network operatives carry no POV. In chapters A to C, up to two of five micro-chapters per chapter are generic OC slots. Movement 1 (A1 to A3) is exempt from the 20 percent guide, because its OC voices carry the technology showcase (11 of 35). From Movement 2 on, generic OC voices stay under 20 percent (8 of 50). In D to F at most three of the five added slots may be OC, and G keeps one.
 
-**20. Reveal discipline (ruling, replaces item 20).** POVs may show the truth of the 2065 withdrawals, the 2125 killing, and the conspiracy where the POV character could know it. No in-universe document may contain it, and the conspiracy never names itself on the page before Kenji's network discovers it.
+**20. Reveal discipline.** POVs may show the truth of the 2065 withdrawals, the 2125 killing, and the conspiracy where the POV character could know it. No in-universe document may contain it, and the conspiracy never names itself on the page before Kenji's network discovers it.
 
-**21. Democracy against empire (ruling, amends item 21).** The argument is seen through Hannah's and Brooks's POVs and now also Kenji's.
+**21. Democracy against empire.** The argument is seen through Hannah's, Brooks's, and Kenji's POVs.
 
-**28. The conspiracy (ruling, new).** An organization acts against Kenji from 2059. Its method is shadow control of the world's most advanced technologies, his above all, through cutouts, firms, regulators, and licensors. It survives 2125 and stays undiscovered by his network. It is author-side only, and its payoff depends on how the story unfolds.
+**28. The conspiracy.** An organization acts against Kenji from 2051, when he first releases his technology. Its method is shadow control of the world's most advanced technologies, his above all, through cutouts, firms, regulators, and licensors. Its early moves read to every POV as ordinary greed: the break-in (2052), the stolen Primitive Med-Pod, the clinic shakedown (2056), and the "partnership" offer (2064). No POV links them before 2065, Brooks logs them as unrelated files, and no document connects them. It is behind the 2059 bomb and the 2065 withdrawals, and the four delegates of 2125 were partly responsible for those two only, so it is larger than they were. It survives 2125 and stays undiscovered by his network. It is author-side only, and its payoff depends on how the story unfolds.
 
-**29. Patron seats (ruling, new).** Ten patron-built OC seats exist (Overview.md). Their roles are hidden from patrons and kept in an author-only file, never here. Patrons cannot influence Kenji, Hannah, Tom, Ruth, Brooks, or any canon or OC character the author has not opened.
+**29. Patron seats.** Ten patron-built OC seats exist (Overview.md). Their roles are hidden from patrons and kept in an author-only file, never here. Patrons cannot influence Kenji, Hannah, Tom, Ruth, Brooks, or any canon or OC character the author has not opened.
 
-## 2. Age table (replace the Protagonist row and add two rows)
+**30. Dominic Vance.** Gunnery Sergeant Dominic Vance, USMC, retired (name and rank are placeholders), is a locked recurring OC and member of the main cast. Facts his profile lacks:
+- In Act I he carries POV in A2.4 (2052 to 2061) and A3.1 (2062) only, and his A3.1 must match every gesture of the published A1.5.
+- Kenji uses the copy of his memories to create and hone the security droids' combat abilities, and the droids' routines are the only place it lives. This supersedes "knowledge upload never spreads" for this case only.
+- He is the first member of the secret network (founded at the end of A2.3, 2052) and its first leader. He scouts Brooks, recruits her, and brings her to Kenji. When Brooks takes over the network he becomes Kenji's personal guard, and later Legion Master of the Custodian Legion.
+
+**31. Robots first, operatives second.** From 2052 the private sites are guarded by Level 2 robot sentries under Level 1 Dumb AI task controllers. No human operative exists before the network does, and none appears in a chapter dated earlier. Operatives carry no POV, apart from Vance, who is main cast and not an operative in this sense.
+
+## 2. Age table
 
 | Character | Canon birth | Story birth | 2050 | 2065 | 2075 | 2090 | 2125 | 2135 | 2150 | 2154 | 2160 | 2175 | 2183 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Kenji Himura (the Protagonist; Emperor from 2125) | not canon | 2020 | 30 | 45 | 55 | 70 | 105 | 115 | 130 | 134 | 140 | 155 | 163 |
 | Tom Shepard (decision) | not canon | 2001 | 49 | 64 | 74 | 89 | † | † | † | † | † | † | † |
 | Ruth Shepard (decision) | not canon | 2003 | 47 | 62 | 72 | 87 | † | † | † | † | † | † | † |
+| Dominic Vance (placeholder name) | not canon | 2002 | 48 | 63 | 73 | 88 | 123 | 133 | 148 | 152 | 158 | 173 | 181 |
+| Teodor Ashby | not canon | 2030 | 20 | 35 | 45 | 60 | (open) | (open) | (open) | (open) | (open) | (open) | (open) |
 
-Tom and Ruth are on public-grade Med-Pod after 2053. Tom dies in 2117 (age 116) and Ruth in 2119 (age 116), (decision). Neither lives to see Alexandra.
+- Tom and Ruth are on public-grade Med-Pod after 2053. Tom dies in 2117 (age 116) and Ruth in 2119 (age 116), (decision). Neither lives to see Alexandra.
+- Vance's ages after 2075 assume the Primaris Process and a later Custodian post, and the date he receives it is open.
+- Ashby's later ages depend on a ruling about his treatment, since he is a cadre member (open).
 
-## 3. Role-fit check (add rows)
+## 3. Role-fit check
 
 | Character | Role | Year | Age | Minimum |
 |---|---|---|---|---|
 | Tom Shepard | Shipyard foreman | 2050 | 49 | 30 |
 | Tom Shepard | Clinic facilities chief | 2059 | 58 | 30 |
 | Ruth Shepard | School administrator | 2050 | 47 | 30 |
+| Dominic Vance | Network leader | 2052 | 50 | 30 |
+| Dominic Vance | Scout and recruiter of Brooks | 2062 | 60 | 30 |
+| Teodor Ashby | Overseer of droid survey crews | 2063 | 33 | 30 |
+| Teodor Ashby | Overseer on Mars | 2065 | 35 | 30 |
 
-## 4. New entry (add at the head of Section 4, before Hannah)
+The minimums for Vance and Ashby are (decision).
 
-### Kenji Himura (the Protagonist)
+## 4. Entries
 
-- **Canon:** Not canon. A transmigrator.
-- **Story birth:** 2020 (body). **Side:** Imperium (Emperor from 2125).
-- **Chapter POVs:** From A4 on, at most 3 or 4 per 10-micro-chapter chapter. None in A1 to A3.
+### Characters with a profile
 
-Of Japanese descent. In his past life he grew up poor and lonely, and being wanted still makes him flinch. He wakes in 2050 with knowledge and expertise he cannot account for, chooses patience, and wants a normal life with Hannah. The Shepards are the first family he grows close to, and Tom calls him "son" before Kenji can stop him. Every gift draws a hostile reaction, and the 2059 bomb kills the child. The hidden service he builds to protect his people grows out of that loss.
+One pointer line each. Act I POV chapters are listed because the profiles do not carry them.
 
-In 2065 Manswell's announcement tells him where he is, and he is terrified, vindicated, and obsessive. He invests in the expedition as a major lender, and when the others withdraw he becomes its largest contributor. He never tells anyone how he knows what he knows. In 2125 he decides on the killing of the verified conspirators and has Brooks carry it out. The ten innocents who die with them are his chosen cost.
+- **Kenji Himura.** Profile: Kenji_Himura_Character_Profile.md. POV: A2.1, A2.2, A2.3, A2.5, A2.10, A2.12, A2.15, A4.2, B1.2, B1.5, B1.10, B2.2, B2.7, B2.9, B3.2, B3.6, B3.9, B4.1, B4.6, B4.9. None in A1 or A3.
+- **Hannah Shepard.** Profile: Hannah_Shepard_Character_Profile.md. POV: A1.1, A1.4, A2.13, A2.17, A2.20, A3.5, A3.10, A4.5, B1.4, B2.6, B3.3, B4.2, C1.2, C1.5, C2.2, C3.5, C4.1, C5.1, C6.1, C7.1.
+- **Maya Brooks.** Profile: Maya_Brooks_Character_Profile.md. POV: A1.5, A2.16, A3.6, A4.1, A4.10, B1.3, B2.4, B2.8, B3.4, B4.7, C1.3, C2.1, C2.4, C3.1, C4.4, C5.4, C6.2, C7.2.
+- **Victor Manswell.** Profile: Victor_Manswell_Character_Profile.md. POV: A3.9, A4.8, B1.1, B1.8, B2.1, B2.10, B3.1, B3.10, B4.3, C3.3, C4.3, C5.3, C6.4, C7.5, D1.2. He drops out after D1.2.
+- **Tom Shepard.** Profile: Tom_Shepard_Character_Profile.md. POV: A2.6, A2.11, A4.6, B1.6, B2.5, B3.8, B4.5.
+- **Dominic "Gunny" Vance.** Profile: Dominic_Gunny_Vance_Character_Profile.md. Role: ruling 30. POV: A2.4, A3.1.
 
-**What others call him (decision):**
-- Hannah and the Shepards: "Kenji." Tom adds "son" in private.
-- The found family: "Kenji."
-- Brooks: "Mr. Himura" in 2062, "sir" from 2065, and "my Lord" from 2125.
-- The cadre and managers: "sir."
-- After 2125 only he is addressed as Lord.
+### Ruth Shepard (no profile)
 
-**Voice:** see Overview.md.
+- **Canon:** Not canon. **Story birth:** 2003. **Side:** Imperium (found family).
+- **Chapter POVs:** A2.9, A4.7, B1.9, B4.8.
 
-## 5. Hannah Shepard (replace the second paragraph's opening and add the parents)
+Hannah's mother, a school administrator. She takes the public cure and, like her daughter, declines the upload. She asks Kenji "who are you?" at the clinic in 2053, before anyone else does, and gets a true answer that tells her nothing. She does not ask again. At the 2058 wedding she sees the empty side of the room and a man with a Marine's stance at the back door (A2.9).
 
-Born 2031 in Galveston, Texas, the daughter of **Tom Shepard** (b. 2001), a shipyard foreman, and **Ruth Shepard** (b. 2003), a school administrator. Tom is dying of pancreatic cancer in 2053 and becomes one of Kenji's first recruits, so the Shepards are the first family he grows close to. Tom takes the training upload but not the directive, as a member of the found family. He becomes the clinic facilities chief and is among the night staff Hannah gets out in 2059. Ruth takes the public cure and, like her daughter, declines the upload. She asks Kenji "who are you?" before anyone else does.
+Her habit of attention is who looks after whom. She notices which spouse cuts the other's meat, which guest watches the room instead of the bride, and who is on the school board's side of a proposal.
 
-Hannah's own history from 2049 on stands as written, with these changes:
-- **Whether she ever learns the truth about 2125** depends on how events unfold. Neither outcome is ruled out.
+### Teodor Ashby (no profile)
+
+- **Canon:** Not canon. Author-built, locked.
+- **Story birth:** 2030. **Side:** Imperium (cadre).
+- **Chapter POVs:** A2.14 (2063), B3.5 (2065).
+
+Oversees the network's droid survey crews. His habit of attention is what machines do wrong, and the new warp drive does nothing wrong, which is what he cannot get used to. He first appears in 2063 and is the first to find the Mars cavern in 2065, and Brooks is not.
+
+## 5. Relationships and events between characters
+
+### The Shepards and Kenji
+- Tom is dying of pancreatic cancer in 2053 and becomes one of Kenji's first recruits, so the Shepards are the first family Kenji grows close to. Tom takes the training upload but not the directive, becomes the clinic facilities chief, and is among the night staff Hannah gets out in 2059.
+- Ruth's question is in her entry above.
+
+### Vance, Brooks, and Kenji
+- **The 2052 break-in.** A crew of four breaks into Kenji's first warehouse, and his robots stop them. He decides to build a network, starting with Vance.
+- **Brooks's recruitment.** Vance scouts her in 2061 from the ministry's own files and her paper on the Ankara tariff schedules. He recruits her in Marseille in 2062 (A1.5 from her side, A3.1 from his). Her answer to the recruiter's question is to ask who is giving the cure away and what it costs the one who gives.
+- **Brooks meets Kenji.** A week later, in a rented office above a ship chandler in Marseille. She counts the exits and asks for a window that opens. The unsolved 2059 file remains the first she is handed.
+- Vance approves of her counting and counts nothing himself.
+
+### Brooks and Harper (2112 to 2150)
+- From 2112 (age 74) Brooks notices that someone in UNAS counterintelligence is auditing the hidden service's Action work, because his tradecraft does not repeat either. She has no name for him.
+- In 2065 she saw the lenders withdraw in a coordinated pattern, with one exception: Kenji, who did not withdraw but increased his stake. She concluded that someone was working against Manswell and possibly against him. She hunted that hand for sixty years, starting from the 2059 file, the first she was handed in 2062 and the one she never closes.
+- In early 2125 (age 87) her Collection layer verified that four UNIN delegates were members of the conspiracy and linked to channels in the Russian Federation. She reported it. Kenji alone decided on the operation, and she carried it out, and the framing of the Russian Federation followed. Her conditioning removes betrayal and not disagreement, and she had pressed him to act sooner.
+- She watched the same counterintelligence officer build the case against Russia and find it too clean. At the proclamation days later she becomes Grand Marshal of the Inquisition, the UNAS rosters reach her desk, and she names him: Jack Harper. From 2135 she holds his full dossier, face included. They never meet or speak.
+- She marks the 2059 file closed in 2125 for the four she found, but keeps the page. The file proves nothing about who else was behind it, and her habit is to keep the page. The conspiracy remains undiscovered, so she believes the account is settled.
+- At the Arcturus surrender in 2150 (age 112) she watches Harper walk out through the lower decks with the Emperor's approval. He never sees her. She lets him go because the network he will rebuild will lead her to every cell worth finding, and because the file he carries proves nothing. From then on every cell she arrests and every courier she follows tells her where the next one is.
+
+### The secret between them
+The 2125 operation was Kenji's decision, and Brooks carried it out. Harper's file is right that the Russian Federation was framed for the killing, and it is unprovable. He cannot say who did it, and he does not know it was her. He also cannot see why. The first time she hears the accusation on a pirate broadcast, her conditioning will let her lie but will not let her feel nothing. The Wong broadcast is the first time she hears the accusation aloud.
+
+### Hannah and the truth of 2125
+- Whether she ever learns the truth about 2125 depends on how events unfold. Neither outcome is ruled out.
 - She lost the same child, so her anger would have two targets: the killers and the lie.
 
-## 6. Maya Brooks (replace the 2112-to-2150 paragraphs of her entry)
+## 6. Section 8A: rules these characters follow
 
-From 2112 (age 74) she notices that someone in UNAS counterintelligence is auditing the hidden service's Action work, because his tradecraft does not repeat either. She has no name for him.
+- Vance, Ashby, and the ten patron-built seats are not among the ten recurring OCs. Vance and Ashby are locked main-cast characters, and the patron seats follow ruling 29.
 
-In 2065 she saw the lenders withdraw in a coordinated pattern, with one exception: Kenji, who did not withdraw but increased his stake. She concluded that someone was working against Manswell and possibly against him. She hunted that hand for sixty years, starting from the 2059 file, the first she was handed in 2062 and the one she never closes. In early 2125 (age 87) her Collection layer verified that four UNIN delegates were members of the conspiracy and linked to channels in the Russian Federation. She reported it. Kenji alone decided on the operation. She carried it out, and the framing of the Russian Federation followed. Her conditioning removes betrayal and not disagreement, and she had pressed him to act sooner.
+## 7. POV roster
 
-She watched the same counterintelligence officer build the case against Russia and find it too clean. At the proclamation days later she becomes Grand Marshal of the Inquisition, the UNAS rosters reach her desk, and she names him: Jack Harper. From 2135 she holds his full dossier, face included. They never meet or speak.
+Counts are micro-chapters as currently cast. B1 to G5 are unchanged from the Excerpt Bank and are regenerated after the Movement 2 file is written. The earlier provisional totals (193 micro-chapters, 29 for Hannah, 23 for Brooks, 13 for Manswell) are superseded.
 
-She marks the 2059 file closed in 2125 for the four she found, but keeps the page. The file proves nothing about who else was behind it, and her habit is to keep the page. The conspiracy remains undiscovered, so she believes the account is settled.
+| POV | A1 (published) | A2 | A3 | A4 | Movement 1 total (A1 to A3) |
+|---|---|---|---|---|---|
+| Kenji | 0 | 7 | 0 | 1 | 7 |
+| Hannah | 2 | 3 | 2 | 1 | 7 |
+| Brooks | 1 | 1 | 1 | 2 | 3 |
+| Vance | 0 | 1 | 1 | 0 | 2 |
+| Tom | 0 | 2 | 0 | 1 | 2 |
+| Ruth | 0 | 1 | 0 | 1 | 1 |
+| Manswell | 0 | 0 | 1 | 1 | 1 |
+| Ashby | 0 | 1 | 0 | 0 | 1 |
+| Generic OC | 2 | 4 | 5 | 3 | 11 |
+| **Total** | **5** | **20** | **10** | **10** | **35** |
 
-At the Arcturus surrender in 2150 (age 112) she watches Harper walk out through the lower decks with the Emperor's approval. He never sees her. She lets him go because the network he will rebuild will lead her to every cell worth finding, and because the file he carries proves nothing. From then on every cell she arrests and every courier she follows tells her where the next one is.
-
-## 7. Section 8A (add under "Rules these characters follow")
-
-- The ten patron-built seats are not among the ten recurring OCs and follow ruling 29. Their roles are never recorded in this file.
-
-## 8. Section 10, "The secret between them" (replace the paragraph)
-
-*The secret between them.* The 2125 operation was Kenji's decision, and Brooks carried it out. Harper's file is right that the Russian Federation was framed for the killing, and it is unprovable. He cannot say who did it, and he does not know it was her. He also cannot see why. The first time she hears the accusation on a pirate broadcast, her conditioning will let her lie but will not let her feel nothing. The Wong broadcast is the first time she hears the accusation aloud.
-
-## 9. Section 12 (the POV roster)
-
-The roster is provisional. Its counts (193 micro-chapters, 29 for Hannah, 23 for Brooks, 13 for Manswell) predate the Movement 2 casts. After the revised Movement 2 file is written, regenerate the roster from the new casts. Add Kenji, Tom Shepard, and Ruth Shepard, whose counts are open until then.
+- Movement 1 draws 11 of 35 micro-chapters (31 percent) from generic OC slots, which is exempt from the 20 percent guide. Movement 2 stays at 8 of 50.
+- Kenji's Movement 2 count is 13 of 50, which meets the 3 or 4 per 10 rule in every chapter.
