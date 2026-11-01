@@ -298,11 +298,11 @@ The word reached him a half second late. No one had called him that in this body
 
 "Nothing's wrong, but I keep waiting for the bill." Tom turned the cap in his hands. "My daughter wouldn't come. She turned down your upload, and she's decided a place with nothing on the wall has something to hide. She's right, isn't she?"
 
-"What do you think? Is she?"
+"Yes, she is."
 
-Tom laughed, short and surprised. His eyes had drifted past Kenji to the bench along the wall, the vise, the half-built jig. "That vise is set for a left-handed man, and the bench is an inch too low for anyone. You've got a fine machine yet you've got nobody running the building around it, don't you?"
+Tom laughed, short and surprised. His eyes had drifted past Kenji to the bench along the wall, the vise, the half-built jig. "That vise is set for a left-handed man, and the bench is an inch too low for anyone. You've got a fine machine yet you've got nobody running the building around it, haven't you?"
 
-"Kind of. I've been doing it between everything else, and I've been doing it badly."
+"I've been doing it between everything else, and I've been doing it badly."
 
 "Then I could run it," Tom said, the way a man gives a measurement.
 
