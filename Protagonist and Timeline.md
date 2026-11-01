@@ -39,7 +39,7 @@ A man wakes up in a world very different from the one he knew when he last went 
 ## 4. Backstory Timeline (2050 to 2175)
 
 ### Stage 1: Awakening and caution (2050)
-1. **2050.** He wakes with inexplicable knowledge and expertise, suspects he has transmigrated, and chooses to build his foundation in secret. His hands finish a diagram he does not remember starting (A2.1).
+1. **2050.** He wakes with inexplicable knowledge and expertise, suspects he has transmigrated, and chooses to build his foundation in secret. His hands finish a diagram he does not remember starting. A2.1 opens seven months later, in the autumn of 2050, with him remembering that first morning while his hands absently make the tools that make tools.
 
 ### Stage 2: The foundation (2050 to 2075)
 

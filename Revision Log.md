@@ -336,3 +336,12 @@ Applied Revision_Proposal_and_Related_Fixes.md to the files it touches: The_Legi
 ### Revision: who does not press Hannah
 
 - Human_Characters.md, Hannah's entry: "He does not press her" now reads "The Protagonist does not press her", so it is not mistaken for her father in the A1.1 scene. No other wording changed.
+
+## Act_I_Outline.md, Excerpt_Bank.md, Protagonist_and_Timeline.md
+
+### Revision: A2.1 reframed
+
+- **A2.1 opens seven months after the awakening (author ruling, 1 November 2026).** Kenji has already been awake for some time. He remembers the first morning while his hands absently make the tools that make tools. The first-morning scene (the diagram, the mirror, the rice, the knock) is now memory. Revised the A2.1 entries in Act_I_Outline.md and Excerpt_Bank.md and the Stage 1 line in Protagonist_and_Timeline.md. The draft is Drafts/A2 The Centuries That Became Days.md.
+- **Inferences made without asking:** the interval of seven months (autumn 2050); the rented rear bay of a tire shop in Texas City, paid in cash and funded by yard shifts; the tools shown (surface plate, scraped lathe, bench vise, gauge set, taper reamers); and the new hook, in which a column in the diagram's margin lists those tools in order and ends with the unreadable name at the top of the sheet. The bay and the tools lead into A2.2 ("Tools first") and the shed of A2.3.
+- **Not changed:** the A2.1 ending type (Q), the date (2050), the age (30), and the rules that he has no Reaper thought and no past-fiction thought.
+- **Noticed, not changed.** A2.5 (drafted) shows Tom treated in the hidden Level 2 wing, which matches the scar vanishing in A1.1 and the recruit pattern of Protagonist_and_Timeline.md item 2. The Act I outline lists Med-Pod L1 for A2.5, and Tom's treatment there is L2. The outline's "Tech: Med-Pod L1, Med-Pod L2 wing" already covers both.

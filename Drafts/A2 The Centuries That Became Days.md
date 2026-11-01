@@ -211,3 +211,74 @@ Vance followed the order to a shell company, then to another shell, and then to 
 One paper was better than the rest. It was an analysis of the Ankara tariff schedules, and it was the only one that said what the schedules left out. The author was Maya Brooks, an analyst in Marseille, and he had been looking for someone strong enough to find the hand behind the paper, but her file ended in the spring with a leave of absence and a hospital ward. She was dying.
 
 He sat a while with the file open. Then he turned back to the first page of the green book, the one that had held no names, and wrote hers.
+---
+
+## *Act I, 1st Movement · A2 · Kenji Himura (33)*
+
+### *Galveston, 2053*
+
+The clinic's license lay face down in a drawer in the monitor room, under a box of spare keys, and the name printed on it was not his. Kenji had taken it off the wall the night before, because a license names an owner, and an owner is someone a stranger can find. On the center monitor a young woman sat in the waiting room with her dress blues folded on the chair beside her, staring at the bare paint where it had hung.
+
+He had watched her for most of three days from a chair set with its back to the wall, the way Vance had taught him to sit. She never wrote anything down, which was worse than if she had. She looked at the wall, then the front desk, then the chests of the staff one after another, and she kept returning to the places where something ought to have been. He had built a silence and trained a staff to keep it, and she was reading that silence the way he would read a gauge.
+
+Her father's file lay beside the keyboard: pancreas, advanced; foreman, thirty years on hulls. Kenji had put the man in the hidden wing and not the public line, which bent the rule on the sheet pinned above his bench. He had told himself the machine did more good run properly, but the truer reason sat under that, that a man who could run a yard could run a building. He caught himself having thought it, and turned the file face down.
+
+At ten past six the frosted doors opened on the third monitor, and the old man walked out on his own feet. The gray was gone from his face. He asked for eggs, and his daughter crossed the room and took his wrist, two fingers on the pulse, and held on long after the count was done. Kenji found he had stopped breathing, and started again.
+
+The woman in gray scrubs made the offer. The daughter heard it through, which most people did not, and then she said no. Her father said only that it was her call.
+
+In the drawer, under the license, lay a stack of blank intake cards. A card was for passing a name along, and he could not pass his. He sat with the pen uncapped over the white until he understood that nothing, sent on purpose, said something of its own.
+
+He capped the pen.
+
+He took the card.
+
+The side stairs. Two at a time.
+
+A man of Vance's stood at the side door and let him through without a word.
+
+Wet air. Gulf heat. He went around the building at a walk that was nearly a run.
+
+The front glass was fogged. Two shapes behind it. The old man's hand reaching.
+
+Kenji crouched. Slid the card under the door.
+
+It whispered on the tile.
+
+He did not wait.
+
+Corner. Brick at his back.
+
+Behind him, the door wrenched open.
+
+Silence. A gull working the street.
+
+He pressed his palm flat to the wall. His heart would not slow.
+
+Ten days later the front desk sent word up that a man had come back without his daughter and was asking for whoever ran the place. The staff had given him no name, and he had refused to leave without one. Kenji could have sent him away, but a man who carried what the wing had put in his head would keep asking, and Kenji wanted, though he would not have said so, to see what that man looked like when he was well.
+
+He met them in the workroom, the one room in the building that never needed tidying. Tom Shepard stood by the door with his cap in both hands, and beside him stood a small woman with a steady look, who spoke before anyone else could.
+
+"Who are you? Nobody in this building will say, and I'd like to hear it from the one person who can."
+
+"Kenji," he said. "I answer for this building, for what happens in it and what doesn't. That's everything I can tell you that's true, and I'm sorry it isn't more."
+
+"It's honest," Ruth said. "I'll take honest first."
+
+"I came to say thank you," Tom said. "I've said it to a dozen people in scrubs who looked at me like I was reading them a bill, and I wanted to say it to the man it belongs to. So thank you, son. For my life, and for what you put in my head besides."
+
+The word reached him a half second late. No one had called him that in this body, and no one had in the old life. His shoulders came up, and his hand found the pen on the bench and squared it against the clipboard.
+
+"What do you need?" he said. "If the upload is giving you trouble, headaches or sleep or things arriving in the wrong order, I can have someone look at it today."
+
+"Nothing's wrong, and I keep waiting for the bill." Tom turned the cap in his hands. "My daughter wouldn't come. She turned down your upload, and she's decided a place with nothing on the wall has something to hide. She's right, isn't she?"
+
+"Yes. She's right to look."
+
+Tom laughed, short and surprised. His eyes had drifted past Kenji to the bench along the wall, the vise, the half-built jig. "That vise is set for a left-handed man, and the bench is an inch too low for anyone. You've got a fine machine and nobody running the building around it, haven't you?"
+
+"No one. I've been doing it between everything else, and I've been doing it badly."
+
+"Then I could run it," Tom said, the way a man gives a measurement.
+
+The pen sat square against the clipboard. Kenji picked it up, laid it down crooked, and left it there.
