@@ -46,7 +46,7 @@ He allows the following technologies to spread, up to the limits shown.
 | Robotics | Level Three | See below. |
 | Gundarium | Alpha | See below. |
 | Mobile Infantry Powered Suit | Level One | An unpowered exoskeleton. |
-| Knowledge Upload | Private | Never allowed to spread. |
+| Knowledge Upload | Private | Never allowed to spread, with one exception (see "Memory exchange" below). |
 | Primaris Project | Private | Never allowed to spread. |
 | CMC Powered Armor | Private | Basis of the Imperial armor types. |
 | Systems Alliance Tech | (open) | Level and limits not yet chosen. |
@@ -54,6 +54,34 @@ He allows the following technologies to spread, up to the limits shown.
 
 - (inference) Cerberus technology overlaps with the Primaris Process and the Inquisition's work, so it is more likely to stay private.
 - The conspiracy has no technology of its own. It seeks control of the firms, licensors, and regulators that stand between the allowed technologies and the public (author-side).
+
+### Memory exchange (author ruling, 1 November 2026)
+
+- The marine (Gunnery Sergeant Dominic Vance, USMC, retired; placeholder name) trades his memories, experience, and expertise for treatment. The exchange runs through the Matrix-style upload, in both directions: his memories are copied out, and his lungs and years are given back.
+- Kenji uses the copy to create and then hone the combat abilities of the automated security droids (Level 2 sentry robots under Level 1 Dumb AI task controllers). The droids' routines are the only place the copy lives.
+- This supersedes "Knowledge Upload: never allowed to spread" for this case only. No character is told where the droids' fighting style comes from.
+- The marine is not conditioned at this stage. He receives the conditioning layer with the Primaris Process when he joins the guard (decision).
+
+### Technology by 2060 (decision, pending the author's tier definitions)
+
+Kenji starts the tier system in A2.2 (2051): a two-column sheet pinned above his bench, with Primitive for what may leave the room and a higher level for what stays behind. The Primitive grade must always be one the world could have invented unaided. The public level below is that Primitive grade. The Level allowed column in the table above is the ceiling the Imperium later permits to spread, so it can sit higher than these 2060 origin levels (inference).
+
+| Technology | Public (2060) | Private (2060) |
+| --- | --- | --- |
+| Med-Pod | L1 (Primitive, clinic grade) | L2 (full technology, hidden wing) |
+| Robotics | L1 (fixed arms, simple mobile units under human control) | L2 (mobile robots driven by Dumb AI) |
+| Dumb AI | L1 (task controllers) | L2 (adaptive assistants) |
+| Cloning | L1 (tissue and organ) | L2 (whole body, natural growth) |
+| Mobile Infantry Powered Suit | L1 (unpowered exoskeleton) | L2 (powered exoskeleton) |
+| Data Crystal | Full | Full |
+| Tokamak Fusion Reactor | Functional | Functional (Arc Reactor stays private) |
+| Anti-Gravity | L1 (short range, high power) | L2 |
+| Gundarium | Alpha | Beta |
+
+- No public robot guards anything. Private sites are guarded by Level 2 sentry robots, with human operatives beside them once the secret network exists (founded 2052).
+- (open) Med-Pod and Anti-Gravity have no tier tables in this file. The L1 and L2 levels above are decisions. Gundarium Beta is shown only in A2.10.
+- (open) A2.2 describes the Primitive Med-Pod as one that "cures but does not renew," while the Med-Pod row in the table above says rejuvenation and longevity treatments are available at Primitive. One of the two needs to change.
+- (open) The A3 robot crews build a district in a season, which is Robotics Level 3. Treat them as private Level 2 units working in teams under Level 1 Dumb AI site controllers until the author sets when Level 3 appears.
 
 ### Cloning tiers
 | Level | Description |
