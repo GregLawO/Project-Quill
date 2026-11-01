@@ -4,12 +4,13 @@ The process used to draft a micro-chapter, with the pre-draft checks from the El
 
 ## Process
 
+- [ ] **0. Sync and read before doing anything (every task, not only drafting).** Run `git pull --rebase origin main` so the working copy matches the remote, because the author may have pushed changes since the last session. Then read every file the task depends on, in full, before editing, drafting, or answering. Do not assume earlier chapters, outline entries, or rulings are as you left them. The chapter file in `Drafts/` holds every micro-chapter drafted so far, including any the author wrote or revised directly, so read all of it and confirm which micro-chapters already exist.
 - [ ] **1. Read the previous chapter file in `Drafts/`.** Note the heading style, byline format, POV, length, and how it ends, so the new chapter matches.
 - [ ] **2. Read the governing files.** The revised style file (`My Writing Style - The Elastic Pace System (Revised).md`), `Outlines/Act I Outline.md`, `Excerpt Bank.md` (the chapter's excerpt, cast line, and hook), the POV character's profile, and the Overview Writing Rules. Check `Revision Log.md` for recent rulings.
 - [ ] **3. Plan the beat sheet.** Chapter type (investigative, action, or hybrid) and word range, one POV, the Slow Gear mystery or clue, the trigger, the ending type, and continuity with the previous chapter.
 - [ ] **4. Draft.** About 80 percent Slow Gear, then the close. Open on a concrete, question-raising detail.
 - [ ] **5. Check the draft** against the lists below.
-- [ ] **6. Save and deliver.** Write the chapter to `Drafts/` in the existing naming pattern (for example, `A2 The Centuries That Became Days.md`), send it to the author, then commit and push.
+- [ ] **6. Save and deliver.** Write the chapter to `Drafts/` in the existing naming pattern (for example, `A2 The Centuries That Became Days.md`), send it to the author, then commit and push. Before pushing, fetch again. If the remote has moved, rebase onto it and keep the author's text in any conflict. Never force-push.
 
 ## Pre-draft checklist (from the style file)
 
