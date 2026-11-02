@@ -34,10 +34,10 @@
 
 ## 3. Proposed handling (decisions)
 
-- **The adopted son's death (decision).** He is the gate guard whose stool is empty. He left his post to go after the delivery van that did not come, and died outside the building. This fits the published scene ("small absences, each with a reasonable excuse"), the roster stays true, and the absence Hannah noticed becomes the reason he is missed. Name and age are open.
+- **The adopted son's death (decision, revised).** He cannot be the gate guard, because the guard is on Hannah's own roster and she would know her brother. The empty stool belongs to a bought guard. Danny is on overwatch in the car park, outside her roster. He sees the delivery van riding low, goes after it, and dies near the blast. The roster on the lawn stays true ("All of them. All there."). Details are in `Character Profiles/Daniel Shepard Character Profile.md`.
 - **Tom's "son" (decision).** Tom first calls Kenji "son" in 2053 in the drafted A2.5. If Tom already has an adopted son, the word means more, and it could change who "son" is aimed at after 2059. Proposal: keep the 2053 line, and after 2059 Tom calls Kenji "son" with the new weight. Kenji's "Sir" and "Ma'am" until the wedding, and "Dad" and "Mom" afterward, are unchanged.
 - **Term of service and dependence (decision).** Recruits serve a set number of years for their restoration. The follow-up treatments, which only his network can give, keep them loyal beyond the term, and the conditioning layers stay as written in item 3 of the timeline.
-- **The hardware dates (open).** When the Level 2 suits, the Level 3 droids, and the data crystal system first appear, and whether they are in place before the elite rollout. The drafted A2.3 to A2.10 currently show Level 2 sentries (loud), Level 1 controllers, and the first data crystal bank in 2060.
+- **The hardware dates (settled).** From 2053. The drafted A2.3 to A2.10 show older levels and need revising.
 - **The pod theft (open).** Date, method, and how long five Level 2 pods last without maintenance. The drafted A2.4 has one stolen Primitive pod in 2061.
 - **The secret war (open).** When Cerberus is first identified, what the network knows of it before 2065, and how it still reaches the 2059 bomb and the 2065 withdrawals if Kenji's side is already looking for it.
 

@@ -360,3 +360,12 @@ Applied Revision_Proposal_and_Related_Fixes.md to the files it touches: The_Legi
 - **General Writing Rules is approved.** Removed "(Proposed)" from its title and the line saying the rules were proposals. The checklists no longer carry the Proposed note.
 - **Obsolete files.** `Writing_Rules.md` and `Specific_Rules.md` were deleted by the author. Every reference to them in `General Writing Rules.md` and `Specific Writing Rules.md` now names the current file, `Specific Writing Rules.md` or `General Writing Rules.md`.
 - **Noticed, not changed.** The Project Version's underscore names (`General_Writing_Rules.md`, `Specific_Writing_Rules.md`) are guesses at how the Project names these files.
+
+## Protagonist and Timeline.md
+
+### Revision: elite income, the secret war, and the staged realization (author ruling)
+
+- **Applied the author's rulings** from `Revision Proposal - Elite Income and the Secret War.md`: the safety net before the elite rollout, Danny Shepard and the 2053 meeting, income from elites, security from 2053 (new item 2E), Cerberus's theft of five Level 2 pods and the earlier secret war, and the three waves of realization. Added `Character Profiles/Daniel Shepard Character Profile.md`.
+- **Danny's death (decision).** He dies outside the building on car park overwatch, not as the gate guard, so Hannah's roster in the published A1 stays true.
+- **Inferences made without asking:** wave 1 is a recognition with no story or Reaper thought; all details of Danny are my decisions and open to overrule.
+- **Noticed, not changed.** Overview.md, Human_Characters.md (Tom, Ruth, Hannah, ruling 20, the conspiracy ruling), Tech_List.md, the tier table and items 2B and 2C in this file, Act_I_Outline.md, Excerpt_Bank.md, the profiles, and the A2a and A2b drafts still describe the older arrangement. The old rule that no POV links the probes before 2065 conflicts with the secret war. None of these has been revised.
