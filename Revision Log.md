@@ -343,3 +343,15 @@ Applied Revision_Proposal_and_Related_Fixes.md to the files it touches: The_Legi
 ### Revision: who does not press Hannah
 
 - Human_Characters.md, Hannah's entry: "He does not press her" now reads "The Protagonist does not press her", so it is not mistaken for her father in the A1.1 scene. No other wording changed.
+
+## Drafting Checklist.md
+
+### Revision: General and Specific Writing Rules added
+
+- **Both versions updated** (`Drafting Checklist.md` and `Drafting Checklist (Project Version).md`). The draft checks are still identical in the two.
+- **Process.** Step 2 now reads `General Writing Rules.md` (with its Writing Style section) and `Specific Writing Rules.md` in place of the deleted revised style file. Step 3 adds the POV's habit of attention, the want and deadline for exposition, and the secrets and reveals to avoid. Step 6 adds labeling of inventions and flagging of conflicts. A Working rules section carries rules 45 to 51.
+- **Pre-draft checklist.** Added the reader-pause and plain-language items from the General file, and a check that every reveal sits at its set point.
+- **Draft checks.** Added the rules that were missing: Clear writing (rules 7 to 10), Characters and voice (rules 19 to 32 and Specific section 15), Information and secrets (rules 33 to 37 and Specific section 12), Continuity and technology (rules 38 to 41, Specific sections 11 and 13), and the rest of Kenji's rulings (Specific section 10). Each check carries a tag to its source rule. Format gained the A2b length, the date-order exceptions, and the append-only rule for chapter files.
+- **Open items.** A final check lists the Specific section 19 items so a draft labels them and does not settle them quietly.
+- **Inferences made without asking:** the checks treat the General Writing Rules as in force although the file still says Proposed, and rules marked (open) or (decision) are to be labeled and not enforced. Rules 1 to 6 and 16 to 17 were already covered and are tagged, not repeated.
+- **Noticed, not changed.** The two Rules files still refer to `Writing_Rules.md`, `Specific_Rules.md`, `General_Writing_Rules.md`, and the deleted revised style file by their older names. The checklists use the current file names.
