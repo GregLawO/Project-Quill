@@ -8,7 +8,7 @@
 
 **1. The Protagonist.** His name is **Kenji Himura**, of Japanese descent. His body is thirty in 2050 (born 2020). He marries Hannah in 2058.
 
-**3. Alexandra's birth.** In 2059, five months pregnant, Hannah survives a bomb at the Galveston clinic complex, but the child she carries is lost. The attack was carried out for the conspiracy (ruling 28), though it was not the conspiracy's first move, since its first moves date from 2051 and read as ordinary greed. Its aim was to cut Kenji's network off at its central clinic, and the child's death was a cost its planners accepted. No one in the world identifies the attackers, and no one claims it. The oath, the wait, and the 2153 conception stand as written.
+**3. Alexandra's birth.** In 2059, five months pregnant, Hannah survives a bomb at the Galveston clinic complex, but the child she carries is lost. The attack was carried out for the conspiracy (ruling 28), though it was not the conspiracy's first move, since its first moves date from 2051. Its aim was to cut Kenji's network off at its central clinic, and the child's death was a cost its planners accepted. No one in the world identifies the attackers, and no one claims it. Danny Shepard, Hannah's adoptive brother, dies outside the building in the same blast. The oath, the wait, and the 2153 conception stand as written.
 
 **5. The resistance and the conspiracy.** Canon's Cerberus does not exist. Harper's black cell is the **Third Hand**, inside the **Charter Front**. The author-side label "Cerberus" belongs to a separate organization, the conspiracy of ruling 28, which has no link to Harper or the Front.
 
@@ -28,7 +28,7 @@
 
 **21. Democracy against empire.** The argument is seen through Hannah's, Brooks's, and Kenji's POVs.
 
-**28. The conspiracy.** An organization acts against Kenji from 2051, when he first releases his technology. Its method is shadow control of the world's most advanced technologies, his above all, through cutouts, firms, regulators, and licensors. Its early moves read to every POV as ordinary greed: the break-in (2052), the stolen Primitive Med-Pod, the clinic shakedown (2056), and the "partnership" offer (2064). No POV links them before 2065, Brooks logs them as unrelated files, and no document connects them. It is behind the 2059 bomb and the 2065 withdrawals, and the four delegates of 2125 were partly responsible for those two only, so it is larger than they were. It survives 2125 and stays undiscovered by his network. It is author-side only, and its payoff depends on how the story unfolds.
+**28. The conspiracy.** An organization acts against Kenji from 2051, when he first releases his technology. Its method is shadow control of the world's most advanced technologies, his above all, through cutouts, firms, regulators, and licensors. Its moves are the break-in (2052), the clinic shakedown (2056), the 2059 bomb, and the theft of five Level 2 Med-Pods (2061), which it cannot reproduce. After these the network uncovers it as one organization but not who leads it, and Brooks is recruited in 2062 to find out. When his inventions spread and it traces them to him, the two are at secret war. The four delegates of 2125 were partly responsible for the 2059 bomb and the 2065 withdrawals only, so it is larger than they were. It survives 2125. It is author-side in the chapters, and its payoff depends on how the story unfolds.
 
 **29. Patron seats.** Ten patron-built OC seats exist (Overview.md). Their roles are hidden from patrons and kept in an author-only file, never here. Patrons cannot influence Kenji, Hannah, Tom, Ruth, Brooks, or any canon or OC character the author has not opened.
 
@@ -37,9 +37,9 @@
 - Kenji uses the copy of his memories to create and hone the security droids' combat abilities, and the droids' routines are the only place it lives. This supersedes "knowledge upload never spreads" for this case only.
 - He is the first member of the secret network (founded at the end of A2.3, 2052) and its first leader. He scouts Brooks, recruits her, and brings her to Kenji. When Brooks takes over the network he becomes Kenji's personal guard, and later Legion Master of the Custodian Legion.
 
-**31. Robots first, operatives second.** From 2052 the private sites are guarded by Level 2 robot sentries under Level 1 Dumb AI task controllers. No human operative exists before the network does, and none appears in a chapter dated earlier. Operatives carry no POV, apart from Vance, who is main cast and not an operative in this sense.
+**31. Robots first, operatives second.** From 2052 the private sites are guarded by Level 2 robot sentries under Level 1 Dumb AI task controllers. No human operative exists before the network does, and none appears in a chapter dated earlier. From 2053 the sites are guarded by Level 3 droids on a data crystal system, and the operatives wear Level 2 powered suits (author ruling). Operatives carry no POV, apart from Vance, who is main cast and not an operative in this sense.
 
-**32. Med-Pod tiers and longevity (author ruling).** Only Level 2 Med-Pods and better can rejuvenate and extend longevity. The public Primitive grade cures and mends only. Anyone in this file who lives past a natural span was treated at Level 2 or better. Tom and Ruth Shepard live to 116 because Kenji gives them Level 2 treatment as found family, and not because of the public clinics (decision). Tom is treated in the hidden wing in 2053. Ruth takes the same treatment after she meets Kenji, and refuses the upload (decision). Where older text says public-grade for a long-lived character, it is superseded by this ruling.
+**32. Med-Pod tiers and longevity (author ruling).** Only Level 2 Med-Pods and better can rejuvenate and extend longevity. The public Primitive grade cures and mends only. Anyone in this file who lives past a natural span was treated at Level 2 or better. Tom and Ruth Shepard live to 116 because Kenji gives them Level 2 treatment as found family, and not because of the public clinics (decision). Tom is treated in the hidden wing in 2053, because his adopted son Danny asked Kenji to save him. Ruth takes the same treatment after she meets Kenji, and refuses the upload (decision). Where older text says public-grade for a long-lived character, it is superseded by this ruling.
 
 ## 2. Age table
 
@@ -76,18 +76,25 @@ The minimums for Vance and Ashby are (decision).
 One pointer line each. Act I POV chapters are listed because the profiles do not carry them.
 
 - **Kenji Himura.** Profile: Kenji_Himura_Character_Profile.md. POV: A2.1, A2.2, A2.3, A2.5, A2.10, A2.12, A2.15, A4.2, B1.2, B1.5, B1.10, B2.2, B2.7, B2.9, B3.2, B3.6, B3.9, B4.1, B4.6, B4.9. None in A1 or A3.
-- **Hannah Shepard.** Profile: Hannah_Shepard_Character_Profile.md. POV: A1.1, A1.4, A2.13, A2.17, A2.20, A3.5, A3.10, A4.5, B1.4, B2.6, B3.3, B4.2, C1.2, C1.5, C2.2, C3.5, C4.1, C5.1, C6.1, C7.1.
+- **Hannah Shepard.** Profile: Hannah_Shepard_Character_Profile.md. POV: A1.1, A1.4, A2.6, A2.8, A2.9, A2.13, A2.17, A2.20, A3.5, A3.10, A4.5, B1.4, B2.6, B3.3, B4.2, C1.2, C1.5, C2.2, C3.5, C4.1, C5.1, C6.1, C7.1.
 - **Maya Brooks.** Profile: Maya_Brooks_Character_Profile.md. POV: A1.5, A2.16, A3.6, A4.1, A4.10, B1.3, B2.4, B2.8, B3.4, B4.7, C1.3, C2.1, C2.4, C3.1, C4.4, C5.4, C6.2, C7.2.
 - **Victor Manswell.** Profile: Victor_Manswell_Character_Profile.md. POV: A3.9, A4.8, B1.1, B1.8, B2.1, B2.10, B3.1, B3.10, B4.3, C3.3, C4.3, C5.3, C6.4, C7.5, D1.2. He drops out after D1.2.
-- **Tom Shepard.** Profile: Tom_Shepard_Character_Profile.md. POV: A2.6, A2.11, A4.6, B1.6, B2.5, B3.8, B4.5.
+- **Tom Shepard.** Profile: Tom_Shepard_Character_Profile.md. POV: A2.11, A4.6, B1.6, B2.5, B3.8, B4.5.
 - **Dominic "Gunny" Vance.** Profile: Dominic_Gunny_Vance_Character_Profile.md. Role: ruling 30. POV: A2.4, A3.1.
 
 ### Ruth Shepard (no profile)
 
 - **Canon:** Not canon. **Story birth:** 2003. **Side:** Imperium (found family).
-- **Chapter POVs:** A2.9, A4.7, B1.9, B4.8.
+- **Chapter POVs:** A4.7, B1.9, B4.8.
 
-Hannah's mother, a school administrator. She takes Level 2 treatment (ruling 32) and, like her daughter, declines the upload. She asks Kenji "who are you?" at the clinic in 2053, before anyone else does, and gets a true answer that tells her nothing. She does not ask again. At the 2058 wedding she sees the empty side of the room and a man with a Marine's stance at the back door (A2.9).
+Hannah's mother, a school administrator. She takes Level 2 treatment (ruling 32) and, like her daughter, declines the upload. She asks Kenji "who are you?" at the clinic in 2053, before anyone else does, and gets a true answer that tells her nothing. She does not ask again. At the 2058 wedding she sees the empty side of the room and a man with a Marine's stance at the back door (A2.9). She sets a chair at Sunday dinner for her adopted son Danny.
+
+### Daniel "Danny" Shepard
+
+- **Canon:** Not canon. **Story birth:** 2022 (decision). **Side:** Imperium (found family). **No POV.**
+- Profile: Daniel_Shepard_Character_Profile.md.
+
+Tom and Ruth's adopted son and Hannah's adoptive brother, a former Army sapper. The marine recruits him in 2052 for a seven-year term, and in 2053 he asks Kenji to save Tom. He cannot tell his family what he does. He appears in A2.6 (his empty chair) and A2.9 (the wedding), and dies outside the building in the 2059 bomb, on overwatch in the car park outside Hannah's roster.
 
 Her habit of attention is who looks after whom. She notices which spouse cuts the other's meat, which guest watches the room instead of the bride, and who is on the school board's side of a proposal.
 
@@ -116,7 +123,7 @@ Oversees the network's droid survey crews. His habit of attention is what machin
 - In 2065 she saw the lenders withdraw in a coordinated pattern, with one exception: Kenji, who did not withdraw but increased his stake. She concluded that someone was working against Manswell and possibly against him. She hunted that hand for sixty years, starting from the 2059 file, the first she was handed in 2062 and the one she never closes.
 - In early 2125 (age 87) her Collection layer verified that four UNIN delegates were members of the conspiracy and linked to channels in the Russian Federation. She reported it. Kenji alone decided on the operation, and she carried it out, and the framing of the Russian Federation followed. Her conditioning removes betrayal and not disagreement, and she had pressed him to act sooner.
 - She watched the same counterintelligence officer build the case against Russia and find it too clean. At the proclamation days later she becomes Grand Marshal of the Inquisition, the UNAS rosters reach her desk, and she names him: Jack Harper. From 2135 she holds his full dossier, face included. They never meet or speak.
-- She marks the 2059 file closed in 2125 for the four she found, but keeps the page. The file proves nothing about who else was behind it, and her habit is to keep the page. The conspiracy remains undiscovered, so she believes the account is settled.
+- She marks the 2059 file closed in 2125 for the four she found, but keeps the page. The file proves nothing about who else was behind it, and her habit is to keep the page. Her network has known since 2061 that the organization exists but never who leads it, so she believes the account is settled.
 - At the Arcturus surrender in 2150 (age 112) she watches Harper walk out through the lower decks with the Emperor's approval. He never sees her. She lets him go because the network he will rebuild will lead her to every cell worth finding, and because the file he carries proves nothing. From then on every cell she arrests and every courier she follows tells her where the next one is.
 
 ### The secret between them

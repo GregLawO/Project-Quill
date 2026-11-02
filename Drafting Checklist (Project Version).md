@@ -99,7 +99,7 @@ In this setup the Project files are read-only copies in `/mnt/project/`. They ar
 - [ ] What the reader knows is kept separate from what the characters know [G33]
 - [ ] A secret stays secret: no character learns it by accident, and no in-universe document states it [G34, G36]
 - [ ] Reaper secrecy holds: only Kenji, Hannah, Brooks, and Alexandra (from her twenty-first birthday) know, and no one else refers to an unnamed enemy the drills are for [S12]
-- [ ] The conspiracy probes (A2.3, A2.4, A2.6, A4.3) read as ordinary greed, no POV links them before 2065, and no document connects them [S12]
+- [ ] The incidents (the break-in in A2.3, the shakedown in A2.6, the bomb, the theft in A2.4, and the offer in A4.3) are shown as the outline sets them, and no chapter shows the network knowing who leads the organization before the outline says so [S12]
 - [ ] In-universe documents never contain the conspiracy, the true cause of the 2065 withdrawals, Kenji's role in the Charon flare, or the truth of the 2125 killing, and Kenji's name appears only for minor matters [S12]
 - [ ] Hannah's list of questions she chose not to ask is shown only inside her head [S12]
 - [ ] No human meets an alien, the Citadel appears nowhere, and nothing it could not have seen is written as seen [S12]

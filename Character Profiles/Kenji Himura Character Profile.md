@@ -48,7 +48,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 22. **Who he protects.** In order: Hannah, the found family (the first dozen servants and the Shepards), then humanity's survival. From 2154 Alexandra sits beside Hannah at the top.
 23. **Who he distrusts.** Anyone who hopes a single hero will save everyone, because he knows how that usually ends. Whoever made the lenders withdraw in 2065, who he suspects is working against him. Institutions. And his own knowledge, since he never learns where it came from.
-24. **Who or what he owes.** Tom, who calls him "son." Hannah, who stayed. The marine, who traded his memories for treatment and became the first member of his network. The child lost in 2059. From 2125, the ten innocents.
+24. **Who or what he owes.** Tom, who calls him "son." Hannah, who stayed. The marine, who traded his memories for treatment and became the first member of his network. The child lost in 2059. Danny Shepard, who died on a post he gave him. From 2125, the ten innocents.
 25. **Loyalty under pressure.** His secret plan against Hannah's wish for openness. In 2065 he asks her to move work farther from Sol and says "farther" twice. She does not ask why, and from then on she trusts him a little less. In 2125 he carries out the operation despite her arguments against empire, and ten innocent people die with it.
 26. **Line and price.** He will never put a directive in Hannah or the found family, and Hannah and Alexandra receive the full Primaris enhancement without the loyalty conditioning. He would only break this if he had proof that conditioning was the only way to stop the Reapers from taking control of them. **(decision)**
 27. **Secret.** He is a transmigrator who read Mass Effect fan novels, and he knows the Reapers are coming. No character ever learns the first, and only the inner circle learns the second, much later.
@@ -73,6 +73,6 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 ## Rules this profile follows
 
-- No Reaper thoughts and no past-fiction thoughts before 2065.
+- No Reaper thoughts and no past-fiction thoughts before 2065. Before then he may see a company name and feel he knows it without being able to place it (author ruling, the first of three waves of realization).
 
 * Dialogue never runs in single-sentence replies. Characters answer in several sentences, with reasons, hesitations, and follow-ups, as people do.

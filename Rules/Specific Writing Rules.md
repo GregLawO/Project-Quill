@@ -87,7 +87,7 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 ## 12. Secrecy and reveal discipline
 
 - **Reaper secrecy.** Only Kenji, Hannah, Brooks, and Alexandra (from her twenty-first birthday) know of the Reapers, and they learn it from him much later. No chapter, document, or character outside the inner circle may refer to an unnamed enemy that the drills are for. Kenji's stated justification is a hypothetical: what if what killed the aliens on Mars, or the makers of the alien FTL artifacts, came back hostile?
-- **The conspiracy** begins in 2051 with the release of his technology. Four probes before 2065 read to every POV as ordinary greed: the break-in (A2.3), the stolen Primitive Med-Pod (A2.4), the clinic shakedown (A2.6), the "partnership" offer (A4.3). No POV links them before 2065, Brooks logs them as unrelated files, and no document connects them. No chapter names the conspiracy before Kenji's network discovers it.
+- **The conspiracy** begins in 2051 with the release of his technology. The break-in (A2.3), the shakedown (A2.6), the bomb, and the theft of five Level 2 pods (A2.4, 2061) are laid side by side by the network, which finds one organization but not who leads it, and Brooks takes the file in 2062. No chapter shows the network knowing who leads it before the outline says so.
 - **In-universe documents** never contain the conspiracy, the true cause of the 2065 withdrawals, Kenji's role in the Charon flare, or the truth of the 2125 killing, which appears in documents only as the act of the Russian Federation. POVs may show the truth where they could know it. A document may note the timing of the withdrawals but not name a cause.
 - **Kenji's name** may appear in documents for minor matters only.
 - **The 2065 withdrawals.** Kenji did not order the squeeze and does not know who did. He proves nothing.
@@ -97,7 +97,7 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 
 ## 13. Network, robots, and technology
 
-- **Robots first.** From 2052 the private sites are guarded by Level 2 robot sentries under Level 1 Dumb AI task controllers. No human operative exists before the network, and none appears in a chapter dated earlier.
+- **Robots first.** From 2052 the private sites are guarded by Level 2 robot sentries under Level 1 Dumb AI task controllers. No human operative exists before the network, and none appears in a chapter dated earlier. From 2053 the sites are guarded by Level 3 droids on a data crystal system, and the operatives wear Level 2 powered suits (author ruling).
 - **When Kenji uses his technology (author ruling).** He keeps his advanced technology and robots from the public until a time he chooses. But he never refuses to use them when someone he holds dear is in danger, and he will use them whenever the use can be disguised or hidden. Keeping a technology secret never outranks keeping his people safe. When he does use it, he makes it look ordinary, as he did with the anonymous tip and the "intoxicated" report in A2.3.
 - **The network** is founded at the end of A2.3 (2052) with Vance as first member. It exists before Kenji meets the Shepards, grows in A2.4, and Galveston opens in A2.5.
 - **Operatives carry no POV**, apart from Vance.

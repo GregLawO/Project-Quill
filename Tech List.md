@@ -63,7 +63,7 @@ He allows the following technologies to spread, up to the limits shown.
 | 3 and above | (open) |
 
 - **Only Level 2 Med-Pods and better can rejuvenate and extend longevity (author ruling).** The public clinics never offer it.
-- (inference) Anyone who is rejuvenated or lives past a natural span was treated at Level 2 or better: network recruits, the found family, Manswell, and later the Imperium's own people. How life extension reaches the wider population (Protagonist_and_Timeline.md, item 9) is open.
+- (inference) Anyone who is rejuvenated or lives past a natural span was treated at Level 2 or better: network recruits, the found family, the elites who pay for it, Manswell, and later the Imperium's own people. How life extension reaches the wider population (Protagonist_and_Timeline.md, item 9) is open.
 - (inference) Primitive is the grade the world could have invented unaided, which is why it cures and does not renew (A2.2).
 
 ### Cloning tiers
