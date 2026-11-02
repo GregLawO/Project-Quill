@@ -353,5 +353,10 @@ Applied Revision_Proposal_and_Related_Fixes.md to the files it touches: The_Legi
 - **Pre-draft checklist.** Added the reader-pause and plain-language items from the General file, and a check that every reveal sits at its set point.
 - **Draft checks.** Added the rules that were missing: Clear writing (rules 7 to 10), Characters and voice (rules 19 to 32 and Specific section 15), Information and secrets (rules 33 to 37 and Specific section 12), Continuity and technology (rules 38 to 41, Specific sections 11 and 13), and the rest of Kenji's rulings (Specific section 10). Each check carries a tag to its source rule. Format gained the A2b length, the date-order exceptions, and the append-only rule for chapter files.
 - **Open items.** A final check lists the Specific section 19 items so a draft labels them and does not settle them quietly.
-- **Inferences made without asking:** the checks treat the General Writing Rules as in force although the file still says Proposed, and rules marked (open) or (decision) are to be labeled and not enforced. Rules 1 to 6 and 16 to 17 were already covered and are tagged, not repeated.
-- **Noticed, not changed.** The two Rules files still refer to `Writing_Rules.md`, `Specific_Rules.md`, `General_Writing_Rules.md`, and the deleted revised style file by their older names. The checklists use the current file names.
+- **Inferences made without asking:** rules marked (open) or (decision) are to be labeled and not enforced. Rules 1 to 6 and 16 to 17 were already covered and are tagged, not repeated.
+
+### Revision: Rules files approved and cleaned up (author ruling)
+
+- **General Writing Rules is approved.** Removed "(Proposed)" from its title and the line saying the rules were proposals. The checklists no longer carry the Proposed note.
+- **Obsolete files.** `Writing_Rules.md` and `Specific_Rules.md` were deleted by the author. Every reference to them in `General Writing Rules.md` and `Specific Writing Rules.md` now names the current file, `Specific Writing Rules.md` or `General Writing Rules.md`.
+- **Noticed, not changed.** The Project Version's underscore names (`General_Writing_Rules.md`, `Specific_Writing_Rules.md`) are guesses at how the Project names these files.

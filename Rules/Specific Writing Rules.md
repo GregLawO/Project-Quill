@@ -2,7 +2,7 @@
 
 One place for every rule that governs how a chapter is written. It gathers the rules from Overview.md (Writing Rules), the Elastic Pace System (Revised), the Drafting Checklist (Project Version), Act_I_Outline.md (Sections 4 and 5), Human_Characters.md, Excerpt_Bank.md (casting rules), the character profiles, and the Revision Log.
 
-**Scope.** Rules that apply to every chapter live in General_Writing_Rules.md and are not repeated here. This file (formerly Writing_Rules.md) holds what is specific to this story: its chapters, characters, dates, tiers, and secrets. Style rules (word ranges, gears, endings, voice sheet, checklists) live in the Writing Style section of General_Writing_Rules.md. Kenji's moved rulings are marked *(moved from General)*. Section numbers are unchanged so older references still work.
+**Scope.** Rules that apply to every chapter live in General Writing Rules.md and are not repeated here. This file holds what is specific to this story: its chapters, characters, dates, tiers, and secrets. Style rules (word ranges, gears, endings, voice sheet, checklists) live in the Writing Style section of General Writing Rules.md. Kenji's moved rulings are marked *(moved from General)*. Section numbers are unchanged so older references still work.
 
 **Status labels.** An entry the author states, or approves with "Auto approved," is fact. (inference) means a consequence drawn from settled facts. (open) means unsettled. (author ruling) means the author stated it and it supersedes earlier text. (decision) means my choice, open to overrule.
 
@@ -30,15 +30,15 @@ One place for every rule that governs how a chapter is written. It gathers the r
 
 ## 3. The Elastic Pace System
 
-(Moved to General_Writing_Rules.md, Writing Style section.)
+(Moved to General Writing Rules.md, Writing Style section.)
 
 ## 4. Openings
 
-(Moved to General_Writing_Rules.md, Writing Style section.)
+(Moved to General Writing Rules.md, Writing Style section.)
 
 ## 5. Endings and batches
 
-(Moved to General_Writing_Rules.md, Writing Style section.)
+(Moved to General Writing Rules.md, Writing Style section.)
 
 ## 6. Plain language
 
@@ -46,14 +46,14 @@ Names already set in the story (Med-Pod, Primitive, Level 2, the ending types) a
 
 ## 7. Voice and habits of attention
 
-The voice sheet table is in General_Writing_Rules.md, Writing Style section. These are the story-specific notes.
+The voice sheet table is in General Writing Rules.md, Writing Style section. These are the story-specific notes.
 
 - In A2b, Hannah's three chapters take three different objects: missing people and answers (A2.6), one blank number (A2.8), empty seats (A2.9). She counts nothing in A2b.
 - Known clashes and their fixes (proposed, pending ruling): A2a, A3a, A4b, B2a, C3, C4, C5, and C7 each have a fix listed in Act_I_Outline.md, Section 4.
 
 ## 8. Emotion across both gears
 
-(Removed. Covered by General_Writing_Rules.md, rules 5 and 6.)
+(Removed. Covered by General Writing Rules.md, rules 5 and 6.)
 
 ## 9. Exposition chapters
 
@@ -152,7 +152,7 @@ Tom turns a tool over. Ashby tilts his head and touches the stethoscope. Manswel
 
 ## 16. Pre-draft checklist
 
-(Moved to General_Writing_Rules.md, Writing Style section.)
+(Moved to General Writing Rules.md, Writing Style section.)
 
 ## 17. Draft checklist
 

@@ -2,7 +2,7 @@
 
 The process used to draft a micro-chapter, with the pre-draft checks and draft checks from the General Writing Rules, the Specific Writing Rules, and the Elastic Pace System. First applied to A2.1.
 
-**Where the rules live.** `Rules/General Writing Rules.md` holds the rules that apply to every chapter, and its Writing Style section holds the gears, endings, and voice sheet. `Rules/Specific Writing Rules.md` holds the rules for this story: its chapters, characters, dates, tiers, and secrets. The tags in brackets below point to them. G is a rule number in the General file, and S is a section number in the Specific file. A rule marked (open) or (decision) in either file is not settled. Do not enforce it as fact. Use the working version and label it when delivering. The General Writing Rules are still marked Proposed until the author approves them.
+**Where the rules live.** `Rules/General Writing Rules.md` holds the rules that apply to every chapter, and its Writing Style section holds the gears, endings, and voice sheet. `Rules/Specific Writing Rules.md` holds the rules for this story: its chapters, characters, dates, tiers, and secrets. The tags in brackets below point to them. G is a rule number in the General file, and S is a section number in the Specific file. A rule marked (open) or (decision) in either file is not settled. Do not enforce it as fact. Use the working version and label it when delivering.
 
 ## Process
 

@@ -1,6 +1,6 @@
-# General Writing Rules (Proposed)
+# General Writing Rules
 
-These are the rules from Writing_Rules.md (now Specific_Rules.md) with the one-off details taken out. Each one is meant to apply to every micro-chapter, in any chapter, with any character. They are proposals until the author approves them. Anything that only applies to one character, date, or scene is left out.
+These are the rules that apply to every micro-chapter, in any chapter, with any character. Anything that only applies to one character, date, or scene is left out.
 
 ---
 
@@ -83,7 +83,7 @@ These are the rules from Writing_Rules.md (now Specific_Rules.md) with the one-o
 
 ## Writing Style
 
-The style rules for how a chapter is built and how it sounds. This section was assembled from My Writing Style - The Elastic Pace System (Revised) and from rules moved back from Specific_Rules.md. Rules 14, 15, 42, 43, and 44 now live here.
+The style rules for how a chapter is built and how it sounds. This section was assembled from My Writing Style - The Elastic Pace System (Revised) and from rules moved back from Specific Writing Rules.md. Rules 14, 15, 42, 43, and 44 now live here.
 
 ### Chapter shape and format
 - **Page length.** Every chapter runs 2 to 4 pages. (Rule 44 below sets the word counts.)
@@ -227,10 +227,10 @@ The water reached his knees."
 
 ## Specialized rulings
 
-(Moved to Specific_Rules.md, Section 10.)
+(Moved to Specific Writing Rules.md, Section 10.)
 
 ---
 
 ## Left out as one-offs
 
-These apply only to one case, so they are in Specific_Rules.md and not here: the Kenji point-of-view count per chapter, Vance's A3.1 match to A1.5, the robot and network timeline, the tech tier tables, the 2125 delegate count, the patron seats, the ten-line character "Avoid" lists, each character's own if-then rules and verbal habits (they belong in the profiles), and the open items in section 19.
+These apply only to one case, so they are in Specific Writing Rules.md and not here: the Kenji point-of-view count per chapter, Vance's A3.1 match to A1.5, the robot and network timeline, the tech tier tables, the 2125 delegate count, the patron seats, the ten-line character "Avoid" lists, each character's own if-then rules and verbal habits (they belong in the profiles), and the open items in section 19.
