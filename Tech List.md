@@ -34,7 +34,7 @@ He allows the following technologies to spread, up to the limits shown.
 | --- | --- | --- |
 | Anti-Gravity | Primitive | Lifts heavy loads over short ranges at high power cost. |
 | Warp | Primitive before the Imperium. Under the Imperium, civilian haulers up to Level One and civilian passenger ships up to Level Two | Primitive is 1 ly/day, Level One 31.25, Level Two 62.5 (Ships.md, Section 7). Haulers of 5 km and longer are Crown assets and stay outside the civilian grade. |
-| Med-Pod | Primitive | Rejuvenation and longevity treatments are available, and rare diseases can be treated. |
+| Med-Pod | Primitive | Cures disease and mends injury, and rare diseases can be treated. It does not rejuvenate or extend life (see Med-Pod tiers below). |
 | Lasgun and Bolter | Primitive | Reliable but of low quality. |
 | Energy Dissipation | Primitive | A thin, partial shield with a heavy power draw and short duration. |
 | Energy Generation | Functional tokamak fusion reactor | The Palladium Arc Reactor stays private. |
@@ -54,6 +54,17 @@ He allows the following technologies to spread, up to the limits shown.
 
 - (inference) Cerberus technology overlaps with the Primaris Process and the Inquisition's work, so it is more likely to stay private.
 - The conspiracy has no technology of its own. It seeks control of the firms, licensors, and regulators that stand between the allowed technologies and the public (author-side).
+
+### Med-Pod tiers (author ruling)
+| Level | Description |
+| --- | --- |
+| 1 (Primitive) | Cures disease and mends injury, and stops there. It never renews a body. The public clinic grade. |
+| 2 | Full technology. Rebuilds a body, rejuvenates, and extends longevity. Private, used in the hidden wings. |
+| 3 and above | (open) |
+
+- **Only Level 2 Med-Pods and better can rejuvenate and extend longevity (author ruling).** The public clinics never offer it.
+- (inference) Anyone who is rejuvenated or lives past a natural span was treated at Level 2 or better: network recruits, the found family, Manswell, and later the Imperium's own people. How life extension reaches the wider population (Protagonist_and_Timeline.md, item 9) is open.
+- (inference) Primitive is the grade the world could have invented unaided, which is why it cures and does not renew (A2.2).
 
 ### Cloning tiers
 | Level | Description |

@@ -277,6 +277,13 @@ Applied Revision_Proposal_and_Related_Fixes.md to the files it touches: The_Legi
 - **Inferences made without asking:** the rule covers narration in both gears and not the excerpt text; the hook rule is unaffected; atmosphere and deduction stay allowed when stated plainly; a character may withhold in dialogue if the sentence itself is clear.
 - **Noticed, not changed.** Two lines in A2.3 still use the older figurative habit ("A lock tells you about a man only once he is touching it" and "The sentries had worked, but they had worked late"), and A2.2 has not been checked against the rule.
 
+### Revision: plain language
+
+- **New Writing Rule (author ruling).** Avoid abstract shorthand and use plain, everyday language. Added to Overview.md (Writing Rules), the style file (Part 5 and the pre-draft checklist), and the Drafting Checklist (Style draft checks).
+- **Prompted by.** The A2b rewrite in Act_I_Outline.md, whose beat descriptions used lines like "reads the building by what is missing" and "carried over from Tom." Those entries were rewritten as plain accounts of what each person does.
+- **Inferences made without asking:** the rule covers prose, outlines, and bible files and not the excerpt text; the test is whether the sentence could be said to a friend and understood at once; names already set in the story are not shorthand.
+- **Noticed, not changed.** The rest of Act_I_Outline.md and the other bible files were not rechecked against this rule.
+
 ## Human_Characters.md
 
 ### Revision: chapter POVs
@@ -336,19 +343,3 @@ Applied Revision_Proposal_and_Related_Fixes.md to the files it touches: The_Legi
 ### Revision: who does not press Hannah
 
 - Human_Characters.md, Hannah's entry: "He does not press her" now reads "The Protagonist does not press her", so it is not mistaken for her father in the A1.1 scene. No other wording changed.
-
-## Act_I_Outline.md, Excerpt_Bank.md, Protagonist_and_Timeline.md
-
-### Revision: A2.1 reframed
-
-- **A2.1 opens seven months after the awakening (author ruling, 1 November 2026).** Kenji has already been awake for some time. He remembers the first morning while his hands absently make the tools that make tools. The first-morning scene (the diagram, the mirror, the rice, the knock) is now memory. Revised the A2.1 entries in Act_I_Outline.md and Excerpt_Bank.md and the Stage 1 line in Protagonist_and_Timeline.md. The draft is Drafts/A2 The Centuries That Became Days.md.
-- **Inferences made without asking:** the interval of seven months (autumn 2050); the rented rear bay of a tire shop in Texas City, paid in cash and funded by yard shifts; the tools shown (surface plate, scraped lathe, bench vise, gauge set, taper reamers); and the new hook, in which a column in the diagram's margin lists those tools in order and ends with the unreadable name at the top of the sheet. The bay and the tools lead into A2.2 ("Tools first") and the shed of A2.3.
-- **Not changed:** the A2.1 ending type (Q), the date (2050), the age (30), and the rules that he has no Reaper thought and no past-fiction thought.
-- **Noticed, not changed.** A2.5 (drafted) shows Tom treated in the hidden Level 2 wing, which matches the scar vanishing in A1.1 and the recruit pattern of Protagonist_and_Timeline.md item 2. The Act I outline lists Med-Pod L1 for A2.5, and Tom's treatment there is L2. The outline's "Tech: Med-Pod L1, Med-Pod L2 wing" already covers both.
-
-### Revision: A2.4 ledger cut to remove spoilers
-
-- **The network is a proper organization by the end of July 2053 (author ruling, 1 November 2026).** A2.4 no longer shows a slow nine-year build. The ledger keeps October 2052, March 2053, June 2053 (now including the summer's consolidation and a drawn organization chart), February 2061, and October 2061. The 2061 entries read as a time skip.
-- **Cut.** The August 2056 entry (the hospital chain's shakedown and the facilities chief) spoiled A2.6, the April 2057 entry (clinics abroad and the shell managers) was the slow build, and the May 2058 entry (the wedding) spoiled A2.9. Revised the A2.4 entries in Act_I_Outline.md and Excerpt_Bank.md. The ledger list is now 2052, 2053, 2061.
-- **Inferences made without asking:** the June 2053 text now says Vance spent April and May training the staff, so the doors are staffed from opening day, and the organization chart in the green book is new. The shell-company managers are no longer shown. The 2061 entry still mentions a regional manager.
-- **Noticed, not changed.** Act_I_Outline.md still says in the robot-security thread that human sentries stand "beside the robots" at the clinics (A2.4), and A2.6 still has two sentry robots dark in the clinic corridor. Both conflict with the Overview ruling that clinics hold no robot sentries. A2.4 follows the Overview.

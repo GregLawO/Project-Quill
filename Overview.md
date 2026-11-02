@@ -1,107 +1,172 @@
 # Story Bible: Mass Effect AU Novel
 
-Only details the author has explicitly settled are listed here. Open questions are in Story_Structure.md, Section 13.
+Only details the author has explicitly settled are listed here. Open questions are in Section 13.
 
-**Authority rule.** New information supersedes everything that has already been established. Anything affected by new information is obsolete and must be revised to align with it (see the Writing Rules below and the Revision Log).
+## The Protagonist
 
-**Status labels.** An entry the author states, or approves with "Auto approved," is fact. A suggestion the author never questions or argues is approved. (inference) means a consequence drawn from settled facts. (open) means unsettled. (author ruling) means the author stated it in conversation and it supersedes earlier text.
+Kenji Himura, of Japanese descent. A1 stays as published: he is not named and has no POV there, and he appears only as the hand behind the nameless card. From A2 he carries POV.
 
-**Process.** The story is written chapter by chapter, starting with the Prologue (see Story_Structure.md, Section 12). The story is written until it is finished, however long that takes. There is no fixed word count (author ruling). Act I is detailed in Act_I_Outline.md, which governs where an older file disagrees with it.
+No character knows he is a transmigrator, and none ever learns how he knows what he knows. This holds for Hannah, Brooks, and the whole inner circle.
 
-**Published canon (author ruling, revised 1 November 2026).** Only Chapter A1 is published and canon. It is never rewritten, and every rule below applies to it only where it says so. A2 and A3 were drafted at 5 micro-chapters each but go live on 2 November 2026, so they were reopened and revised (A2 to 20 micro-chapters, A3 to 10, see Act_I_Outline.md). The earlier rule that A1 to A3 are published and unchanged is withdrawn for A2 and A3. The first release is the first batch of A2 (A2.1 to A2.5).
+## The marine
 
-## Writing Rules
+**Gunnery Sergeant Dominic Vance, USMC, retired (author ruling; name and rank are placeholders (decision)).** A locked recurring OC and member of the main cast. His profile is Dominic_Gunny_Vance_Character_Profile.md.
 
-### The Protagonist's point of view
+- **Origin.** He is dying in 2051. He trades his memories, experience, and expertise for treatment, through a two-way upload that copies them out and gives him his lungs back. Kenji uses the copy to create and hone the security droids' combat abilities, and the droids' routines are the only place it lives. No character is told where the droids' fighting style comes from.
+- **Role.** He is the first member of the secret network and its first leader. He scouts and recruits Brooks and brings her to Kenji. When Brooks takes over the network, he becomes Kenji's personal guard, and later Legion Master of the Custodian Legion.
+- **Robots.** Public robots are Level 1 (fixed arms and simple mobile units under human control), and no public robot guards anything.
 
-**Kenji Himura carries POV from A2 on (author ruling, revised).** The Protagonist is named Kenji Himura, of Japanese descent. A1 stays as published: he is not named and has no POV there, and he appears only as the hand behind the nameless card. Every rule that says he is unnamed or without POV applies to A1 only. From A2:
-- His name appears in POV bylines and in what other characters call him. It may appear in some in-universe documents, but only for minor matters, because his secret network still covers his tracks.
-- His POV may carry his thoughts. From A2.1 (2050) he suspects he has transmigrated, so the reader learns that at his first chapter. The Reapers, and the fact that this is the Mass Effect universe, come only from 2065 (B1.2). He has no thought that this was once a story he read before then (author ruling).
-- No character knows he is a transmigrator, and none ever learns how he knows what he knows. This holds for Hannah, Brooks, and the whole inner circle.
-- **Count (author ruling).** He carries 7 of A2's 20 micro-chapters (A2.1, A2.2, A2.3, A2.5, A2.10, A2.12, A2.15), none of A3's 10, and 1 of A4's 10. In every other chapter he carries at most 3 or 4 per 10 micro-chapters, to leave room for the other POVs.
-- **No Kenji POV is dated after 2064 until B1.2**, so the realization lands there.
+## The 2059 bombing, the 2065 withdrawals, and the 2125 killing
 
-**Kenji's voice (auto approved).**
-- **Habit of attention:** what a thing is for, and what it will be used for next. This keeps him distinct from Hannah (what is missing), Brooks (what can be counted), Manswell (money and ownership), and the marine (what can be defended).
-- **Speech:** short declaratives, few metaphors, and workshop and tool images when he does use one. He asks "what do you need?" more often than he gives orders. His dry humor is rare.
-- **Fate habit:** he never says "it can't get worse." He notes what arrives early or late and does not count it.
-- **Fast Gear tell:** he squares objects on a desk and washes his hands. His own chapters never name shaking hands. Named feelings are stripped as in every Fast Gear passage.
-- **Before 2065:** the knowledge arrives in the hands before the head. His unease is a cautious man's unease. No Reaper thoughts, and no thought that this is a fiction he once read. He may suspect he has transmigrated.
-- **From 2065:** he may name his dread once per chapter at most. Fear shows up as lists of tasks. References to his past life run at most three sentences per chapter and come only through habit (he finishes every meal, and flinches at being wanted).
+These are set (author ruling).
 
-**Fate (author ruling).** Kenji thinks and feels as if the universe is working against him. The text mostly allows chance or human causes to explain what happens. Fate's pressure costs him materials, money, time, people, and trust, and never the end state (the Imperium wins in 2150, and the Reapers arrive in 2183).
-
-### The marine
-
-**Gunnery Sergeant Dominic Vance, USMC, retired (author ruling; name and rank are placeholders (decision) and may be swapped on request).** A locked recurring OC and member of the main cast. His profile is Dominic_Gunny_Vance_Character_Profile.md.
-- **Origin.** He is dying in 2051. He trades his memories, experience, and expertise for treatment, through a two-way upload that copies them out and gives him his lungs back. Kenji uses the copy to create and hone the security droids' combat abilities, and the droids' routines are the only place it lives. This supersedes "knowledge upload never spreads" for this case only. No character is told where the droids' fighting style comes from.
-- **Role.** He is the first member of the secret network and its first leader. He scouts and recruits Brooks and brings her to Kenji. When Brooks takes over the network, he becomes Kenji's personal guard, and later Legion Master of the Custodian Legion. This supersedes the ten-Legion rule (author ruling); the Legions file and the Custodian entries need a Custodian Legion with its own Legion Master.
-- **Conditioning.** He is not conditioned in his early years and stays by choice. He receives the conditioning layer with the Primaris Process when he joins the guard (decision).
-- **His squad (author ruling).** Teodor Ashby, the squad's radio technician, survived the same ambush. Vance recruits him in March 2053 (A2.4).
-- **POV in Act I.** A2.4 (told as his dated ledger, 2052 to 2061) and A3.1 (2062, Brooks's recruitment from his side), at most. The match to the published A1.5 must hold in every gesture.
-- **Habit of attention:** what can be defended and what cannot. He reads ground, cover, sight lines, and where he would stand, with his body. He counts nothing, so he does not clash with Brooks. He taught Kenji where to sit in a room.
-
-### The secret network and the early conspiracy
-
-- **Robots first (author ruling).** From 2052 the private sites, such as the Baytown warehouse, are guarded by Level 2 robot sentries, each run by a Level 1 Dumb AI task controller. Clinics hold no robot sentries (author ruling): a public clinic shows nothing the world could not have built, and only human operatives guard its doors. No human operative exists before the network does, and none appears in any chapter dated earlier. Public robots are Level 1 (fixed arms and simple mobile units under human control), and no public robot guards anything.
-- **The network is founded at the end of A2.3 (2052), with the marine as its first member (author ruling).** It exists before Kenji meets the Shepards, grows in A2.4, and the Galveston clinic of A1 opens in 2053. Operatives carry no POV, apart from the marine, who is main cast and not an operative in this sense. From 2053 human operatives guard the clinic doors, with no robots beside them.
-- **The conspiracy begins with the release of his technology (author ruling, 2051).** The early pressure is its first moves. Four probes before 2065 read to every POV as ordinary greed: the break-in (A2.3), the stolen Primitive Med-Pod (A2.4), the clinic shakedown (A2.6), and the "partnership" offer (A4.3). No POV before 2065 links the incidents, and none names the conspiracy. Brooks logs the earlier incidents as unrelated files. No in-universe document connects them. This supersedes the earlier 2059 start date in Human_Characters.md and Protagonist_and_Timeline.md. The four delegates of 2125 are partly responsible for the 2059 bomb and the 2065 withdrawals only, so the conspiracy stays larger than those four.
-- **Tiers (author ruling).** Kenji starts the tech-level system in A2.2: he writes two columns himself, a Primitive grade for what may leave the room and a higher level for what stays behind. The Primitive grade must always be one the world could have invented unaided. The public and private levels by 2060 are set in Act_I_Outline.md.
-- **Early timeline notes.** The first unmanned warp flights (2061 to 2063) are private. The first crewed crossing beyond the Solar System is A2.17 (2064), so the A2 excerpt's "no human being had gone beyond the Solar System" holds. Hannah leaves the complex security post after the 2059 bomb and founds her private firm in 2060 (decision). Teodor Ashby first appears in A2.4 (March 2053), recruited by Vance, and first carries POV in A2.14 (2063). He later becomes a Custodian (author ruling).
-
-### Reaper secrecy
-
-**Reaper secrecy (decision, revised).** Only the Protagonist and his inner circle (Hannah, Brooks, and Alexandra from her twenty-first birthday) know of the Reapers before they appear, and they learn it from him much later in the story. The reader knows from Kenji's POV from 2065. Everyone else, including every OC, knows nothing and suspects nothing.
-- Until the inner circle is told, Kenji justifies his plans with a hypothetical he states aloud: what if what killed the aliens on Mars, or later the makers of the alien FTL artifacts, came back and proved hostile? He never names the enemy to anyone.
-- The Imperium's forces train for every contingency their commanders can imagine, as any army does, and no one finds that remarkable. No chapter, document, or character outside the inner circle may refer to an unnamed enemy that the drills are for.
-
-### The 2059 bombing, the 2065 withdrawals, and the 2125 killing
-
-These are set (author ruling), and they supersede the earlier wording that the hidden service staged the 2065 squeeze.
 - **2065.** Kenji is a major investor in Manswell's expedition from the start, through a puppet finance firm. When the other lenders pull out, he becomes the largest contributor so that the expedition goes through. Nobody squeezes Manswell on his behalf. Brooks and the network see coordinated withdrawals and conclude that someone is working against Manswell, and possibly against Kenji.
 - **2125.** Brooks discovers that a few UNIN delegates are verified members of the conspiracy acting against Kenji, in league with the Russian Federation, and that they are partly responsible for the 2059 bombing that killed his and Hannah's child and for the 2065 withdrawals. She reports it. Kenji decides on the operation, and Brooks carries it out, framing the Russian Federation. His motive is revenge. The public line stays that law answers murder.
-- **The conspiracy.** The author-side label is "Cerberus." It is a different organization from canon's and has no link to Harper or the Third Hand. Its method is shadow control of the world's most advanced technologies, Kenji's above all, through cutouts, firms, regulators, and licensors. It has no technology of its own that his network could trace. It survives 2125 and remains undiscovered by his network, which treats the case as closed. It never names itself on the page before his network discovers it. How and when it pays off depends on how the story unfolds. For its start in 2051, see the section above.
+- **The conspiracy.** The author-side label is "Cerberus." It is a different organization from canon's and has no link to Harper or the Third Hand. Its method is shadow control of the world's most advanced technologies, Kenji's above all, through cutouts, firms, regulators, and licensors. It has no technology of its own that his network could trace. It survives 2125 and remains undiscovered by his network, which treats the case as closed. It never names itself on the page before his network discovers it. How and when it pays off depends on how the story unfolds.
 - **Who learns of the revenge.** Whether any character learns that the 2125 killing was Kenji's revenge depends on how events unfold for them. Neither outcome is ruled out.
-- **Documents.** No in-universe document contains concrete evidence of the true motive, of the hidden service, of the conspiracy, or of Kenji's role in the Charon flare. The 2125 killing appears in documents only as the act of the Russian Federation. Chapters may show the truth through POVs that could know it.
 
-### Chapter structure
+## Patron characters
 
-- **Chapter sizes (author ruling, revised).** A1 has 5 micro-chapters (published). A2 has 20, released as four batches of 5, and A3 has 10, released as two. From A4 on every chapter has 10 micro-chapters, released 5 at a time, except C6, which stays at 5 (Act_I_Outline.md). C1 to C5 and C7 carry their original casts of 5 and are extended to 10 when drafted. Act I as currently cast is 120 micro-chapters.
-- Excerpts keep their order. Within a chapter, micro-chapters are ordered by date (author ruling). Two deliberate exceptions: A3.1 is dated 2062 and leads A3 as a step back to the published A1.5, and A2.4 is told as a ledger from 2052 to 2061 and is ordered by its start date.
-- **Generic OC voices (author ruling).** Movement 1 is exempt from the 20 percent guide, because its OC voices carry the technology showcase (11 of 35). In Movement 2 they stay below 20 percent (8 of 50).
-- **Movements.** 1, The Three Doors (A1 to A3). 2, The Gamble (A4 to B4). 3, The Dead (C1 to C3). 4, The Road (C4 to C7). The names are proposals (decision).
-
-### Patron characters
-
-- Exactly 10 patron seats exist. Each patron builds one original character through a character profile. Roles are hidden from patrons until their characters appear. The Author writes each character from the locked profile.
-- Patrons cannot influence Kenji, Hannah, her parents, Brooks, the marine, or other canon and OC characters the Author has not opened.
+- Each of the ten patron seats is built by one patron through a character profile. Roles are hidden from patrons until their characters appear. The Author writes each character from the locked profile.
 - Hannah's parents (Tom and Ruth Shepard) are not patron characters. The found-family servants are background characters and carry no POV.
 - A patron's character may die. Death is a result of the story and not a penalty.
 
-### Chapter excerpt header
+## 8. The Reapers
 
-**Chapter excerpt header (author ruling, revised).** Every chapter draft opens with its excerpt from Excerpt_Bank.md, because the excerpt is the base of the chapter. The excerpt sits at the very top of the draft, above any chapter title or byline, and is set as if quoted from a historical work:
-1. The excerpt's title only, as a heading, with no code (A1) and no "Excerpt" label.
-2. The excerpt text, word for word from the bank, in italics and enclosed in quotation marks.
-3. An attribution line below it, a dash and the source in italics. The source is "The Road to the Stars", the Prologue's title, with no author named.
-4. Then the chapter's own title, byline, and micro-chapter prose.
-Every micro-chapter draft of the excerpt carries the header.
+- Their FTL speed is 30 ly per day (author).
+- They usually clean up the galaxy after each cycle so the next cannot discover how they operate.
+- They know Arcturus is a stepping stone toward many unconnected systems. (open) Whether this holds after the Imperium moves the Arcturus relays.
+- They search unconnected systems for developing species, but only within one day of travel from the relay network, and only after they finish wiping out the galaxy for the cycle.
+- Kenji does not use Cerberus's Reaper research (author ruling), so it adds no indoctrination risk to his people.
 
-**The excerpts are an uninformed account (author ruling, revised).** From A2 on, the excerpt text stays word for word but is read as the account of an independent scholar who cannot see what the micro-chapters show. The micro-chapters may contradict or complete it, so every excerpt can be read as incomplete or wrong. A1 stands as published. The earlier wording that excerpts carry only information the Protagonist sanctioned is withdrawn.
+**Derived from the Reaper speed**
+- The Reaper search radius around the relay network is about 30 ly. One 30 ly sphere holds about 300 star systems, and the 25 mapped relay systems hold roughly 5,000 within 30 ly of any of them (range 4,000 to 7,500). The 15 ly spheres of the 25 relay systems hold roughly 900.
+- Mark I warp (31.25 ly per day) is faster than the Reapers, as is every higher level. The Redoubt Worlds lie 1,000 ly from the nearest relay, far outside the radius.
+- Moved relays remain in the relay network, and the Imperium still occupies the 15 ly around former Relay systems (author ruling).
+- With every Imperial relay in Adamant, the radius around Imperial relays centers on Adamant. Moved relays relink to their former partners and open from Adamant.
+- The Reaper radius stays at 30 ly (author ruling). The ring from 15 to 30 ly around Asgard, Utopia, Vetus, and the Fortress Systems is searched and unoccupied. Arcturus and Euler lie wholly inside the 100 ly sphere around Sol.
+- (open) How continuous expansion changes the Reapers' search and cleanup.
 
-**Excerpt register (author ruling).** What an excerpt says about how the written accounts read, such as the A1 excerpt's "stunned, flat register" and "the accounts do not gush", describes the in-universe record only. It does not apply to the chapters written from the excerpts and must not flatten them. Emotion is essential in the chapters. Characters feel, show, and are moved by what happens to them. The Elastic Pace gears still set how emotion is carried: inside the character's head in the Slow Gear, and through action and the body in the Fast Gear.
+## 12. Story Structure
 
-### Style
+- **Order.** The story is written chapter by chapter, starting with the Prologue. The Prologue is a brief in-universe history in the manner of the opening of *The Fellowship of the Ring*: impersonal, demonstrative, and non-technical, with no sign of who wrote it. It is the file Prologue_The_Road_to_the_Stars.md. Act I is planned in detail in Act_I_Outline.md.
+- **The 2160 first phase.** A separate part of the novel, focused on 2160, with mostly alien POVs reacting to the Imperium. The background history reaches the reader through the aliens' questions or through the chapters below. (open) Whether the three acts run as one block before the first phase or interleave with it. Nothing about the first phase is settled until the author chooses.
+- **Casts.** The micro-chapter casts are in Excerpt_Bank.md, and the Act I casts as revised are in Act_I_Outline.md.
+- **Release plan.** Chapters release weekly in batches of five. With A2 at 20 micro-chapters, A3 at 10, and A4 at 10, Act I is 120 micro-chapters and about 24 weekly batches.
+- **D to F expansion.** Chapters_D_to_F_Expansion_and_Recurring_OCs.md added 33 micro-chapters to Parts D to F and ten recurring OCs (Human_Characters.md, Section 8A). Open: Part G has no slots for the follow-ons of Haddad, Hale, and Voss, whether any recurring OC survives into the 2160 first phase, and Reyes's Primaris date.
 
-**Style (author ruling).** The Elastic Pace System, revised for serialization, governs every chapter. Each chapter opens on a concrete, question-raising detail, and endings rotate through physical event, quiet reversal, held breath, withheld answer, and emotional beat, with no more than two physical events in a batch of five. In the Fast Gear, named thoughts and feelings are stripped but one body detail stays. Each recurring POV keeps its own habit of attention, and a motif such as counting belongs to one character per batch. Exposition narrators carry a small want and, where one fits, a deadline.
+### 12A. Acts and arcs (decision)
 
-### Contrast conjunctions
+The 32 chapters are divided into three acts and six arcs. An act ends on a major reversal. An arc follows one governing question, and each sits wholly inside one act. Counts are micro-chapters as currently cast, and Part C to G counts will rise as chapters are extended to 10.
 
-**Contrast conjunctions (author ruling).** Use "but", not "and", when the second clause cuts against what the first clause leads the reader to expect. An event whose expected result fails to follow, a sign that is not borne out, or a fact that undercuts the one before it takes "but". Use "and" only when the second clause adds to the first or follows from it. The test is the reader's expectation: if the first clause sets up a confirmation and the second clause refuses it, the word is "but". Example: "A card slides under the door, but the step is empty," not "and the step is empty." The rule matters most at a chapter's close, where a quiet reversal or an empty result carries the hook.
+| Act | Arcs | Chapters | Years | Micro-chapters | What changes | Ends on |
+|---|---|---|---|---|---|---|
+| I. The Gift | 1 and 2 | A1 to C7 | 2050 to 2075 | 120 | Humanity is handed cures, ships, and machines by no one it can name. The reader sees who is behind the gift, the network he builds, and what it costs him. The cavern shows that humanity was not first, and Charon turns out to be a door. | The road runs out at the second jump, and in the letters dread overtakes fascination. |
+| II. The Sword | 3 and 4 | D1 to F1 | 2078 to 2150 | 70 | The colonies spread, the quarrels turn violent, the delegates are killed, and the Imperium is proclaimed within the day. Twenty-five years of war follow. | The Arcturus surrender, when the last opposition either kneels or goes underground. |
+| III. The Law | 5 and 6 | F2 to G5 | 2125, 2151 to 2175 | 48 | The empire claims its territory, shuts the relays, and occupies the stars at two a day. Its opponents learn that it is thin. | The Heir is told about the Reapers, and Wong's broadcast of Harper's file is about to be found. |
 
-### Reader flow
+- Act I opens in 2050 with Kenji (A2.1), then runs forward (see Act_I_Outline.md).
+- Act I's four movements: 1, The Three Doors (A1 to A3, 35 micro-chapters); 2, The Gamble (A4 to B4, 50); 3, The Dead (C1 to C3, 15, to extend); 4, The Road (C4 to C7, 20, to extend, with C6 at 5). The movement names are proposals (decision).
+- F2 recalls the 2125 proclamation next to its 2151 items, a deliberate flashback frame at the head of the consolidation.
+- F1 closes Act II even though it shares a year with E4, because its hooks plant the resistance.
 
-**Reader flow (author ruling).** Never use words or structure that make a reader pause. A sentence is read once and understood. The test is whether a reader would stop to work out what a word means or what a sentence is saying.
-- (inference) The rule governs narration and prose in every POV, in both gears. It does not apply to the excerpt text, which stays word for word.
-- (inference) The opening-hook rule is unaffected. The question a chapter raises comes from a concrete detail on the page, never from wording the reader has to decode.
-- (inference) Atmosphere and deduction stay allowed in the Slow Gear when they say something plainly. A character may withhold something in dialogue, but the sentence that withholds it is still clear.
+| Arc | Act | Chapters | Years | Micro-chapters | Governing question | Turning point |
+|---|---|---|---|---|---|---|
+| 1. The Gift | I | A1 to B4 | 2050 to 2069 | 85 | Who is giving humanity all this, and what will it cost the one who gives? | The Manswell expedition sails, and the world starts dreaming of the stars. |
+| 2. The Door | I | C1 to C7 | 2065 to 2075 | 35 | What lay behind the dead, and will it return? | The ring closes at the second jump, and dread overtakes fascination. |
+| 3. The Quarrel | II | D1 to D4 | 2078 to 2125 | 28 | Who holds the law out here? | The delegates are killed, the Union confesses its helplessness, and the Imperium is proclaimed. |
+| 4. The War | II | E1 to F1 | 2125 to 2150 | 42 | Can anyone stop it? | The surrender at Arcturus. Harper walks out, and Petrovsky and Haddad slip away with six thousand. |
+| 5. The Shut Doors | III | F2 to F4 | 2125, 2151 to 2153 | 23 | What does the Imperium claim, and what does the ordinance take away? | The relays are lifted, and Sol has no road to the stars. |
+| 6. The Claiming | III | G1 to G5 | 2154 to 2175 | 25 | How far does the Imperium reach, and who can cut it? | Harper seals his file, the Heir is told, and Wong's transmitter is being triangulated. |
+
+- Arcs 5 and 6 can merge into one arc if fewer are wanted. (open)
+
+**Threads that cross arcs**
+
+| Thread | Runs through | Pays off |
+|---|---|---|
+| Hannah's lost child (2059) and her private dissent | Arcs 1 to 6 | Alexandra's birth (2154) and the Reaper secret she carries from 2170 |
+| The conspiracy against Kenji | From 2051, the first release of his technology, through the 2059 bomb and the 2065 withdrawals, to the 2125 killing, surviving it | Depends on how the story unfolds |
+| The secret network and the marine | From the network's founding in 2052 (A2.3), through the marine's recruitment of Brooks (A1.5, A3.1), to the hidden service, the Inquisition, and the Custodian Legion | The marine as Kenji's guard and Legion Master of the Custodian Legion |
+| Kenji's tier system (public and private grades) | From A2.2 through the 2060 technology showcase | The propagation limits in Tech_List.md Section 2A |
+| Brooks against Harper | Starts in arc 3 (2112), runs through arcs 4 to 6 | The G4 file and the Wong broadcast |
+| Zaeed's vengeance and the Legion's debt | Arcs 3 and 4 | The 2133 storming (E3.4), then the yearly reading of the names |
+| Anderson's guilt | Arc 3 (the 2125 killing), arc 4 (Euler) | His role as Commandant in arc 6 |
+| The recurring OCs | Arcs 3 to 5 | Ground-level voices for the Legions, Navy, Guard, Alliance, and colonies |
+
+Arcs 1 and 2 lean on Kenji, Hannah, Brooks, Manswell, Hannah's parents, the marine, and Ashby, because everyone else is born later. Manswell drops out after D1.2, and the cast broadens from there.
+
+## 13. Open Questions
+
+Anything the author has ruled on is not listed. Unsettled items only.
+
+### Technology and forces
+- **Warp.** The level for administrative offices, and when each level is developed.
+- **Gravitic drive timeline.** When each Mark is developed, and why the Navy sits below the Legion in drive rank.
+- **Imperial ship classes.** Each class's build tier, whether the Glory of Mankind sits above Level 6, and whether relay transporters are exempt from the civilian Primitive drive.
+- **Ship weapons.** Level tiers, warhead types, whether aliens can copy them, and how they relate to the Lasgun and Bolter line.
+- **Systems Alliance and Cerberus technology.** Scope and propagation level of each, and how they relate to Terran warp, Gundarium, and Primaris. His non-use of Cerberus's Reaper research is settled.
+- **Element zero.** Which systems he mines, when, and whether the Imperium uses it or stays on Terran warp.
+- **Tier definitions.** Tech_List.md has no tier tables for Med-Pod or Anti-Gravity, and the public L1 and private L2 levels used in Act I are decisions pending the author's definitions. Gundarium Beta appears only in A2.10.
+- **Robots in A3.** The A3 crews build a district in a season, which is Robotics Level 3, but the 2060 list gives Robotics a private Level 2. Treated as Level 2 units in teams under Level 1 Dumb AI site controllers, with the date a Level 3 appears left open.
+- **The Imperial Guard.** Size, ranks, drill, and weapon quality.
+- **The Imperial Family and the Palace.** The author covers them later.
+- **Custodian growth.** How they grow from the guard to 100,000.
+- **The marine.** His final name and rank (placeholders now), and when he receives the Primaris Process and conditioning.
+- **Biotics and Primaris.** The Imperial Family's biotic tiers, when Brooks and Bailey were made biotics, the numbers of Guard and Navy elites, officers, and NCOs, and whether Ashley Williams stays rank and file.
+- **The Inquisition.** When its members undergo the altered Primaris Process, and what it has surveilled by 2160.
+- **The Legions.** Legion Masters' names, Chapter designations, where Legions 2, 3, 5, and 6 are stationed, whether a recruited brother can rise to sergeant, aspirant and acolyte training, the 100 chapter worlds, and auxiliary numbers.
+- **The Cradle.** Whether it still clones anyone.
+- **Conditioning.** Whether Citadel species are susceptible to upload and conditioning.
+- **The Strike Cruiser.** What it carries, since one per company conflicts with 10 per Chapter.
+
+### Act I
+- **The re-cuts.** Sixteen proposed ending re-cuts (Act_I_Outline.md, Section 4) and the Excerpt Bank hooks they would change, pending the author's ruling. The renumbering of A2 to A4 also changes the Excerpt Bank's codes.
+- **The voice-sheet fixes.** Eight clashing batches with proposed fixes (A2a, A3a, A4b, B2a, C3, C4, C5, C7), pending the author's ruling.
+- **Held beat.** The retraining student cut from A3, held in reserve for A4 or an extension of A3. The foundation that funds the course stays in Brooks's slip (A3.6) as a loose thread.
+- **A2.12.** It carries two beats (the bomb night's memory and the approval), and a split is available if it runs long.
+- **Dates.** The A2 places and the exact dates of A2.1 to A2.15 are proposals, as are the flare, the reveal, and the first public crossing.
+- **Two departures in 2065.** A2.17 shows a first scheduled departure in 2064, and B1 announces the expedition in 2065. A2.17 should be read as an ordinary passenger crossing.
+- **Brooks and the ship ahead.** C4.4 has her unable to read the code in 2071, and C6.2 has her logging the Fortress build timeline in 2072. C6 should show her gaining access.
+- **Hannah's firm.** She is a Navy officer in 2053 (A1.1) and runs complex security in 2059 (A1.4). The decision is that she leaves after the 2059 bomb and founds a private firm in 2060, so A2.13 and A2.17 hold.
+- **Date order.** C5 ends on a 2072 chapter after two 2073 chapters, and C7 runs 2075, 2075, 2074, 2074, 2075. Both stay until C is extended.
+- **The voice thinness.** Act I draws 33 of its 120 micro-chapters (28 percent) from generic OC slots, and the count could be eased by trading some for Tom or Ruth.
+
+### Relays, expansion, and the Adamant Systems
+- **The Manswell expedition.** The date of sailing, the ships, the size and name of the settlement, how many people it carries, and how its success is publicized.
+- **The Charon relay.** The dates of the activation, the sprint to the 2-jump systems, and the cavern reveal, which must come before humanity's relay settlement. Also what humanity sees and believes about the activation, and whether it triggers the reveal.
+- **The sprint.** Dates, ships, and route through Arcturus and the 1-jump systems.
+- **The Relay Quarantine.** The exact date it is promulgated (it takes effect before the first removal in 2152), how many relay systems humanity settles before it, and whether civilian warp exploration past the Fortress Systems needs its own rule.
+- **The 2-jump systems.** How they stay ahead of humanity.
+- **Arcturus.** Who built the station and when.
+- **The war in relay systems.** Which systems each power holds in 2125, and whether the survey covers the 1-jump and 2-jump ring.
+- **The Adamant Systems.** Whether other 2-jump systems exist, what other worlds Austrine Bastion holds, and when each was built.
+- **Shanxi-Theta and the turians.** Satu Arrd's other connections, and whether the turians can learn their relay reaches Imperial space.
+- **Batarians and the Citadel.** Whether they can learn their relays reach Imperial space, and how the Skyllian Verge dispute and the batarian departure from the Council play out.
+- **The distance catalogue.** The author's choice among the proposed fixes for the four real conflicts, confirmation of 10,164 ly (Vetus to Shanxi-Theta) and 12,000 ly (Shanxi-Theta to Aethon), and Eden Prime's location against the 2-jump limit.
+- **The relay-moving ship.** Its name, build tier, drive, crew, how many exist, and the order of removal.
+- **The Reapers.** How the moved relays and continuous expansion change their search and cleanup. The search radius stays at 30 ly.
+- **First contact.** How and when the Citadel learns of the Imperium. Not being worked on.
+
+### The Systems Alliance and the war
+- **The Alliance.** Its technology, and which polities concede before it forms.
+- **The Imperium's growth.** How the Navy and Legions grow by 2135, whether the Guard exists during the war, and how the Imperium wins against numbers like the Alliance's 100 million.
+- **The proclamation.** The exact wording and date.
+- **Resistance in 2175.** Which planets, which Alliance factions, and how the Imperium fights them.
+- **Name.** Whether Kenji reacts to the Alliance calling itself the Systems Alliance, since he knows the name.
+
+### FTL and communications
+- **QEC.** Whether quantum entanglement communicators exist in 2160, and whether the salarian STG holds any.
+- **Imperial discharge.** Whether Imperial drives need discharge sites.
+- **Alien range.** How far a non-Imperial ship can travel without a relay.
+
+### Mars and the Protheans
+- **The Protheans on Mars.** The true reason they fought, and whether the surviving information reveals it.
+- **The cavern and the copied data.** What the ruined artifacts still hold, what Kenji reads, what he releases, what humans learn at the reveal, and where the copy goes (Vault, Lab, or both). The cavern's contents stay in place (settled).
+- **The reveal.** The method and the date.
+
+### Carried over
+- **Mass Effect technology.** How the Imperium and humanity use it.
+- **The beacon on Eden Prime.** Whether its location differs, who finds it, and whether the Emperor knows of it.
+- **Canon Eden Prime.** Whether anyone colonizes it.
+- **Canon figures.** Whether Shepard, Hackett, Anderson, Grissom, and others exist or are changed.

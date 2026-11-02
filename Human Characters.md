@@ -39,6 +39,8 @@
 
 **31. Robots first, operatives second.** From 2052 the private sites are guarded by Level 2 robot sentries under Level 1 Dumb AI task controllers. No human operative exists before the network does, and none appears in a chapter dated earlier. Operatives carry no POV, apart from Vance, who is main cast and not an operative in this sense.
 
+**32. Med-Pod tiers and longevity (author ruling).** Only Level 2 Med-Pods and better can rejuvenate and extend longevity. The public Primitive grade cures and mends only. Anyone in this file who lives past a natural span was treated at Level 2 or better. Tom and Ruth Shepard live to 116 because Kenji gives them Level 2 treatment as found family, and not because of the public clinics (decision). Tom is treated in the hidden wing in 2053. Ruth takes the same treatment after she meets Kenji, and refuses the upload (decision). Where older text says public-grade for a long-lived character, it is superseded by this ruling.
+
 ## 2. Age table
 
 | Character | Canon birth | Story birth | 2050 | 2065 | 2075 | 2090 | 2125 | 2135 | 2150 | 2154 | 2160 | 2175 | 2183 |
@@ -49,9 +51,9 @@
 | Dominic Vance (placeholder name) | not canon | 2002 | 48 | 63 | 73 | 88 | 123 | 133 | 148 | 152 | 158 | 173 | 181 |
 | Teodor Ashby | not canon | 2030 | 20 | 35 | 45 | 60 | (open) | (open) | (open) | (open) | (open) | (open) | (open) |
 
-- Tom and Ruth are on public-grade Med-Pod after 2053. Tom dies in 2117 (age 116) and Ruth in 2119 (age 116), (decision). Neither lives to see Alexandra.
+- Tom and Ruth are on Level 2 treatment after 2053 (ruling 32), not the public grade. Tom dies in 2117 (age 116) and Ruth in 2119 (age 116), (decision). Neither lives to see Alexandra.
 - Vance's ages after 2075 assume the Primaris Process and a later Custodian post, and the date he receives it is open.
-- Ashby's later ages depend on a ruling about his treatment, since he is a cadre member (open).
+- Ashby's later ages depend on a ruling about his treatment, since he is a cadre member (open). He came off the Level 2 machine in 2053 (A2.4), so longevity is possible.
 
 ## 3. Role-fit check
 
@@ -85,7 +87,7 @@ One pointer line each. Act I POV chapters are listed because the profiles do not
 - **Canon:** Not canon. **Story birth:** 2003. **Side:** Imperium (found family).
 - **Chapter POVs:** A2.9, A4.7, B1.9, B4.8.
 
-Hannah's mother, a school administrator. She takes the public cure and, like her daughter, declines the upload. She asks Kenji "who are you?" at the clinic in 2053, before anyone else does, and gets a true answer that tells her nothing. She does not ask again. At the 2058 wedding she sees the empty side of the room and a man with a Marine's stance at the back door (A2.9).
+Hannah's mother, a school administrator. She takes Level 2 treatment (ruling 32) and, like her daughter, declines the upload. She asks Kenji "who are you?" at the clinic in 2053, before anyone else does, and gets a true answer that tells her nothing. She does not ask again. At the 2058 wedding she sees the empty side of the room and a man with a Marine's stance at the back door (A2.9).
 
 Her habit of attention is who looks after whom. She notices which spouse cuts the other's meat, which guest watches the room instead of the bride, and who is on the school board's side of a proposal.
 

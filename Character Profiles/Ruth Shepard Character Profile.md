@@ -5,7 +5,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 ## Part A. Who she is
 
 1. **Name.** Ruth Shepard. Tom calls her "Ruth," and "Ruthie" when he is trying to get out of an argument. Hannah calls her "Mom." Kenji calls her "Ma'am" before the wedding and "Mom" after it. She dislikes "Mama Shepard," which some of the younger teachers call her behind her back. **(decision)**
-2. **Birth year.** 2003. She is forty-seven in 2050 and fifty when her husband is cured. She lives to 116 on the clinics' public treatment. Her age matters because she has been a school administrator long enough to have taught the children of her former students.
+2. **Birth year.** 2003. She is forty-seven in 2050 and fifty when her husband is cured. She lives to 116 on the Level 2 treatment Kenji gives the found family, because only Level 2 can extend life and the public clinics cannot. **(decision)** Her age matters because she has been a school administrator long enough to have taught the children of her former students.
 3. **Region of origin.** Galveston, Texas, in a school district she has never left. She grew up in a house where her mother looked after everyone else, yet who didn't even look after her mother in return. **(decision)**
 4. **Languages.** English with a soft Gulf Coast accent. Working Spanish, learned from the parents of her students. She uses a gentler tone for a crying child or a frightened parent than for a board meeting.
 5. **Trade.** Best: school administrator, someone who runs a school and knows every child's name and what is going on at home. Second-best: hospital patient advocate, the kind of job where a calm person sits with frightened families and finds out what they need. **(decision)**
@@ -74,5 +74,5 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 ## Rules this profile follows
 
 - Dialogue never runs in single-sentence replies. She answers in several sentences, warmly and completely.
-- She knows only what she has seen and been told. She took the cure but refused the knowledge upload, so she has no extra knowledge and no conditioning.
+- She knows only what she has seen and been told. She took Level 2 treatment but refused the knowledge upload, so she has no extra knowledge and no conditioning.
 - She does not know who is behind the clinics, or why.
