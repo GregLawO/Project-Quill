@@ -64,31 +64,31 @@ The machine filled the back half of the bay, a cradle of ceramic and printed ste
 
 He put to the machine the question he put to everything. What was it for? Rebuilding a body. And who would hold it next? Whoever could take it, and every government, hospital chain, and criminal who heard of it would try. He looked at the roller door and the hardware-store padlock on its hasp, and saw all at once how dangerous it was to own.
 
-The machine could not leave the room. But something had to. A cure that no one saw would cure no one, and a man who kept a machine like this in a tire shop would be found sooner or later. He pulled a stool to the bench, and the hands began a second, cruder design before he had decided to draw it.
+He ran the arithmetic the way he would run a load on a beam. A machine like this could not be sold to one buyer without telling every other buyer that a seller existed. By the time the first hospital chain asked where it came from, the second would be asking who owned it, and the governments would be asking both. He would be fighting uphill, with more enemies than friends by the end of the first year.
+
+So he would not sell it, not yet. First he needed a wall, and the wall had to be made of people. The world had already written off the right ones: soldiers with ruined lungs, engineers with no pension, specialists in hospice beds. The machine could give each of them back a body in its prime, and he could ask a term of years in return, six or seven, to stand where he told them. A few dozen people who owed him their lives would be a better lock than any he could buy, and behind them he could afford to sell. The first customers would pay anything to be young again, and every rich man who owed him a favor would be a reason for the rest to leave him alone.
+
+He wrote none of it down. He ruled a list in his head, and the first line was blank.
+
+The true machine could not leave the room, and something would have to, in time. A cure that no one saw would cure no one, and the wall would need a front door. He pulled a stool to the bench, and the hands began a second, cruder design before he had decided to draw it.
 
 The new model mended and did not renew. Every part could be bought, ground, or wound by a good shop with a decade to spare. The question he put to each part was the only one that mattered: could the world have made this without him? Renewing a body, taking years off it, belonged to the Level Two column, and it would stay there.
 
 He ruled a clean sheet into two columns and pinned it above the vise, beside the old one. He headed the left column Primitive and the right Level Two, wrote the cruder machine under the first and the true one under the second, and drew a line beneath both. Under the line he wrote a single rule. What leaves the room must be something the world could have invented without him. If it is not, someone will be able to trace it back to the man who built it.
 
-By October a medical-equipment distributor in Houston had set up a demonstration in its own loading bay. The cruder unit sat on a pallet under the sodium lights with a deckhand’s broken forearm in its cradle, and the distributor’s man watched the clock for forty minutes. When the lid lifted, the deckhand flexed his fingers and swore softly in wonder.
+In October he needed a name for the place the money would go. The lawyer he found in the county directory, a small man who filed shell companies for a living, sat among the tire racks with a pen uncapped.
 
-“Could it take ten years off a man?” the distributor’s man asked. “I have clients who would pay more for that than for a new hip.”
+“I file the paper, and a person signs it,” he said. “Tell me the name of the company and who stands behind it.”
 
-“No. It mends what is broken, and it stops there,” Kenji said. “Sell it as exactly that. If you promise more, your clients will find out, and then they will stop trusting the rest of what you sell.”
+“Tallis Bay Medical Systems. It’s new, and I’ll be its only officer,” Kenji said.
 
-The man smiled, already working out what to charge, and asked for the rights. The distributor’s lawyer arrived a day early to settle terms. Kenji took him through to the front office, where they sat among the tire racks and the lawyer uncapped a pen.
-
-“Before my client commits a dollar, I need the owner of the design,” he said. “Whoever it is signs the license, and whoever it is takes the liability if a patient sues. Give me the name, and I’ll want to see it on the state register before I draft anything.”
-
-“Tallis Bay Medical Systems. It’s a new company, and I’ll be its only officer,” Kenji said. “You’ll have the filing number tomorrow, and the company will hold every drawing and the whole design.”
-
-The lawyer wrote it down without looking up. “Tomorrow, then.”
+The lawyer wrote it down without looking up. “You’ll have the filing number tomorrow.”
 
 Kenji had made the name up that morning at the sink. That afternoon he drove to the county library and filed the papers at a public terminal, paying the fee with a money order bought for cash and giving a rented mailbox as the address. The register showed the name was free, and by evening it was not. A name cost nothing, but a filing had a signature behind it, and the trail it made was short: one man, one mailbox.
 
-When the lawyer had gone, he went back to the bay and stood facing the tarp. Under it the true machine sat quiet, worth more than the building and everything on the street, and it needed a guard he could not hire. A guard was a person, and a person could be asked questions. He cleared the corner bench and laid out an actuator set and a frame, and the hands began to build a sentry.
+When the lawyer had gone, he went back to the bay and stood facing the tarp. Under it the true machine sat quiet, worth more than the building and everything on the street, and it needed a guard he could not hire. A guard was a person, and a person could be asked questions. He cleared the corner bench and laid out an actuator set and a frame, and the hands began to build a sentry. It would be the first strand of the wall, and a poor one.
 
-The agreement came Friday by courier.
+The papers came Friday by courier.
 
 Eleven pages. A yellow tab marked the last.
 
@@ -190,7 +190,7 @@ Vance had studied the ceiling a while. “Do it,” he said. “I’ve got nothi
 
 All winter Kenji had run the sentries through the sergeant’s engagements. Tonight the second sentry had put a man down with the sergeant’s own knee in his back, and Kenji knew the movement from the sergeant’s memories. But the body doing it was slow and loud, and Vance had never been either.
 
-The sentries had worked, but only after the men were inside. No one had warned him, and no one was watching the road. He needed people beyond the fence, and people could not be built in a shed over a winter. He had one name. He did not trust Vance from acquaintance, but the sergeant was the only living man who knew what the machine did, and he had told no one. Kenji had also read his memories closely enough to know how he behaved under fire.
+The sentries had worked, but only after the men were inside. No one had warned him, and no one was watching the road. A year ago, in the tire shop, he had promised himself a wall of people before he sold anything, and so far the wall was three machines. He needed people beyond the fence, and people could not be built in a shed over a winter. He had one name. He did not trust Vance from acquaintance, but the sergeant was the only living man who knew what the machine did, and he had told no one. Kenji had also read his memories closely enough to know how he behaved under fire.
 
 He lifted the desk phone and dialed from memory.
 
@@ -220,43 +220,53 @@ Nothing came.
 
 The ledger was a green canvas-bound book from a surplus store, and its first page held no names. Vance had bought it the week after the treatment. It rode in his coat, and every entry was either something he had walked himself or something marked *told*.
 
-**October 2052.** The phone rang on the porch before dawn. He answered and said nothing. A man breathed on the other end, deciding how to begin. “Sergeant Vance,” said a level voice at last, “it’s Kenji Himura. A crew came through the dock of my warehouse tonight. My sentries stopped them, but only after they were inside.”
+**October 2052.** The phone rang on the porch before dawn. A level voice said, “Sergeant Vance, it’s Kenji Himura. A crew came through the dock of my warehouse tonight. My sentries stopped them, but only after they were inside.”
 
-“Which way did they come in? Not the road on the map. The one they used.”
+“Which way did they come in?”
 
 “I don’t know. That’s why I called you.”
 
-“Then I’ll walk the ground,” Vance said, and he drove out before light. He found a culvert where a car could sit unseen, and a rise where a man with glasses could watch the dock all day. The machines held the door, but nobody held the road. He wrote that down, and under it what he needed: people who would stand where he told them.
+“Then I’ll walk the ground,” Vance said. He found a culvert where a car could sit unseen, and a rise where a man with glasses could watch the dock all day. The machines held the door, but nobody held the road. He wrote that down, and under it what he needed: people who would stand where he told them.
 
-**March 2053.** The first one he wanted, he already knew. Ashby had been the radio technician in the squad, the youngest man in it, and he had walked out of the same ambush Vance had. He had refused to sign against the officer who sent them in, and the army had taken his pension for it.
+**December 2052.** The first was a sapper. Daniel Shepard had been an Army engineer until an apartment block came down on him in 2047, and he had spent five years and most of a pension on a chair he hated. Vance named the price in a Houston ward: seven years of standing where he was told, for walking out on his own legs.
 
-Vance found him in Duluth, in a back room over a bait shop, repairing radios. Ashby looked up and said “Gunny” quietly, like a man who had not expected to say it again. A mechanic’s stethoscope hung around his neck, the earpieces taped where they had cracked. A transformer on the wall began to hum, and he tilted his head toward it, went still, and pulled its plug.
+“Can I see my family?”
+
+“You can’t tell them what you do.”
+
+Shepard laid one palm flat on the table, as if testing it. “That’s load-bearing,” he said. “All right.”
+
+**March 2053.** The second he already knew. Ashby had been the youngest man in the squad, its radio technician, and the army had taken his pension when he refused to sign against the officer who sent them in. Vance found him in Duluth over a bait shop, a mechanic’s stethoscope around his neck. A transformer on the wall began to hum, and Ashby tilted his head, went still, and pulled its plug.
 
 “I need someone who’ll tell me when a machine is about to fail,” Vance said.
 
-The kid turned the stethoscope over in his hands. “I write down every fault I hear, and I give it to whoever is above me, even when they don’t want it. Is that going to be a problem?”
+“I write down every fault I hear, and I give it to whoever is above me, even when they don’t want it. Is that a problem?”
 
-“That’s the whole job. Write it down, and bring it to me first.”
+“That’s the whole job.”
 
-**June 2053.** Galveston opened on a Tuesday, and that date was a wall. Every clinic Kenji opened after it would have one, and each was Vance’s deadline: a trained person at every door before the first patient came through. The public line ran through the front. A locked corridor behind it led to a second wing where the people Kenji chose were treated with the full machine. No robots stood at any door, because a public clinic could show the world nothing it could not have built itself.
+**June 2053.** Galveston opened on a Tuesday, and that date was a wall. The public line ran through the front. A locked corridor behind it led to a second wing, where Kenji treated the first of his veterans and the first of the rich. Behind the wing stood the new frames, taller and smoother than the Baytown ones and run by a crystal nobody on earth could open, and Vance’s people wore powered suits under their jackets. No frame stood at the front, because a public clinic could show the world nothing it could not have built itself.
 
-By the end of July each door had someone trained for it. The analyst took the shell companies, the fixer the city offices, the locksmith the locks, and Ashby went back to the sentries. Vance drew the shape of it on the inside cover: Kenji at the top, a line down to each person who ran the work, the doors along the bottom. It was the first page in the book that would still work if he was not standing in it.
+The week before, Shepard had asked to see Kenji. “My father is dying of cancer,” he said. “I’m not asking as a recruit. I’m asking.” Kenji said yes before he had finished. On the morning the old man walked out whole, Shepard stood at the side door and did not go in. Vance wrote down that a man could give a gift and not be allowed to watch it opened.
 
-**January 2056.** The locksmith’s report named the back corridor to the wing as the one place a copied key would open a door. He asked Kenji for a pair of sentries. Ashby rebuilt their servos until they were faster than the Baytown frames, but he could not make them quiet. They went in at the end of the month, grey frames the height of a man, standing beside the people of his who already held that door. Tom Shepard, who ran the building, told the staff they were equipment. Nobody believed him.
+**November 2054.** A client’s household manager was stopped in Geneva by a stranger who asked, pleasantly, what his employer did on Thursdays. The man reported it. The stranger had paid in cash and left no face.
 
-**September 2058.** Kenji married the foreman’s daughter in a hall on the seawall. He went as an off-duty man and took the back door. He read the room with his body, the way out to the water and the bad corner by the cake table, and watched the guests and not the bride. The lamps in the car park were the city’s, and still out. He wrote it down and let it go.
+**January 2056.** The locksmith’s report named the back corridor to the wing as the one place a copied key would open a door. Vance asked Kenji for a pair of the frames, and Ashby tuned their servos until they moved almost like men, though he could not make them quiet. Tom Shepard, who ran the building, told the staff they were equipment. Nobody believed him.
 
-**February 2061.** A Primitive-model Med-Pod went missing from a clinic outside Tulsa in a single night, with every door still locked. Ashby read the alarm panel’s record and put in writing that the alarm had stayed silent when it should have rung. The unit had left on a transfer order with the regional manager’s signature, and the manager swore he had signed nothing.
+**September 2058.** Kenji married the foreman’s daughter in a hall on the seawall. Vance took the back door and read the room with his body. Shepard came down from Houston and stood beside him with one palm on the doorpost. “Does she look happy?” he asked. “Yes,” Vance said. “Then I’m on the door,” Shepard said, and did not sit.
 
-The order led to a shell company, then another, then a desk that did not exist. The theft had been done with paper, and he had never learned to read paper the way he read a field. Since the night of the car park he had let nothing go.
+**Spring 2059.** The lamp in the clinic car park had been dead eleven days, and the sister had refused the guards the network offered. Shepard took the car park from outside her roster, where she would not see him. He called it in: a van, not the Thursday van, riding low on its springs, and he was going to look. Then the net carried a sound like a window. Vance wrote the entry without an adjective. *Shepard, D. Killed on post.*
 
-“Guards and locked doors did not stop this,” he told Kenji. “It was done with a form and a signature, and I don’t know how to watch for that. Nobody I’ve trained does either.”
+**February 2061.** Five of the full machines went missing from a site outside Tulsa in a single night, with every door still locked and the frames’ logs clean. The crates had left on a transfer order with the regional manager’s signature, and the manager swore he had signed nothing. The order led to a shell company, then another, then a desk that did not exist.
 
-“What do you need? Tell me what’s missing, and I’ll work back from there.”
+Vance had the analyst lay four sheets side by side: the dock in Baytown, the hospital chain’s letter, the van, and Tulsa. The same broker had paid for the first and for the lawyer behind the second, and the money for the third had passed through both. “It’s one hand,” the analyst said. “It knows what the machine is, it has never touched one, and it has no name I can find.”
 
-“Someone who can read paper. I haven’t found them yet, and when I do, you’ll hear it from me first.”
+“Guards and locked doors did not stop this,” Vance told Kenji. “Shepard is in the ground because of paper, and I don’t know how to watch for paper.”
 
-**October 2061.** The analyst could follow a trail but could not see what a document left out. Vance had the network pull the staff files of every ministry that licensed a clinic, and he read them for weeks. One paper was better than the rest. It was an analysis of the Ankara tariff schedules, and it was the only one that said what the schedules left out. The author was Maya Brooks, an analyst in Marseille, but her file ended that spring with a leave of absence and a hospital ward. She was dying.
+“What do you need?”
+
+“Someone who can read it.”
+
+**October 2061.** Vance had the network pull the staff files of every ministry that licensed a clinic, and he read them for weeks. One paper was better than the rest: an analysis of the Ankara tariff schedules, and the only one that said what the schedules left out. The author was Maya Brooks, an analyst in Marseille, but her file ended that spring with a leave of absence and a hospital ward. She was dying.
 
 He turned back to the first page of the green book, the one that had held no names, and wrote hers.
 
@@ -270,7 +280,7 @@ The clinic’s license lay face down in a drawer in the monitor room, under a bo
 
 He had watched her for most of three days from a chair set with its back to the wall, the way Vance had taught him to sit. She never wrote anything down, which was worse than if she had. She looked at the wall, then the front desk, then the bare chests of the staff one after another, and she kept coming back to whatever was missing. He had trained the staff to say nothing, and she was learning more from what they left out than from anything they said.
 
-Her father’s file lay beside the keyboard: pancreas, advanced; foreman, thirty years on hulls. Kenji had put the man in the hidden wing and not the public line, which bent the rule on the sheet pinned above his bench. The truer reason was that a man who could run a yard could run a building. He caught himself having thought it, and turned the file face down.
+Her father’s file lay beside the keyboard: pancreas, advanced; foreman, thirty years on hulls. Danny Shepard had asked for him the week before, standing in the workroom with his cap in his hands, the only favor he had asked in seven months. Kenji had said yes before he finished, and it bent the rule on the sheet pinned above his bench. He told himself there was another reason, that a man who could run a yard could run a building. He caught himself having thought it, and turned the file face down.
 
 At ten past six the frosted doors opened on the third monitor, and the old man walked out on his own feet. The gray was gone from his face. He asked for eggs, and his daughter crossed the room and took his wrist, two fingers on the pulse, and held on long after the count was done. Kenji found he had stopped breathing, and started again.
 
@@ -284,7 +294,7 @@ He took the card.
 
 The side stairs. Two at a time.
 
-A man of Vance’s stood at the side door and let him through without a word.
+Danny Shepard stood at the side door and let him through without a word. He had one palm flat on the doorpost, and his eyes stayed on the glass.
 
 Wet air. Gulf heat. He went around the building at a walk that was nearly a run.
 
@@ -301,6 +311,8 @@ Corner. Brick at his back.
 Behind him, the door wrenched open.
 
 Silence. A gull working the street.
+
+At the side door Danny Shepard had not moved. “He’s walking,” he said, to no one. “He’s asking for eggs.” He did not go in.
 
 He pressed his palm flat to the wall. His heart would not slow.
 
