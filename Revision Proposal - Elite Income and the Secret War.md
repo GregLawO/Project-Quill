@@ -51,10 +51,17 @@
 - **Profiles:** Kenji (what he recognizes before 2065), Hannah, Tom, Ruth, and Vance.
 - **Drafts:** A2a (A2.2, A2.3, A2.4, A2.5), A2b (A2.6, A2.7), and the Revision Log. A1 is never rewritten.
 
-## 5. Questions for the author
+## 5. Author answers (2 November 2026)
 
-1. Is the gate-guard death acceptable, or should the adopted son die somewhere else outside the staff roster?
-2. What is his name and age, and is he Hannah's adoptive brother?
-3. When do the Level 2 suits, the Level 3 droids, and the data crystal system first appear?
-4. Does Cerberus's early identification mean the network knows it exists from the first trace, and how does it still carry out the 2059 bomb?
-5. Have A2.1 to A2.5 already been released today? If so, they are fixed, and the changes must start in A2b or be made as additions.
+1. **The adopted son's death outside the building is approved.** He is Hannah's adoptive brother.
+2. **His file is created.** See `Character Profiles/Daniel Shepard Character Profile.md`. His name, age, history, and the details of his death are my decisions, open to overrule.
+3. **Hardware dates (author ruling).** The Level 2 suits, the Level 3 droids, and the data crystal system exist from 2053, when he starts offering rejuvenation and longevity to the elites.
+4. **Cerberus and the 2059 bomb (author ruling).** His network members are human and his droids are not sentient AI, so they make mistakes and cannot predict everything. The bomb gets through for that reason.
+5. **Only A1 is published.** A2a and A2b are drafts and can be rewritten.
+
+## 6. Still open
+
+- The pod theft: date, method, and how long five Level 2 pods last without Cerberus being able to maintain them.
+- When Cerberus is first identified and what the network does about it before 2065.
+- Wave 1 of the realization: which familiar company names he sees, and when.
+- Whether the drafted A2.2 to A2.7 are rewritten from the start or revised in place.
