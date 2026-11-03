@@ -78,6 +78,8 @@ In this setup the Project files are read-only copies in `/mnt/project/`. They ar
 - [ ] Every sentence can be read once and understood, with no word or structure that makes a reader pause [G8]
 - [ ] Plain, everyday language with no abstract shorthand, and every sentence could be said to a friend and understood at once [G7]
 - [ ] A character who holds something back in dialogue does it in a sentence that is itself clear [G10]
+- [ ] No vagueness, riddles, or hidden meanings: no figure of speech or saying stands in for a fact, no gesture or object carries a meaning the text does not state, no dialogue is a hint the reader must decode, and every ending states plainly what is about to happen or what is left unanswered [G52]
+- [ ] Read-once test: read every paragraph as a new reader would. If any sentence needs a second read, rewrite it [G8, G52]
 - [ ] The same two tests hold for any outline, note, or rule file touched [G8]
 
 **Characters and voice**

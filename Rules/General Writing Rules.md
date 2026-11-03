@@ -19,6 +19,14 @@ These are the rules that apply to every micro-chapter, in any chapter, with any 
 8. **Never make the reader stop to decode.** A sentence is read once and understood. This includes outlines, notes, and rule files, not only chapters.
 9. **Use "but" when the second part goes against what the first part led the reader to expect.** Use "and" only when the second part adds to the first or follows from it. This applies in every sentence.
 10. **A character may hold something back in dialogue, but the sentence that holds it back must still be clear.**
+52. **No vagueness, riddles, or hidden meanings (author ruling).** The reader never has to work out what a sentence, a line of dialogue, an object, or an ending means. Say what happens, who does it, and why, in plain words. Specifically:
+    - **No figures of speech or sayings** that stand in for a fact ("that date was a wall," "a name cost nothing, but a filing had a signature behind it"). State the fact.
+    - **No objects, gestures, or phrases that carry a meaning the text does not state.** If a gesture matters, say what it shows in the same paragraph.
+    - **No cryptic dialogue.** A character who will not answer says so plainly ("I can't answer that"). A character who hints, and whose hint the reader must decode, is rewritten.
+    - **No vague stand-ins.** "It," "the thing," "the word," and "something" always have an obvious referent in the same or the previous sentence.
+    - **No sentence that needs a second read.** If a sentence needs a second read, split it or rewrite it.
+    - **A mystery comes from a plain fact the reader can see** (a card with no name, a man who will not say where he is from), never from unclear wording. The reader always knows what has happened, even when the reason is not yet known.
+    - **Endings state plainly what is about to happen or what has just been left unanswered.** A held breath still names the decision, and a withheld answer still names the question.
 
 ## C. Starting and ending
 
@@ -149,6 +157,7 @@ Each recurring POV gets one habit of attention, checked against this voice sheet
 - [ ] One earlier thread echoed
 - [ ] No word or structure that makes a reader pause
 - [ ] Plain, everyday language, with no abstract shorthand
+- [ ] No vagueness, riddles, or hidden meanings (rule 52): no figures of speech standing in for facts, no unexplained gestures or objects, no cryptic dialogue
 
 ### Worked example: Marcus in the vault
 
