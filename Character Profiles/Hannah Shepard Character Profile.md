@@ -75,3 +75,10 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 - Dialogue never runs in single sentence replies. She answers in several sentences, with reasons, pauses, and follow-ups, as people do.
 - No unexplained knowledge of what she has not been told. She works from what is in front of her and from what is missing.
+
+## Updates (author rulings, 3 November 2026)
+
+- **The two guards.** From 2056 she sees two quiet men who follow Kenji everywhere and never sit down. She takes them for his security. They are two Level 5 droids, built to look and move like men. Kenji tells her what they are in 2060 (A2.12).
+- **Dates.** Her early chapters are A2.8 (2054 and 2056), A2.10 (autumn 2057), and A2.11 (the proposal and wedding, December 2057 and September 2058). Her 2056 chapter does not name a rank (A1.1 has her on a single gold stripe in 2053).
+- **The 2056 shakedown** is a hospital chain's men, not Cerberus. She learns the name Cerberus from Kenji in 2060 (A2.12).
+- **Her firm** takes its first guard jobs in 2062. The Toulouse hangar scene was cut from Act I.

@@ -75,3 +75,8 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 - Dialogue never runs in single-sentence replies. She answers in several sentences, with a figure, a reason, and a follow-up.
 - She acts only on what she has collected and verified. She does not know what she has not been told.
+
+## Updates (author rulings, 3 November 2026)
+
+- **Why Kenji wants her (A2.13).** The forged state letter of October 2061 closed the Galveston clinic. Whitcombe's political faction stopped the other closures and reopened Galveston, but nobody saw the letter coming. Cerberus has beaten the network with paper four times (the forged transfer of 2057, the forged audit of 2058, the van switch of 2059, and the forged letter of 2061). Vance scouts her, Kenji approves, and Vance recruits her in Marseille in 2062 (A1.5, A3.1).
+- **Cerberus.** She knows it by name from 2062. The network learned the name in October 2058 from a lawyer's threat at the third offer for Oyama's patents, and she is handed the 2059 file first.

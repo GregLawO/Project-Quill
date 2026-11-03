@@ -4,17 +4,24 @@ Only details the author has explicitly settled are listed here. Open questions a
 
 ## The Protagonist
 
-Kenji Himura, of Japanese descent. A1 stays as published: he is not named and has no POV there, and he appears only as the hand behind the nameless card. From A2 he carries POV.
+Kenji Himura, of Japanese descent. A1 stays as published: he is not named and has no POV there, and he appears only as the hand behind the nameless card. From A2 he carries POV, written in the first person (author ruling, 3 November 2026).
 
 No character knows he is a transmigrator, and none ever learns how he knows what he knows. This holds for Hannah, Brooks, and the whole inner circle.
 
 ## The marine
 
-**Gunnery Sergeant Dominic Vance, USMC, retired (author ruling; name and rank are placeholders (decision)).** A locked recurring OC and member of the main cast. His profile is Dominic_Gunny_Vance_Character_Profile.md.
+**Gunnery Sergeant Dominic Vance, USMC, retired (author ruling; name and rank are placeholders (decision)).** A locked recurring OC and member of the main cast. His profile is Dominic Gunny Vance Character Profile.md.
 
-- **Origin.** He is dying in 2051. He trades his memories, experience, and expertise for treatment, through a two-way upload that copies them out and gives him his lungs back. Kenji uses the copy to create and hone the security droids' combat abilities, and the droids' routines are the only place it lives. No character is told where the droids' fighting style comes from.
-- **Role.** He is the first member of the secret network and its first leader. He scouts and recruits Brooks and brings her to Kenji. When Brooks takes over the network, he becomes Kenji's personal guard, and later Legion Master of the Custodian Legion.
-- **Robots.** Public robots are Level 1 (fixed arms and simple mobile units under human control), and no public robot guards anything.
+- **Origin.** He is dying in summer 2051 and is Kenji's first recruit. He trades his memories, experience, and expertise for treatment, through a two-way upload that copies them out and gives him his lungs back. Kenji uses the copy to create and hone the security droids' combat abilities, and the droids' routines are the only place it lives. No character is told where the droids' fighting style comes from.
+- **Role.** He is the first member of the secret network and its first leader. He brings in Ashby (autumn 2051), and the two are Kenji's security detail when Kenji recruits the lawyers. He expands the team twice before Byron is recruited (July 2052). He scouts and recruits Brooks and brings her to Kenji. When Brooks takes over the network, he becomes Kenji's personal guard, and later Legion Master of the Custodian Legion.
+- **Robots (author ruling, 3 November 2026).** Oyama Industries sells Level 1 to Level 3 robots. The organization's own security droids guard only its private sites: Level 2 at first, Level 3 from autumn 2057 (decision). Two Level 5 droids are with Kenji at all times from 2055 and look human.
+
+## The foundation (author ruling, 3 November 2026)
+
+- **Recruits.** Vance, then Ashby, then the lawyers (October 2051), then a larger team, then Byron Pyrrus, owner of Oyama Industries (July 2052). Later Danny Shepard (autumn 2052) and Senator Eleanor Whitcombe (February 2053), who leads the organization's political factions.
+- **Main cast.** Byron, the lawyer Helen Marchetti, and Whitcombe are main cast and later top Imperium administrators (titles open). Names and details are placeholders.
+- **Oyama.** It builds the Primitive Med-Pods (Kenji builds none), L1 to L3 robots, L1 powered suits, Tokamak reactors, L1 anti-gravity, and Gundarium Alpha. It is Cerberus's first target.
+- **Fronts.** Three clinics through Tallis Bay: Galveston, Marseille, and Singapore, opened in summer 2053. They sell cloned organs pre-approved through the political faction.
 
 ## The 2059 bombing, the 2065 withdrawals, and the 2125 killing
 
@@ -22,7 +29,7 @@ These are set (author ruling).
 
 - **2065.** Kenji is a major investor in Manswell's expedition from the start, through a puppet finance firm. When the other lenders pull out, he becomes the largest contributor so that the expedition goes through. Nobody squeezes Manswell on his behalf. Brooks and the network see coordinated withdrawals and conclude that someone is working against Manswell, and possibly against Kenji.
 - **2125.** Brooks discovers that a few UNIN delegates are verified members of the conspiracy acting against Kenji, in league with the Russian Federation, and that they are partly responsible for the 2059 bombing that killed his and Hannah's child and for the 2065 withdrawals. She reports it. Kenji decides on the operation, and Brooks carries it out, framing the Russian Federation. His motive is revenge. The public line stays that law answers murder.
-- **The conspiracy.** The author-side label is "Cerberus." It is a different organization from canon's and has no link to Harper or the Third Hand. Its method is shadow control of the world's most advanced technologies, Kenji's above all, through cutouts, firms, regulators, and licensors. It has no technology of its own that his network could trace. It steals five Level 2 Med-Pods in 2061 and cannot reproduce them. After the break-in, the shakedown, the bomb, and the theft, his network uncovers it as one organization, though not who leads it, and from then the two are at secret war. It survives 2125, and the four delegates were only part of it. How and when it pays off depends on how the story unfolds.
+- **The conspiracy.** The author-side label is "Cerberus." It is a different organization from canon's and has no link to Harper or the Third Hand. Its method is shadow control of the world's most advanced technologies, Kenji's above all, through cutouts, firms, regulators, and licensors. It has no technology of its own that his network could trace. It hears of the technology in 2055, steals five Level 2 Med-Pods in 2057 and cannot reproduce them, and tries three times to buy Oyama's patents in 2058. At the third attempt its lawyer threatens Oyama's side with violence from "Cerberus," and that is how the network learns the name (author ruling). It raids Galveston in November 2058, bombs it in 2059, and forges a letter that closes the clinic in 2061. His network uncovers it as one organization, though not who leads it, and the two are at secret war. The story calls it "Cerberus" or "they," never "it." It survives 2125, and the four delegates were only part of it. How and when it pays off depends on how the story unfolds.
 - **Who learns of the revenge.** Whether any character learns that the 2125 killing was Kenji's revenge depends on how events unfold for them. Neither outcome is ruled out.
 
 ## Patron characters
@@ -86,15 +93,15 @@ The 32 chapters are divided into three acts and six arcs. An act ends on a major
 | Thread | Runs through | Pays off |
 |---|---|---|
 | Hannah's lost child (2059) and her private dissent | Arcs 1 to 6 | Alexandra's birth (2154) and the Reaper secret she carries from 2170 |
-| The conspiracy against Kenji | From 2051, the first release of his technology, through the 2059 bomb and the 2065 withdrawals, to the 2125 killing, surviving it | Depends on how the story unfolds |
-| The secret network and the marine | From the network's founding in 2052 (A2.3), through the marine's recruitment of Brooks (A1.5, A3.1), to the hidden service, the Inquisition, and the Custodian Legion | The marine as Kenji's guard and Legion Master of the Custodian Legion |
-| Kenji's tier system (public and private grades) | From A2.2 through the 2060 technology showcase | The propagation limits in Tech_List.md Section 2A |
+| The conspiracy against Kenji | From 2055, when it hears of his technology, through the 2058 offers for Oyama's patents, the 2059 bomb and the 2065 withdrawals, to the 2125 killing, surviving it | Depends on how the story unfolds |
+| The secret network and the marine | From the network's founding in summer 2051 (A2.1, A2.7), through the marine's recruitment of Brooks (A1.5, A3.1), to the hidden service, the Inquisition, and the Custodian Legion | The marine as Kenji's guard and Legion Master of the Custodian Legion |
+| Kenji's tier system (public and private grades) | From A2.1 through the 2060 technology showcase | The propagation limits in Tech_List.md Section 2A |
 | Brooks against Harper | Starts in arc 3 (2112), runs through arcs 4 to 6 | The G4 file and the Wong broadcast |
 | Zaeed's vengeance and the Legion's debt | Arcs 3 and 4 | The 2133 storming (E3.4), then the yearly reading of the names |
 | Anderson's guilt | Arc 3 (the 2125 killing), arc 4 (Euler) | His role as Commandant in arc 6 |
 | The recurring OCs | Arcs 3 to 5 | Ground-level voices for the Legions, Navy, Guard, Alliance, and colonies |
 
-Arcs 1 and 2 lean on Kenji, Hannah, Brooks, Manswell, Hannah's parents, the marine, and Ashby, because everyone else is born later. Manswell drops out after D1.2, and the cast broadens from there.
+Arcs 1 and 2 lean on Kenji, Hannah, Brooks, Manswell, Hannah's parents, the marine, Ashby, and the three recruits Byron, Marchetti, and Whitcombe, because everyone else is born later. Manswell drops out after D1.2, and the cast broadens from there.
 
 ## 13. Open Questions
 
@@ -107,8 +114,8 @@ Anything the author has ruled on is not listed. Unsettled items only.
 - **Ship weapons.** Level tiers, warhead types, whether aliens can copy them, and how they relate to the Lasgun and Bolter line.
 - **Systems Alliance and Cerberus technology.** Scope and propagation level of each, and how they relate to Terran warp, Gundarium, and Primaris. His non-use of Cerberus's Reaper research is settled.
 - **Element zero.** Which systems he mines, when, and whether the Imperium uses it or stays on Terran warp.
-- **Tier definitions.** Tech_List.md has no tier tables for Med-Pod or Anti-Gravity, and the public L1 and private L2 levels used in Act I are decisions pending the author's definitions. Gundarium Beta appears only in A2.10.
-- **Robots in A3.** The A3 crews build a district in a season, which is Robotics Level 3, but the 2060 list gives Robotics a private Level 2. Treated as Level 2 units in teams under Level 1 Dumb AI site controllers, with the date a Level 3 appears left open.
+- **Tier definitions.** Tech_List.md has no tier tables for Med-Pod or Anti-Gravity, and the public L1 and private L2 levels used in Act I are decisions pending the author's definitions. Gundarium Beta appears only in A2.12.
+- **Robots in A3.** Settled by the 3 November ruling: Oyama sells Level 1 to Level 3 robots, so A3's labor crews are Oyama's Level 3 robots. Dates of Oyama's lines (Level 1 from 2057, Levels 2 and 3 from 2066) are decisions.
 - **The Imperial Guard.** Size, ranks, drill, and weapon quality.
 - **The Imperial Family and the Palace.** The author covers them later.
 - **Custodian growth.** How they grow from the guard to 100,000.
@@ -124,13 +131,13 @@ Anything the author has ruled on is not listed. Unsettled items only.
 - **The re-cuts.** Sixteen proposed ending re-cuts (Act_I_Outline.md, Section 4) and the Excerpt Bank hooks they would change, pending the author's ruling. The renumbering of A2 to A4 also changes the Excerpt Bank's codes.
 - **The voice-sheet fixes.** Eight clashing batches with proposed fixes (A2a, A3a, A4b, B2a, C3, C4, C5, C7), pending the author's ruling.
 - **Held beat.** The retraining student cut from A3, held in reserve for A4 or an extension of A3. The foundation that funds the course stays in Brooks's slip (A3.6) as a loose thread.
-- **A2.12.** It carries two beats (the bomb night's memory and the approval), and a split is available if it runs long.
-- **Dates.** The A2 places and the exact dates of A2.1 to A2.15 are proposals, as are the flare, the reveal, and the first public crossing.
+- **A2.13.** It carries two beats (the bomb night's memory and the approval), and a split is available if it runs long.
+- **Dates.** The A2 places and the exact dates of A2.1 to A2.15 are proposals, and the wedding chapter (A2.11) and Vance's ledger (A2.7) overlap in date (open), as are the flare, the reveal, and the first public crossing.
 - **Two departures in 2065.** A2.17 shows a first scheduled departure in 2064, and B1 announces the expedition in 2065. A2.17 should be read as an ordinary passenger crossing.
 - **Brooks and the ship ahead.** C4.4 has her unable to read the code in 2071, and C6.2 has her logging the Fortress build timeline in 2072. C6 should show her gaining access.
-- **Hannah's firm.** She is a Navy officer in 2053 (A1.1) and runs complex security in 2059 (A1.4). The decision is that she leaves after the 2059 bomb and founds a private firm in 2060, so A2.13 and A2.17 hold.
+- **Hannah's firm.** She is a Navy officer in 2053 (A1.1) and runs complex security in 2059 (A1.4). The decision is that she leaves after the 2059 bomb and founds a private firm in 2060, so A2.12 and A2.17 hold.
 - **Date order.** C5 ends on a 2072 chapter after two 2073 chapters, and C7 runs 2075, 2075, 2074, 2074, 2075. Both stay until C is extended.
-- **The voice thinness.** Act I draws 33 of its 120 micro-chapters (28 percent) from generic OC slots, and the count could be eased by trading some for Tom or Ruth.
+- **The voice thinness.** Act I draws about 33 of its 120 micro-chapters (28 percent) from generic OC slots, and the count could be eased by trading some for Tom or Ruth.
 
 ### Relays, expansion, and the Adamant Systems
 - **The Manswell expedition.** The date of sailing, the ships, the size and name of the settlement, how many people it carries, and how its success is publicized.

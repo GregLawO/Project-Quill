@@ -40,8 +40,8 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
     - Frustrated: "No. You put the only entrance behind a blind corner, and now I have to guard it with two people instead of one. Move the desk, move the camera, and do it before dark, or else I'll be putting a man there who'll have no place to see from. Which will not be happening on my watch."
     - Lying or avoiding: "It's nothing. Just an old habit. I'm fine, and you can stop looking at me like that."
 18. **Body tell****s****.** He takes a slow breath through his nose and his shoulders drop. When it is bad his right hand rests on the grip of the sidearm at his hip, without drawing it, and he does not take the hand away until the room is clear.
-19. **Stress response.** He takes a position. He goes quiet, puts himself between the danger and the people he is responsible for, and moves everyone else to better ground. When a crew broke into the first warehouse, he was not there, and he has never forgotten it.
-20. **Honesty.** 4 out of 5 (1 lies easily, 5 cannot lie). He almost never lies, and he is bad at it. He keeps secrets the way a soldier does: he says nothing and does not volunteer. He kept the machine's secret for months, even from the people who treated him.
+19. **Stress response.** He takes a position. He goes quiet, puts himself between the danger and the people he is responsible for, and moves everyone else to better ground. When the Galveston bomb went off in 2059, he was in Duluth, and he has never forgotten it.
+20. **Honesty.** 4 out of 5 (1 lies easily, 5 cannot lie). He almost never lies, and he is bad at it. He keeps secrets the way a soldier does: he says nothing and does not volunteer. He kept the machine's secret even from the people who treated him.
 21. **Authority.** He respects competence and has no patience for rank without it. He gives clear, short orders and never asks anyone to do what he would not do. He works for Kenji because Kenji pays and listens, not because Kenji outranks him. He is the one who taught Kenji where to sit in a room.
 
 ## Part E. Loyalties and limits
@@ -78,3 +78,11 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 - He does not count anything. His attention is ground, cover, and sight lines.
 
 - (author ruling, 2 November 2026) He recruits Danny Shepard in 2052 and writes his death into the ledger in 2059. See Daniel_Shepard_Character_Profile.md.
+
+## Updates (author rulings, 3 November 2026)
+
+- **First recruit.** Kenji recruits him first, in summer 2051, in the hospice. He starts the network and brings in Teodor Ashby, a radio technician from his old squad, in autumn 2051. The two are Kenji's security detail when Kenji recruits the lawyers (October 2051).
+- **He expands the team twice** before Kenji recruits Byron Pyrrus in July 2052: a first squad of four fighters in the winter, and four more fighters and three intelligence staff in the spring. His fighters wear Level 1 powered-suit frames.
+- **Walking behind Kenji.** He and Ashby walk with Kenji until the two Level 5 guards are finished in 2055.
+- **His ledger (A2.7)** runs from 2051 to spring 2059: Danny posted, three clinics open, elite buyers, the physician, the stolen pods, three offers for Oyama's patents, the name Cerberus from Marchetti (October 2058), the raid, and the bomb.
+- **Cerberus.** He hears the name from Marchetti the night of the third offer. He does not call Cerberus "it."

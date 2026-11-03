@@ -406,3 +406,18 @@ Author rulings applied to `Outlines/Act I Outline.md` (built from the author's a
 - Fighters wear Level 1 frames. Fronts are Galveston, Marseille, and Singapore. Whitcombe leads the political factions as a recruit. Byron, Marchetti, and Whitcombe are main cast and later Imperium administrators.
 - Wedding and Brooks's recruitment moved to A2c. Only Galveston closes in 2061.
 - Kenji's POV is written in the first person.
+
+## 3 November 2026: Bible files, profiles, and checklists updated to the fifth outline revision
+
+Applied the rulings recorded in the entry above (and the outline itself) to the dependent files:
+- **Overview.md.** First-person Kenji. The foundation section (recruitment order, Oyama, Byron, Marchetti, Whitcombe, fronts). Robots (Oyama sells L1 to L3, security droids L2 then L3, L5 guards look human). Cerberus history and the naming at the third offer. Open questions on robots in A3 resolved.
+- **Human Characters.md.** Rulings 17, 19, 28, 30, 31 revised, and new rulings 33 to 35 (main-cast recruits, how Cerberus is named, Oyama and the robots). New age-table and role-fit rows for Danny, Byron, Marchetti, and Whitcombe. Pointer lines and POV roster rebuilt.
+- **Excerpt Bank.md.** A2 cast lines rewritten (A2.1 to A2.15), A4.3 recast to Whitcombe, casting rules updated, A3 robot lines aligned.
+- **Tech List.md.** Oyama builds the Primitive pods and sells L1 to L3 robots, security droids and L5 guards, fighters in L1 frames.
+- **Protagonist and Timeline.md.** Stage 2 items 2, 2A, 2B, 2C, 2E, 7, and 8 and the milestone table.
+- **Rules/Specific Writing Rules.md.** First-person Kenji, new Kenji and Vance counts, secrecy section (Cerberus named only at the third offer), security and network sections, A2 POV list, open items.
+- **Profiles.** Kenji, Vance, Ashby, Hannah, Tom, Ruth, Danny, and Brooks updated. New profiles for Byron Pyrrus, Helen Marchetti, and Eleanor Whitcombe.
+- **Drafting checklists (both).** First-person check, Cerberus naming, recruitment order and tech tiers, incidents, and open items.
+
+Not updated: Story_Structure.md and the Legions file (flagged in Specific section 19). Open questions raised: Ashby's age (21 in 2051) against the role-fit minimum of 30; the overlap of the ledger and the wedding chapter in date order; the date of Level 2 suits.
+

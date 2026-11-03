@@ -12,9 +12,9 @@ One place for every rule that governs how a chapter is written. It gathers the r
 
 - **Order.** The story is written chapter by chapter, starting with the Prologue. It is written until it is finished. There is no fixed word count.
 - **Labels.** Parts are A to G. Chapters are A1, A2, and so on (32). Micro-chapters are the single-POV pieces inside a chapter, coded A1.1, A1.2, and so on. "Excerpt" means only the quoted epigraph that opens a chapter.
-- **Published canon.** Only A1 is published. It is never rewritten. A2 and A3 were reopened and revised before their 2 November 2026 release, so they are not canon yet. The first release is the first batch of A2 (A2.1 to A2.5).
+- **Published canon.** Only A1 is published. It is never rewritten. A2 and A3 were reopened and revised (2 and 3 November 2026), so they are not canon yet. The first release is the first batch of A2 (A2.1 to A2.5).
 - **Chapter sizes.** A1 has 5 micro-chapters. A2 has 20, released as four batches of 5. A3 has 10, released as two batches. From A4 on every chapter has 10, released 5 at a time. C6 stays at 5. C1 to C5 and C7 are extended from 5 to 10 when drafted.
-- **Date-order exceptions.** Two deliberate exceptions: A3.1 (2062) leads A3 as a step back to A1.5, and A2.4 is told as a ledger from 2052 to 2061 and is ordered by its start date.
+- **Date-order exceptions.** Deliberate exceptions: A3.1 (2062) leads A3 as a step back to A1.5, and A2.7 is told as Vance's ledger from 2051 to spring 2059 and is ordered by its start date. The wedding chapter A2.11 opens in December 2057, before the January 2058 events in the ledger (open).
 - **Micro-chapter length (A2b).** A2b chapters run about 850 to 900 words and may hold two or three dated scenes in one POV.
 - **Chapter excerpt header format (author ruling).** Each excerpt comes from Excerpt_Bank.md and sits at the very top of the draft, above any title or byline:
   1. The excerpt's title only, as a heading, with no code and no "Excerpt" label.
@@ -48,7 +48,7 @@ Names already set in the story (Med-Pod, Primitive, Level 2, the ending types) a
 
 The voice sheet table is in General Writing Rules.md, Writing Style section. These are the story-specific notes.
 
-- In A2b, Hannah's three chapters take three different objects: missing people and answers (A2.6), one blank number (A2.8), empty seats (A2.9). She counts nothing in A2b.
+- Hannah's three early chapters take three different things: missing people and answers (A2.8), one blank number (A2.10), empty seats (A2.11). She counts nothing.
 - Known clashes and their fixes (proposed, pending ruling): A2a, A3a, A4b, B2a, C3, C4, C5, and C7 each have a fix listed in Act_I_Outline.md, Section 4.
 
 ## 8. Emotion across both gears
@@ -66,19 +66,21 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 - **At most three sentences of past life per chapter (moved from General).** They come only through small habits, such as finishing every meal.
 - **Nobody, in a chapter or a document, says how Kenji knows what he knows (moved from General).** No character is ever told.
 - **From A2 on.** Kenji carries POV. A1 stays as published: unnamed, no POV.
-- **Count.** He carries 8 of A2's 20 (A2.1, A2.2, A2.3, A2.5, A2.7, A2.10, A2.12, A2.15), none of A3's 10, and 1 of A4's 10. In every other chapter he carries at most 3 or 4 per 10. *(open: the cap of 7 in older files is lifted to 8 by the third revision and still needs the author's ruling.)*
+- **First person (author ruling, 3 November 2026).** Every Kenji chapter is written in the first person ("I"). The rules below about what he thinks, notices, and says apply to the narration. All other POVs stay in the third person. Because "I" is Kenji, no other narrator may use it.
+- **Count.** He carries 7 of A2's 20 (A2.1, A2.4, A2.6, A2.9, A2.12, A2.13, A2.15), none of A3's 10, and 1 of A4's 10. In every other chapter he carries at most 3 or 4 per 10. This meets the older cap of 7.
 - **Before 2065.** The knowledge arrives in his hands before his head. His unease is a cautious man's unease. He may suspect he has transmigrated (revealed at A2.1).
 - **From 2065.** He may name his dread once per chapter at most. His past-life habits include flinching at being wanted.
 - **Speech.** Short declaratives, few metaphors, and workshop and tool images when he does use one. He asks "What do you need?" more often than he gives orders. Dry humor is rare.
 - **Fate habit.** He never says "it can't get worse." He notes what arrives early or late and does not call it luck.
 - **Fast Gear tell.** He squares objects on a desk and washes his hands. His own chapters never name shaking hands.
 - **Fate (author ruling).** He thinks and feels as if the universe is working against him. The text mostly allows chance or human causes to explain what happens. Fate costs him materials, money, time, people, and trust, never the end state.
-- **Kenji and Hannah (A2b).** Every A2b micro-chapter has at least one scene where the two talk, and something between them is different by the end of it. The change shows in what they say and do, not in what an object means. Kenji tells Hannah no false thing (A2.9 promise): later chapters such as B2.9 ("friends' money") must stay true but empty.
+- **Kenji and Hannah (A2b and A2c).** Every Hannah-and-Kenji micro-chapter (A2.8 to A2.12) has at least one scene where the two talk, and something between them is different by the end of it. The change shows in what they say and do, not in what an object means. Kenji tells Hannah no false thing (the A2.11 promise): later chapters such as B2.9 ("friends' money") must stay true but empty.
 
 ## 11. The marine (Vance)
 
 - Gunnery Sergeant Dominic Vance, USMC, retired.
-- Locked recurring OC and main cast. In Act I he carries POV in **A2.4** (told as a dated ledger, 2052 to 2061) and **A3.1** (2062) only.
+- Locked recurring OC and main cast. In Act I he carries POV in **A2.7** (told as a dated ledger, 2051 to spring 2059) and **A3.1** (2062) only.
+- He is the first recruit (summer 2051). He brings in Ashby in autumn 2051, and the two are Kenji's security detail when Kenji recruits the lawyers. He expands the team twice before Byron (July 2052). He stops walking behind Kenji when the two Level 5 guards are finished (2055).
 - **A3.1 must match every gesture of the published A1.5:** gray coat in July, the quarter-turned chair, the four-second pause, the hidden sidearm.
 - He reads ground and counts nothing, so he does not clash with Brooks.
 - He is not conditioned in his early years and stays by choice. He receives conditioning with the Primaris Process when he joins the guard (decision).
@@ -87,7 +89,8 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 ## 12. Secrecy and reveal discipline
 
 - **Reaper secrecy.** Only Kenji, Hannah, Brooks, and Alexandra (from her twenty-first birthday) know of the Reapers, and they learn it from him much later. No chapter, document, or character outside the inner circle may refer to an unnamed enemy that the drills are for. Kenji's stated justification is a hypothetical: what if what killed the aliens on Mars, or the makers of the alien FTL artifacts, came back hostile?
-- **The conspiracy** begins in 2051 with the release of his technology. The break-in (A2.3), the shakedown (A2.6), the bomb, and the theft of five Level 2 pods (A2.4, 2061) are laid side by side by the network, which finds one organization but not who leads it, and Brooks takes the file in 2062. No chapter shows the network knowing who leads it before the outline says so.
+- **The conspiracy (Cerberus).** Cerberus hears of the technology in 2055. The incidents are the physician's offer (Nov 2055), the theft of five Level 2 pods (Jun 2057), three offers to buy Oyama's patents (Jan, Apr, and Oct 2058), the Galveston raid (Nov 2058), the bomb (spring 2059), and the forged letter that closes Galveston (Oct 2061). The 2056 shakedown (A2.8) is a hospital chain and not Cerberus. The network finds one organization but not who leads it, and Brooks takes the file in 2062. No chapter shows the network knowing who leads it before the outline says so.
+- **How the name is learned (author ruling, 3 November 2026).** The network learns the name "Cerberus" at the third attempt to buy Oyama's patents (October 2058), when the other side's lawyer threatens Marchetti with violence from "Cerberus." It is not learned from money trails, documents, or a captured raider (the raiders of November 2058 say nothing). The story calls Cerberus "Cerberus" or "they," never "it."
 - **In-universe documents** never contain the conspiracy, the true cause of the 2065 withdrawals, Kenji's role in the Charon flare, or the truth of the 2125 killing, which appears in documents only as the act of the Russian Federation. POVs may show the truth where they could know it. A document may note the timing of the withdrawals but not name a cause.
 - **Kenji's name** may appear in documents for minor matters only.
 - **The 2065 withdrawals.** Kenji did not order the squeeze and does not know who did. He proves nothing.
@@ -97,16 +100,16 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 
 ## 13. Network, robots, and technology
 
-- **Robots first.** From 2052 the private sites are guarded by Level 2 robot sentries under Level 1 Dumb AI task controllers. No human operative exists before the network, and none appears in a chapter dated earlier. From 2053 the sites are guarded by Level 3 droids on a data crystal system, and the operatives wear Level 2 powered suits (author ruling).
+- **Security (author ruling, revised 3 November 2026).** The network begins in summer 2051 with Vance, who brings in Ashby, and they guard Kenji. Vance's fighters wear Level 1 powered-suit frames (the Level 2 suit needs a mini-reactor, and the date is open). From autumn 2052 the private sites are also guarded by Level 2 security droids built by Oyama, run by Level 2 Dumb AI on Kenji's data crystals. They are upgraded to Level 3 after the June 2057 theft (decision). Droids stand inside private sites only. Two Level 5 droids are with Kenji at all times from 2055. They look and move like men, and Hannah takes them for men until 2060 (A2.12). Oyama sells Level 1 to Level 3 robots to the public.
 - **When Kenji uses his technology (author ruling).** He keeps his advanced technology and robots from the public until a time he chooses. But he never refuses to use them when someone he holds dear is in danger, and he will use them whenever the use can be disguised or hidden. Keeping a technology secret never outranks keeping his people safe. When he does use it, he makes it look ordinary, as he did with the anonymous tip and the "intoxicated" report in A2.3.
-- **The network** is founded at the end of A2.3 (2052) with Vance as first member. It exists before Kenji meets the Shepards, grows in A2.4, and Galveston opens in A2.5.
+- **The network** is founded in summer 2051 with Vance as first member (A2.1 hook, A2.7). The recruitment order is Vance, Ashby, the lawyers (October 2051), a larger team, and Byron (July 2052). It exists before Kenji meets the Shepards (A2.6, 2053), and the three clinics (Galveston, Marseille, Singapore) open in summer 2053.
 - **Operatives carry no POV**, apart from Vance.
 - **Tier examples for robots (author ruling):**
   - **Primitive (Level 1):** immobile, or it needs a human controller.
   - **Level 2:** acts on its own, but moves clankily and loudly. The most advanced AI it can support is Level 2.
   - **Level 3:** moves more smoothly, but is still very loud. The most advanced AI it can support is Level 3.
   - **Level 4 and above:** follow the same pattern, with the exact movement and noise still to be set (open).
-- **Tiers.** Kenji starts the tier system in A2.2: a Primitive grade for what may leave the room, a higher level for what stays. The Primitive grade must always be one the world could have invented unaided. Public and private levels by 2060 are in Act_I_Outline.md, Section 2.
+- **Tiers.** Kenji starts the tier system in A2.1 (he builds no Primitive pod; Oyama does after July 2052): a Primitive grade for what may leave the room, a higher level for what stays. The Primitive grade must always be one the world could have invented unaided. Public and private levels by 2060 are in Act_I_Outline.md, Section 2.
 - **Warp.** Flights in A2.13 to A2.15 are unmanned and private. The first crewed crossing beyond the Solar System is A2.17 (2064).
 - **Hannah's firm (decision).** She leaves complex security after the 2059 bomb and founds a private firm in 2060.
 - **Unconfirmed tier tables.** The Med-Pod and Anti-Gravity levels (public L1, private L2) are decisions pending the author's definitions.
@@ -115,7 +118,7 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 
 - **POV age.** A file character carries POV only from age 8, only while alive, and only for what they could see or know.
 - **Early pool (before 2072).** Kenji, Hannah, Brooks, Manswell, Tom, Ruth, Vance, and Ashby (b. 2030, locked, Author-built; first appears A2.14, 2063). Found-family servants and network operatives carry no POV.
-- **A2b POVs.** Hannah: A2.6, A2.8, A2.9. Kenji: A2.7, A2.10. Tom, Ruth, the surgeon, and the rigger appear in scenes and carry no POV.
+- **A2 POVs.** Kenji (first person): A2.1, A2.4, A2.6, A2.9, A2.12, A2.13, A2.15. Hannah: A2.8, A2.10, A2.11. Marchetti: A2.2. Byron: A2.3. Whitcombe: A2.5. Vance: A2.7. Ashby: A2.14. Tom, Ruth, Danny, the surgeon, and the rigger appear in scenes and carry no POV.
 - **A3** has no Kenji POV, because it is dated after the 2065 realization apart from A3.1.
 - **Generic OC slots.** Movement 1 is exempt from the 20 percent guide, because its OC voices carry the technology showcase. Movement 2 stays under 20 percent (8 of 50). In C, up to two of five are OC. In D to F, at most three of the five added slots. G keeps one.
 - **Patron seats.** Ten patron-built OC seats exist. Their roles are kept in an author-only file, never in the bible. Patrons cannot influence Kenji, Hannah, Tom, Ruth, Brooks, Vance, or any canon or OC character the author has not opened.
@@ -184,8 +187,10 @@ Tom turns a tool over. Ashby tilts his head and touches the stethoscope. Manswel
 
 ## 19. Open items that touch the rules
 
-- **Kenji's A2 count.** 8 of 20 exceeds the older cap of 7. A2.7 can move to Hannah if refused, but she would then carry four of A2b's five.
-- **A2.3 and loud sentries.** A2.3 says the Level 2 sentries move with "No sound. No warning," which contradicts the loud Level 2 ruling. Not yet changed.
-- **Rank.** The outline says "Navy lieutenant" in 2054, but A1.1 has her on a single gold stripe in 2053. The A2.6 draft avoids the rank.
-- **Older figurative lines.** Two lines in A2.3 and the A2.2 draft have not been rechecked against Reader flow.
-- **Files that still need updating** for these rulings: Excerpt_Bank.md (A2.6 to A2.10 cast lines), Human_Characters.md (POV lists, ruling 17, roster), Overview.md, Story_Structure.md, Protagonist_and_Timeline.md, Tech_List.md Section 2A, the Legions file, and the Revision Log.
+- **Dates for Oyama's robot lines (decision).** Level 1 from 2057, Levels 2 and 3 from 2066. The author's ruling is only that Oyama sells Level 1 to Level 3.
+- **The L5 guards.** They do not move in the 2056 shakedown (A2.8), because no one comes near Kenji (decision).
+- **The security-droid upgrade date** (autumn 2057) is a decision.
+- **Loud droids.** Level 2 droids are loud and clanky, and Level 3 are smoother but still loud. Keep every droid scene consistent with this.
+- **Rank.** The outline says "Navy lieutenant" in 2054, but A1.1 has her on a single gold stripe in 2053. Avoid the rank in A2.8.
+- **The A2 drafts** are rewritten to the 3 November outline in plain language (rule 52), so older figurative lines no longer apply.
+- **Files that still need updating** for the 3 November rulings: Story_Structure.md and the Legions file.

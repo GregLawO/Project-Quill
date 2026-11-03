@@ -82,4 +82,10 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 - **How this fits the published A1 (decision).** In A1 Tom reaches the clinic by a napkin address from a foreman, so Danny does not bring him in. He sees "T. Shepard" on the hidden-wing referral list as a network liaison and asks Kenji to put his father in the wing, which is why Tom goes through the frosted doors.
 - **The gate guard changes.** I earlier suggested he was the guard whose stool is empty in A1. That no longer works, because the guard is on Hannah's own roster and she would name her brother. **(decision)** The empty stool belongs to a bought guard. Danny is on overwatch in the car park, outside her roster. He sees the delivery van riding low, goes after it, and dies near the blast. This also fits "All of them. All there."
 - **What Hannah knows (decision).** She knows he is alive, and believes he works for a security contractor in Houston. She does not link that to Kenji's organization until after the bomb.
-- **Files that would need a matching change if you approve.** Tom (the welder he lost is Danny's father), Ruth, Hannah (an older brother), Human Characters, the Excerpt Bank, A2.4, A2.5, A2.6, and the timeline.
+- **Files that would need a matching change if you approve.** Tom (the welder he lost is Danny's father), Ruth, Hannah (an older brother), Human Characters, the Excerpt Bank, the A2 chapters, and the timeline. (Done on 3 November 2026.)
+
+## Updates (author rulings, 3 November 2026)
+
+- **Joins in autumn 2052.** Vance recruits him after he is restored in September 2052. He is the newest of the fifteen on seven-year terms when Kenji sees them in a rented warehouse in October 2052 (A2.4). He wears a Level 1 powered-suit frame like the other fighters.
+- **Where he appears.** A2.4 (the warehouse, his palm flat on a roof post), A2.6 (the night before and the morning of A1.1), A2.8 (his empty fifth chair at Sunday dinner), A2.11 (the wedding, where he crosses the aisle), and A2.7 (Vance's ledger, including his death). He has no POV.
+- **Hannah and Danny.** Hannah believes he works for a security contractor in Houston. She learns the truth in 2060 (A2.12).

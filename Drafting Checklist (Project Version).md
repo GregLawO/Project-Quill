@@ -59,7 +59,7 @@ In this setup the Project files are read-only copies in `/mnt/project/`. They ar
 - [ ] Byline and place line match the previous chapter's format
 - [ ] One POV only, because a new character means a new micro-chapter [G18]
 - [ ] Word count in range (investigative 600 to 1,000, action 400 to 700, hybrid about 750). A2b micro-chapters run about 850 to 900 words and may hold two or three dated scenes in one POV [S1]
-- [ ] Dates run in order inside the chapter, apart from the two set exceptions, A3.1 and A2.4 [G40, S1]
+- [ ] Dates run in order inside the chapter, apart from the set exceptions: A3.1, Vance's ledger A2.7 (2051 to 2059), and the wedding chapter A2.11, which opens in December 2057 [G40, S1]
 - [ ] When the micro-chapter is added to an existing chapter file, the earlier micro-chapters are unchanged and the new one is appended [S1]
 - [ ] Published A1 is not rewritten [S1]
 
@@ -101,7 +101,8 @@ In this setup the Project files are read-only copies in `/mnt/project/`. They ar
 - [ ] What the reader knows is kept separate from what the characters know [G33]
 - [ ] A secret stays secret: no character learns it by accident, and no in-universe document states it [G34, G36]
 - [ ] Reaper secrecy holds: only Kenji, Hannah, Brooks, and Alexandra (from her twenty-first birthday) know, and no one else refers to an unnamed enemy the drills are for [S12]
-- [ ] The incidents (the break-in in A2.3, the shakedown in A2.6, the bomb, the theft in A2.4, and the offer in A4.3) are shown as the outline sets them, and no chapter shows the network knowing who leads the organization before the outline says so [S12]
+- [ ] The incidents (the physician's offer in 2055, the theft of five Level 2 pods in 2057, the three offers for Oyama's patents in 2058, the raid, the bomb, and the forged letter that closes Galveston in 2061) are shown as the outline sets them. The 2056 shakedown is a hospital chain and not Cerberus. No chapter shows the network knowing who leads the organization before the outline says so [S12]
+- [ ] Cerberus is named only through the other side's lawyer at the third offer for Oyama's patents (October 2058), never from money trails, documents, or a captured raider, and the story writes "Cerberus" or "they," never "it" [S12]
 - [ ] In-universe documents never contain the conspiracy, the true cause of the 2065 withdrawals, Kenji's role in the Charon flare, or the truth of the 2125 killing, and Kenji's name appears only for minor matters [S12]
 - [ ] Hannah's list of questions she chose not to ask is shown only inside her head [S12]
 - [ ] No human meets an alien, the Citadel appears nowhere, and nothing it could not have seen is written as seen [S12]
@@ -111,14 +112,16 @@ In this setup the Project files are read-only copies in `/mnt/project/`. They ar
 - [ ] When a scene is shown from a second POV, every gesture of the first matches. A3.1 matches A1.5: gray coat in July, the quarter-turned chair, the four-second pause, the hidden sidearm [G39, S11]
 - [ ] Later chapters follow only what the world could have seen of earlier technology, places, and rules [G41]
 - [ ] Machines act at their tier: Primitive (Level 1) is immobile or needs a human controller, Level 2 acts on its own but moves clankily and loudly, Level 3 moves more smoothly but is still very loud, and no tier does what only a higher tier can [S13]
+- [ ] Robots and recruits follow the 3 November order: Vance first (summer 2051), then Ashby, then the lawyers (October 2051), then a larger team, then Byron (July 2052). Fighters wear Level 1 frames. Oyama builds the Primitive pods (Kenji builds none) and sells Level 1 to Level 3 robots. The security droids are Level 2, upgraded to Level 3 after the June 2057 theft. The two Level 5 guards look and move like men, are with Kenji at all times from 2055, and Hannah takes them for men until 2060 [S13]
 - [ ] The Primitive grade of anything leaving the room is one the world could have invented unaided [S13]
-- [ ] Robots come first: no human operative appears before the network (end of A2.3, 2052), and operatives carry no POV apart from Vance [S13]
+- [ ] Operatives carry no POV apart from Vance [S13]
 - [ ] Warp flights before A2.17 (2064) are unmanned and private [S13]
 - [ ] Kenji keeps his advanced technology hidden unless someone he holds dear is in danger, and when he uses it he makes it look ordinary [S13]
 
 **Canon**
 - [ ] Consistent with the outline, character profile, Overview Writing Rules, and Specific Writing Rules
 - [ ] Emotion is carried as the style requires: in the head and in what the character notices in the Slow Gear, and through the body in the Fast Gear
+- [ ] Kenji's chapters are in the first person ("I"), and no other POV uses "I" as narrator [S10]
 - [ ] Kenji: no Reaper thoughts and no thought that this was once a story before 2065, at most three sentences of past life per chapter, and no Kenji POV dated after 2064 before B1.2
 - [ ] Kenji's voice: short declaratives, few metaphors, workshop and tool images, "What do you need?" more often than orders, and dry humor rare [S10]
 - [ ] Kenji never says "it can't get worse," and he notes what arrives early or late without calling it luck [S10]
@@ -130,4 +133,4 @@ In this setup the Project files are read-only copies in `/mnt/project/`. They ar
 - [ ] No in-universe document or character reveals how Kenji knows what he knows, and no character is ever told
 
 **Open items to label, not settle (Specific section 19)**
-- [ ] If the draft touches Kenji's A2 count (8 of 20 against the older cap of 7), the loud Level 2 sentries in A2.3, the 2054 rank against the single gold stripe in A1.1, or the figurative lines in A2.2 and A2.3, say so in the delivery note and do not settle it quietly
+- [ ] If the draft touches the dates of Oyama's robot lines (Level 1 from 2057, Levels 2 and 3 from 2066), the security-droid upgrade date (autumn 2057), the L5 guards' behavior in the 2056 shakedown, the date of Level 2 suits, the Level 2 and 3 droid noise, or the 2054 and 2056 rank against the single gold stripe in A1.1, say so in the delivery note and do not settle it quietly

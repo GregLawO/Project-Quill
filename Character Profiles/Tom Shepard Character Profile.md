@@ -76,3 +76,9 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 - Dialogue never runs in single-sentence replies. He answers in several sentences, starting with the thing in front of him.
 - He knows only what he has seen and been told. He suspects Kenji is behind the technology, but he does not know where it came from or why it exists.
 - He has the knowledge upload but not the conditioning. He is free to speak and disagree, and he stays by choice.
+
+## Updates (author rulings, 3 November 2026)
+
+- **POV.** His first Act I chapter is A4.6 (2067). The old A2.11 (Tom at the first assembly yard, 2061) was cut on 3 November 2026. He is still the foreman of the yard in the background, and the keel-section stutter is held for his A4.6.
+- **The shakedown (A2.8, June 2056).** He is fixing a valve under the pipe when a hospital chain's men come in. His hand goes to his back pocket for a wrench.
+- **Danny.** Tom took in Danny, the son of his lost welder Ray Iglesias, at eight. He knows from 2053 that Danny works for Kenji and keeps it from Hannah at Kenji's request.
