@@ -393,3 +393,16 @@ Applied Revision_Proposal_and_Related_Fixes.md to the files it touches: The_Legi
 - **Word counts (flag).** A2.2 is about 1,035, A2.4 about 1,055, and A2.5 about 1,055, all slightly over the 1,000 investigative range. A2.6 is about 965 and A2.7 about 975, inside the A2b range of 850 to 900 plus one scene.
 - **Inferences made without asking:** the November 2054 Geneva incident; "spring 2059" as the date of the bomb, since A1.4 gives no month; Danny asking in the week before June 2053; the "load-bearing" line as Danny's first appearance; Vance calling Hannah "the sister."
 - **Noticed, not changed.** A2.1 is unchanged. Danny's "five years in a chair" (2047 to 2052) and "home twice in five years" (A2.6) need to be checked against his profile's 2048 departure. A2.8 to A2.10 have not been drafted.
+
+## 3 November 2026: Outline revision (fifth)
+
+Author rulings applied to `Outlines/Act I Outline.md` (built from the author's attached outline):
+- A2.1 and A2.2 merged into one Kenji chapter (A2.1). A2 stays at 20 micro-chapters.
+- Kenji builds no Primitive Med-Pod. Oyama Industries builds the Primitive pods after Byron Pyrrus is recruited.
+- Recruitment order: Vance, then Ashby, then the lawyers (with Vance and Ashby as security), then a larger team, then Byron.
+- Oyama sells Level 1 to Level 3 robots. The organization's security droids are Level 2, upgraded to Level 3 (decision: after the June 2057 theft).
+- The two Level 5 droids are with Kenji at all times and look human. Hannah takes them for men until A2.12.
+- The name Cerberus is learned at the third offer to buy Oyama's patents (October 2058), from the other side's lawyer. Not from money trails or documents.
+- Fighters wear Level 1 frames. Fronts are Galveston, Marseille, and Singapore. Whitcombe leads the political factions as a recruit. Byron, Marchetti, and Whitcombe are main cast and later Imperium administrators.
+- Wedding and Brooks's recruitment moved to A2c. Only Galveston closes in 2061.
+- Kenji's POV is written in the first person.
