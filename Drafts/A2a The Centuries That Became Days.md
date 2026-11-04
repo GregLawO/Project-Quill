@@ -20,7 +20,9 @@ A truck had hit Pancho on the ship channel road that morning and broken his hip 
 
 "I can't do that to him," he said. "I thought maybe you'd look at him. You're good with things."
 
-"I don't know if I can help," I said. It was true. The machine had never had anything alive in it, and the gauge in my hand was the last part. I tightened it, laid Pancho in the cradle, closed the lid, and set the dials by hand. Then there was nothing to do but stand there. Delgado stood beside me with his cap in both hands, and neither of us spoke for ninety minutes.
+"Bring him over," I said. "Keep the hip level."
+
+I tightened the last gauge, took Pancho from him, laid him in the cradle, closed the lid, and set the dials by hand. It would take ninety minutes. Delgado stood beside me with his cap in both hands, and neither of us spoke the whole time.
 
 When the lid came up, the dog got to his feet, shook himself from nose to tail, and went looking for a ball that wasn't there. He ran the length of the bay on both back legs. Delgado made a sound I had never heard a grown man make, and then he sat down on an upturned tire and said "Okay" four or five times.
 
