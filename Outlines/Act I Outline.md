@@ -29,7 +29,7 @@ A1 (the body) is live and unchanged. Everything below it is open.
 
 **The A2 plan in plain terms (author ruling, 3 November 2026 revision).**
 
-1. **The problem (2051).** Kenji sees that selling his inventions will make him powerful enemies, and cost him his life. Before he sells anything, he builds a safety net.
+1. **The problem (2051).** Kenji sees that selling his inventions will make him powerful enemies, and even cost him his life. Before he sells anything, he builds a safety net.
 2. **The Level 2 Med-Pod (2051).** It heals a dying person fully. It also rejuvenates, and it slows aging for a lifetime. Only Level 2 does any of this. A cruder version, the Primitive grade, cures disease and injury.
 3. **The protectors (summer 2051 to 2055).** He finds veterans and experts willing to serve him for years, renewable by choice, in exchange for being restored to health or to their prime. Before they agree, he tells them there's loyalty clause that keeps them from telling outsiders what they do. Dates move from the plan's 2050 to 2051, because the Med-Pod does not exist before 2051 (decision). **The order of recruitment is an author ruling: Vance, then Ashby, then the lawyers, then a larger team, then Byron.**
    - **a. Vance (summer 2051).** Gunnery Sergeant Dominic Vance, a dying Marine, is the first recruit. He trades his memories, experience, and expertise for treatment, and Kenji copies them out. He becomes the leader of Kenji's guards.
