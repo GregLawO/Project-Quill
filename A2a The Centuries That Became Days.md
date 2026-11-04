@@ -30,19 +30,19 @@ When the lid came up, the dog got to his feet and shook himself from nose to tai
 
 He asked me nothing. He did not ask what the machine was, how I had built it, or what he owed me. At the door he turned with the dog in his arms and said, "Thank you. I mean that. You're a good man." I looked at the gauge panel and told him to keep Pancho quiet for a week, and he carried the dog home with the cap pressed to his face.
 
-I washed my hands twice, looked at the pod and about what it is and what it meant. It rebuilds a body from the inside, whatever shape the body is in. With the dials turned the other way it also makes a person younger. Everyone, from governments, hospital chains, drug companies, and criminals who heard of it would want it for themselves.
+I washed my hands twice and looked at the pod. It rebuilt a body from the inside, whatever shape the body was in. With the dials turned the other way, it made a person younger.
 
-Delgado had not asked, but that doesn't mean that nobody would. Whoever found out about the pod would take it and the one who built it. Almost nothing in this world would ever dissuade them from doing otherwise.
+Every government, hospital chain, drug company, and criminal who heard of it would want it. Delgado had not asked what it was. The next person would, and whoever found out first would take the pod and the man who built it. Nothing in this country would stop them.
 
-I took the diagram down, turned it over, and wrote a plan on the back. Step one: protectors, people who could guard me and each other, both from legal and illegal threats. Step two: a factory, so that I can start building more things that will be able to protect me.
+I took the diagram down, turned it over, and wrote a plan on the back. Step one was protectors, people who could guard me and each other against legal and illegal threats. Step two was a factory, so I could build more things that would protect me.
 
-I had one thing to pay with, and it was in the cradle. Anyone dying or broken would come out whole. I'll have to look for those who would be willing to take a leap of faith and swear themselves to me in exchange for a new life. To be safe, I'll also add a failsafe during the treatment process to guarantee their loyalty.
+I had one thing to pay with, and it was lying in the cradle. Anyone dying or broken could come out whole. In return they would swear themselves to me for seven years, and after that they could stay by choice, with the treatment continuing for as long as they served. During the treatment I would add a failsafe that made sure they stayed loyal.
 
-Under the plan I drew two columns. The left one said PRIMITIVE and the right one said LEVEL 2. Primitive is what I intend to share with the world. Level 2 is what I plan to keep for myself. This Med-Pod that I currently have is what I considered to be Level 2: it can heal a dying person completely, make them young again, and slow their aging for half a lifetime.
+Under the plan I drew two columns. The left said PRIMITIVE and the right said LEVEL 2. Level 2 was the pod on my bench. It healed a dying person completely, made them young again, and slowed their aging for half a lifetime. I would keep it for myself.
 
-The Primitive version will be a cruder machine that can only cure diseases and injuries, nothing else. It will have to be a machine the world could have built without me. And I don't plan to build it myself, to keep the world's attention away from me. I pinned the sheet back on the wall with the plan facing out.
+Primitive would be a cruder machine that cured diseases and injuries and did nothing else. That was the one I would share with the world, so it had to be something the world could have built without me. I would not build it myself, to keep the world's attention off me. I pinned the sheet back on the wall with the plan facing out.
 
-The first name on my list was a Dominic Vance. A volunteer at the veterans' hall in Galveston had given it to me in the spring: a retired Marine gunnery sergeant who had trained half the reservists in the county. He was dying of ruined lungs in a hospice in Houston.
+The first name on my list was Dominic Vance. A volunteer at the veterans' hall in Galveston had given it to me in the spring: a retired Marine gunnery sergeant who had trained half the reservists in the county. He was dying of ruined lungs in a hospice in Houston.
 
 On the first Monday of July I stood in the corridor outside his room, with a rented van and a gurney waiting at the curb. In a minute I would ask a dying man to trust a stranger with what was left of his life.
 
