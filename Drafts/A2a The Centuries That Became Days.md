@@ -6,340 +6,304 @@
 
 ---
 
-## *Act I, 1st Movement · A2 · Kenji Himura (30)*
-
-### *Texas City, 2050*
-
-The lathe had stopped, and Kenji could not remember switching it off. A bar of tool steel sat between the centers, cut to a taper he had not planned, still warm under his palm and smelling of hot iron and cutting oil. He turned it over twice and found nothing wrong with it, which was the part that never stopped being strange.
-
-The rear bay of the tire shop had been his since spring, rented for cash from an owner who asked nothing as long as the rent came on the first. The lathe was a scrapped yard unit with a cracked bed, hauled here in pieces on a borrowed trolley and scraped true by hand over six weekends. Beside it stood a surface plate he had lapped flat, a vise bolted to a beam he had checked with a level, and a pegboard of gauges hung in the order he had made them. Through the roller door came the smell of the ship channel, brine and diesel, laid over rubber and oil.
-
-Seven months had passed since the morning he woke in a body that was not his, and he still thought of it in pieces. The hands were a stranger’s, and so was the face in the mirror. He had eaten the cold rice on the counter to the last grain, because that was how he ate.
-
-A pencil had been in his hand before he knew he was holding it, and it had gone on drawing a line he had not planned. He had spent the week after testing the body the way a machinist checks a new part, one measurement at a time, asking the hands for things he had never learned, and the hands had answered every time. By the end of that week he had stopped testing, because the hands had never once been wrong. He did not know how he had come to be in this body, but he suspected he had been moved into another man’s life, and he had no way to prove it. He wrote nothing down, because notes could be found and read. He had no one to tell, since no one would believe him, and anyone who took an interest would be dangerous.
-
-To pay for the bay he worked day shifts as a yard hand on the ship channel. The foreman had come to his door that first morning and asked for him by name, three patient raps, and being asked for had sat badly in his chest. But staying in the flat would have drawn more notice than going, so he went. The crew called him Himura, and later they called him quiet, and he let them.
-
-His hands were already back at the bar, and he let them go. They squared it in the chuck, set the tool, and began the next pass while his mind wandered back over the months, which was how most of the bench had been built. He did not decide, as a rule. He sat down meaning to think, and an hour later there was a finished gauge on the bench.
-
-He read the bench the way he read everything, by what each piece was for and what it would be used for next. The surface plate existed to check the lathe. The lathe existed to cut the gauges, and the gauges existed to cut finer tools, each a little truer than the last, each one step nearer to something none of them could make yet. The whole bench was a chain of tools, each made by the one before it, and he had been working down it for seven months without once asking where it ended.
-
-He looked at the wall. The sheet from that first morning hung over the vise, pinned at the corners and browned by the bay’s damp, the cradle and the tank drawn in a draftsman’s fine line, with a single word across the head in square capitals. The letters were plain and the hand was his, but when he tried to say them his mind gave back nothing, as if the word belonged to a language he had never learned. Tonight the work lamp had slipped on its arm and thrown its light across the paper at a low angle. Down the left edge, where he had always taken the ruling for a border, the lines had a texture, small and regular, like writing.
-
-He stepped closer.
-
-It was not a border.
-
-It was a column of capitals.
-
-Small. Square. The same hand.
-
-Surface plate. Lathe, scraped true. Bench vise. Gauge set. Taper reamers.
-
-He ran a finger down it.
-
-The finger stopped at tonight’s line.
-
-Every line above it was done.
-
-His palm lay flat on the sheet.
-
-He squared it on its pin. Squared it again.
-
-Under tonight’s line, there was one more.
-
-It was the word at the head of the sheet.
-
-The one he could not read.
-
----
-
 ## *Act I, 1st Movement · A2 · Kenji Himura (31)*
 
 ### *Texas City, 2051*
 
-The dog stood up on a hip that should not have held it. Kenji kept one hand on the lid as it finished rising and watched the animal test the leg, weight forward and weight back, the way he had once tested the body. It had come off the channel road at four that morning with its pelvis in pieces, and he had carried it in across both arms because he did not know what else a person did. Now it sneezed at the smell of the coolant and walked out of the cradle on four sound legs.
+The word across the top of the sheet was MED-POD, and for a year I could not read it.
 
-The machine filled the back half of the bay, a cradle of ceramic and printed steel under a glass-clear lid. He had not so much designed it as let his hands build it. The sheet from the first morning had listed every step, and the hands had gone down it for a year, until the last line was this. He could read the word at the head of the sheet now, and it said what the thing was.
+I could see the letters, square capitals in a hand that was mine now. They meant nothing to me. The sheet had been on my kitchen table the morning I woke up in this body, half a diagram already drawn, and I had pinned it above my bench in the back bay of Delgado's tire shop and looked at it every working day since. In June of 2051 the word finally made sense, because the machine it named was standing on the bench under it, finished.
 
-He put to the machine the question he put to everything. What was it for? Rebuilding a body. And who would hold it next? Whoever could take it, and every government, hospital chain, and criminal who heard of it would try. He looked at the roller door and the hardware-store padlock on its hasp, and saw all at once how dangerous it was to own.
+It was a long steel cradle under a clear lid, with a tank behind it that I had made from a scrapped pressure vessel. Eleven months of yard wages had gone into it, and every part I couldn't weld myself I had bought used. I had never decided to build it. I would sit down meaning to think, and an hour later there would be a finished gauge on the bench, because my hands knew what to do before I did.
 
-He ran the arithmetic the way he would run a load on a beam. A machine like this could not be sold to one buyer without telling every other buyer that a seller existed. By the time the first hospital chain asked where it came from, the second would be asking who owned it, and the governments would be asking both. He would be fighting uphill, with more enemies than friends by the end of the first year.
+I woke up in March of 2050, in a flat three streets from here. The body was thirty years old and wasn't mine, and neither was the face in the bathroom mirror. I think I used to be someone else, somewhere else, and I don't know how that happened.
 
-So he would not sell it, not yet. First he needed a wall, and the wall had to be made of people. The world had already written off the right ones: soldiers with ruined lungs, engineers with no pension, specialists in hospice beds. The machine could give each of them back a body in its prime, and he could ask a term of years in return, six or seven, to stand where he told them. A few dozen people who owed him their lives would be a better lock than any he could buy, and behind them he could afford to sell. The first customers would pay anything to be young again, and every rich man who owed him a favor would be a reason for the rest to leave him alone.
+I haven't told anyone, because there is no one I could tell. That first morning I ate the cold rice on the counter down to the last grain, because that is how I eat.
 
-He wrote none of it down. He ruled a list in his head, and the first line was blank.
+On the last Friday of June, Delgado came to the back door with his dog in his arms. A truck had hit Pancho on the ship channel road that morning and broken his hip in two places. The vet had quoted twenty-two hundred dollars, which Delgado didn't have, and had told him what the other choice was.
 
-The true machine could not leave the room, and something would have to, in time. A cure that no one saw would cure no one, and the wall would need a front door. He pulled a stool to the bench, and the hands began a second, cruder design before he had decided to draw it.
+"I can't do that to him," he said. "I thought maybe you'd look at him. You're good with things."
 
-The new model mended and did not renew. Every part could be bought, ground, or wound by a good shop with a decade to spare. The question he put to each part was the only one that mattered: could the world have made this without him? Renewing a body, taking years off it, belonged to the Level Two column, and it would stay there.
+"I don't know if I can help," I said. It was true. I had never put anything alive in the machine. I laid Pancho in the cradle, closed the lid, set the dials by hand, and then there was nothing to do but stand there. Delgado stood beside me with his cap in both hands, and neither of us spoke for ninety minutes.
 
-He ruled a clean sheet into two columns and pinned it above the vise, beside the old one. He headed the left column Primitive and the right Level Two, wrote the cruder machine under the first and the true one under the second, and drew a line beneath both. Under the line he wrote a single rule. What leaves the room must be something the world could have invented without him. If it is not, someone will be able to trace it back to the man who built it.
+When the lid came up, the dog got to his feet, shook himself from nose to tail, and went looking for a ball that wasn't there. He ran the length of the bay on both back legs. Delgado made a sound I had never heard a grown man make, and then he sat down on an upturned tire and said "Okay" four or five times.
 
-In October he needed a name for the place the money would go. The lawyer he found in the county directory, a small man who filed shell companies for a living, sat among the tire racks with a pen uncapped.
+He asked me nothing at all. He didn't ask what the machine was, or how I'd built it, or what he owed me. He carried the dog home, wiping his face with the cap.
 
-“I file the paper, and a person signs it,” he said. “Tell me the name of the company and who stands behind it.”
+I washed my hands twice and looked at the machine. I asked what it was for. It rebuilds a body from the inside, whatever shape the body is in.
 
-“Tallis Bay Medical Systems. It’s new, and I’ll be its only officer,” Kenji said.
+Whoever owned it could heal anyone and, with the dials turned the other way, make them younger. Every government, hospital chain, drug company, and criminal who heard about it would want it for themselves or want it gone, and I was one man with a cracked lathe.
 
-The lawyer wrote it down without looking up. “You’ll have the filing number tomorrow.”
+Delgado hadn't asked. The next person would, and he would bring lawyers or guns or both. Whoever found out first would take the machine and the man who built it, and nothing in this country would stop him. Every sale from now on would make me an enemy, and I would lose the first fight, because I would be fighting it alone.
 
-Kenji had made the name up that morning at the sink. That afternoon he drove to the county library and filed the papers at a public terminal, paying the fee with a money order bought for cash and giving a rented mailbox as the address. The register showed the name was free, and by evening it was not. A name cost nothing, but a filing had a signature behind it, and the trail it made was short: one man, one mailbox.
+I took the sheet down, turned it over, and wrote a plan on the back. Step one: protectors, people who could guard me and each other, starting with a man who knows how it's done. Step two: a factory, and buyers with enough power to protect me in public. Step three: everyone else.
 
-When the lawyer had gone, he went back to the bay and stood facing the tarp. Under it the true machine sat quiet, worth more than the building and everything on the street, and it needed a guard he could not hire. A guard was a person, and a person could be asked questions. He cleared the corner bench and laid out an actuator set and a frame, and the hands began to build a sentry. It would be the first strand of the wall, and a poor one.
+I had only one thing to pay with, and it was in the cradle. Anyone who was dying or broken could come out whole, and in return they would work for me for seven years. After that they would stay only if they chose to, and for as long as they served, the treatment would continue.
 
-The papers came Friday by courier.
+Then I drew two columns. The left one said PRIMITIVE and the right one said LEVEL 2. Level 2 was the machine on my bench. It heals a dying person completely, makes them young again, and slows their aging for a lifetime, and it would never leave the room.
 
-Eleven pages. A yellow tab marked the last.
+Primitive was a cruder machine that cured disease and injury and nothing more, and it was the only kind that could ever be sold. It had to be something the world could have built without me, or the first question anyone asked would be who built it. I couldn't build it myself either. A man who makes it in a tire shop can be found, so I needed a factory, and the person who owned it.
 
-He carried it to the bench.
+The first name on my list was Dominic Vance. A volunteer at the veterans' hall in Galveston had given it to me in the spring: a retired Marine gunnery sergeant who had trained half the reservists in the county and was dying of ruined lungs in a hospice in Houston. He had no money for the bed.
 
-Behind him, the tarp. Under it, the machine ticked as it cooled.
+On the first Monday of July I stood in the corridor outside his room, with a rented van and a gurney waiting at the curb. In a minute I would ask a dying man to trust a stranger with what was left of his life, and to teach me how not to be hurt.
 
-In the corner, a sentry frame waited. No head.
+I put my hand on the door and opened it.
 
-The signature block read *Tallis Bay Medical Systems, by:*
+---
 
-The line under it was empty.
+## *Act I, 1st Movement · A2 · Helen Marchetti (52)*
 
-He washed his hands. Twice. Dried them.
+### *Houston, 2051*
 
-He squared the page to the bench. Squared it again.
+**October 2051.** The man at the foot of her bed had brought no paper. In twenty-eight years of negotiations, Helen Marchetti had never faced anyone empty-handed. He held no folder, no phone, not even a pen, and she did not like how little there was to read.
 
-He uncapped the pen.
+Two other men stood in the doorway. The older one was broad and gray-haired, in an overcoat too warm for the ward, and he watched the corridor instead of her. The younger one carried a black case the size of a toolbox and watched the window. Neither had been introduced, and the man at her bedside had not asked them to leave.
 
-The pen came down.
+Samuel Ortega sat in a wheelchair beside the bed with an oxygen line over his ears. He had visited at four every afternoon for three weeks, because neither of them wanted to be sick alone. His heart had been failing since spring and her kidneys since summer.
 
-It stopped above the paper.
+"My name is Kenji Himura," the man said. "I can heal both of you. I'll tell you what I want in return, and you can stop me whenever you like."
 
-It did not go on.
+"Before that," Helen said, "who are your friends?"
 
-It did not go back.
+"Dominic Vance and Teodor Ashby. They keep me safe, and they'll stay at the door."
+
+"Safe from what?"
+
+"From people who would want what I have." He said it flatly, the way a doctor gives a number. "I have a machine that rebuilds a body. It would fix your kidneys, Ms. Marchetti, and your heart, Mr. Ortega. I don't mean it would manage them. I mean you'd walk out well."
+
+Ortega laughed, and the laugh turned into a cough. "Helen, a man in a parking lot told me the same thing in August. He wanted six thousand dollars."
+
+"I don't want money," Himura said. "I want seven years of your work. After that, you stay only if you choose to."
+
+Helen capped her pen and uncapped it. She had learned long ago that the term nobody wanted to explain was the one that mattered. "How did you find us?"
+
+"You both went on medical leave from the same firm in the same month. Your firm builds charitable foundations, and I need one built. I looked for the best people I could find, and the best ones were also running out of time." He did not look away. "I know how that sounds."
+
+"It sounds like you read our docket," she said. "What do you want built?"
+
+"A foundation that owns everything I design. If someone sues me, they'd have to go through the foundation, and it would be run by people who read every page."
+
+"Who owns the foundation?"
+
+"No one. It owns the designs. I'd like it to have a name that isn't mine."
+
+"What name?"
+
+"Tallis Bay."
+
+She wrote it on the legal pad without looking up. He had said it after a short pause, like a man reading a word off a card he had just finished writing. She decided not to ask where it came from, because he did not look like someone who would say.
+
+"There's one more thing, and I'm telling you before you sign, not after," he said. "When you're well, there's a session. It teaches you some of what you'll need to know. It also puts something in your head that stops you from telling anyone outside the organization what we do or who runs it. You'll still know it. You just won't be able to say it, and the seven years ending won't change that."
+
+Helen put both hands flat on the blanket. "That's a clause I can't read, can't amend, and can't waive."
+
+"Yes."
+
+"People usually bury those on page nine."
+
+"I'd rather you heard it from me."
+
+Ortega had been watching her instead of Himura. "Helen, my daughter turns nine in March. I'd like to see her ten. Sign the damn thing."
+
+"I will," she said, "but I'm going to write down that I was told first." She tore a page from the pad, wrote it out, dated it, and held it out to Himura. He read it twice before he initialed it, which most clients never did.
+
+**December 2051.** The foundation papers were due at the state office by the thirty-first, so that the first gift could be accepted in this tax year. On the twentieth Helen was still at her desk at eight in the evening, reading the last schedule aloud. She had been off dialysis for six weeks.
+
+Himura arrived at nine with the same two men, who took the same places by the door. He read the seven-year contract standing up and stopped at the last clause.
+
+"This says the treatments continue for as long as someone serves."
+
+"And that renewal needs the person's own signature, every time. Nobody can renew on their behalf, and that includes you." She had drafted it twice. "A term someone else can extend is a lease, not a choice. If you want a lease, you'll need a different lawyer."
+
+"No," he said. "That's the clause I wanted and didn't know how to write."
+
+"One question. What happens to everyone's term if you die?"
+
+He took a moment. "I haven't had to answer that yet."
+
+"Then Tallis Bay carries every term and every treatment, and someone has to run it. I want that person to be you. Trustee."
+
+She set the pen down. "You know what a trustee can do. If you wanted something and I thought it was wrong, I could refuse you, and the foundation would stop with me."
+
+"I know."
+
+"Then why me?"
+
+"Because you asked what happens if I die before you asked about the money," he said. "And because you'll read a page to the end before you stop me."
+
+No one had ever handed Helen the power to say no to them on purpose. She picked up the pen, uncapped it, and wrote *trustee* in the margin beside her own name. From tonight, everything he had built could be stopped by her alone, and he had chosen it that way.
+
+---
+
+## *Act I, 1st Movement · A2 · Byron Pyrrus (68)*
+
+### *Toledo, July 2052*
+
+The drawings in the young man's folder held tolerances that Byron Pyrrus's toolroom would need three weeks to hit. He saw it from the hospital bed in the first minute, before he had read a single note. He turned the top sheet toward the window, found the lid housing, and saw that it would have to be cast in one piece, and that only his Cleveland plant had a press big enough.
+
+"Cleveland can do the lid," he said. "Nobody else can. Who drew this?"
+
+"I did," said Kenji Himura. He sat in the visitor's chair with his back to the wall and a second folder on his knee.
+
+"You've never run a line."
+
+"No. That's why I'm here."
+
+Byron turned his steel ring around his finger. Through the half-open door he could see four men standing in the corridor the way men stand when they are paid to. None of them carried a tool bag, and he had spent forty years learning which crews knew their work by how they held their hands. These men knew theirs.
+
+"All right," he said. "Tell me what it is."
+
+"It's a pod that cures disease and injury. Cancer, infection, broken bones. It does that and nothing else, and that's on purpose. I want the world to be able to believe somebody could have built it without me."
+
+"Can it cure this?" Byron lifted two fingers toward the oxygen line at his nose.
+
+"This version can't. Yours has gone too far, and it would clear the cancer without giving you your lungs back. I have another machine in Houston that can. I'd move you tomorrow, and you'd be well by Monday morning."
+
+"My board meets Monday."
+
+"Then you'd be in the room." Himura said it as if it were a schedule, which Byron respected. "In return, Oyama builds what I design, under no name but Tallis Bay, for seven years. You stay chairman in public. Nobody is told who is behind it."
+
+Byron had run Oyama for forty years and had no one to hand it to. Nine thousand people drew pay from it. "What happens to my workers if you disappear?"
+
+"The contract says that if Tallis Bay ever stops paying, every design in it becomes Oyama's to build and sell. A lawyer named Marchetti wrote that clause. She'll go through it with you on Monday."
+
+"Nobody has ever protected my payroll before I asked."
+
+"Then what do you need besides that?"
+
+Byron took the question seriously, because it was a better one than he usually got. "Time. I can have ten of these pods on the floor in a month if I pull Cleveland off the work it's doing.
+
+After that, fifty a month. What do you want by Friday?"
+
+"Nothing by Friday. Ten in a month is enough to start."
+
+Byron nodded and pulled the second folder toward him. The sheets in it showed a figure with a man's height and a frame like a gate hinge, drawn from the front, side, and back, with a thick plate over the chest. "This is a robot."
+
+"It's a security droid. It walks a fence all night and doesn't tire. It's also not for sale, to anyone, ever. Oyama builds it for the foundation's own sites, and you keep the design where no one at the plant can see it."
+
+"I'd sell a thousand of these."
+
+"You wouldn't have a customer who didn't want to know whose design it was." Himura leaned forward. "The first buyer who learns that will try to take it, and he'll start with you. I'd like him to find nothing he can use."
+
+Byron looked at the chest plate. A square cavity was drawn behind it, with no part number. "What goes here?"
+
+"A data crystal. I'll bring those myself, and the brains that run on them. You build the body."
+
+"So you want me to build you a man out of steel, and you'll supply the rest."
+
+"Yes."
+
+Byron laughed, and the laugh set him coughing. When it stopped he saw that the man's hands had stayed quiet in his lap the whole time, scrubbed pink and still, and he decided to trust them. He took a pen from the tray and read the contract through to the last page, which took him eleven minutes, because he did not sign what he had not read.
+
+"Seven years," he said. "I'm sixty-eight."
+
+"You'll have more than seven years. I'm only asking for seven."
+
+He signed, then slid the second folder back across the blanket. "I'll keep the droid drawings in my own safe, not the plant's. Safes at the plant get opened by people who have keys. Nobody has the key to mine."
+
+"Thank you."
+
+"Don't thank me. Get me to Houston. I want the Cleveland press running on that lid by Friday, and I'm going to order it from the bed."
 
 ---
 
 ## *Act I, 1st Movement · A2 · Kenji Himura (32)*
 
-### *Baytown, 2052*
+### *Houston, October 2052*
 
-The buzzer went off at twenty to three.
+The newest man in the warehouse stood with his palm flat against a roof post, the way you'd rest a hand on a horse. I had met him that morning. Danny Shepard was a combat engineer from Galveston whose legs had been crushed in a building collapse five years earlier, and the pod had given them back in September. His left foot still trailed a little on the stairs.
 
-It was a washing-machine buzzer, bolted to a sheet of plywood with drywall screws, and in the closed mezzanine it was loud enough to rattle his teeth. Kenji came off the cot with the blanket still in one fist. Below him, steel scraped on concrete.
+"Something wrong with that post?" I asked.
 
-He found the work lamp on the second try. The room smelled of solder and wet concrete. The console was the thing he had rigged in one weekend: four salvaged monitors, a strip of indicator lamps soldered to perfboard, the buzzer, and wire running down through the floor to the controllers. One lamp burned red, and it was the dock door. The three beside it were amber, which meant the sentries were awake and had not yet been asked to do anything.
+"It's carrying more than it was built for." He did not take his hand away. "There's a crack at the top joint. You feel it better than you see it. It'll hold until somebody puts a ladder against it, and then it won't, and I'd rather not find that out with a man on the ladder."
 
-On the monitors, four men in black rolled under the dock door, flashlights low, one with a pistol along his thigh. In the middle of the warehouse floor, under a canvas tarp, sat the real machine, worth more than the building and everything on the road. Three long crates stood open around it.
+"Can you fix it?"
 
-Each sentry was a grey frame with a task controller behind its chest plate. The controller had one job: if a man crossed the yellow line Kenji had painted ten feet inside the dock, take him down and bind him without killing him. None of them had ever met a living person. They were slow, and they were loud, and he had not yet found a way to make them otherwise.
+"With a brace and two days." He finally looked at me. "I can start tonight, sir, if you want."
 
-The men crossed the yellow line without looking down, heading for the tarp like men who had been shown a map.
+"I do. What do you need?"
 
-“Worth a hospital,” one muttered. “That’s what he said.”
+"Steel plate. It's in the truck."
 
-“You ever meet him?”
+I left him to it. The warehouse was a rented shell east of the city, concrete floor, one drywall office, a roof that leaked in two places. Marchetti and Ortega were in the office with the door shut, writing the last of the contracts.
 
-“Never. Get the tarp.”
+At a trestle table by the wall, three people who used to work for intelligence services were reading court dockets, which was how they were finding the people who would one day buy what I made. Ashby and another radio engineer were stringing aerial wire across the rafters, and Ashby stopped every minute or so to tilt his head at the sound the wire made.
 
-The nearest sentry stood up.
+Six more fighters stood in the open middle of the floor wearing the first frames Oyama had built for me. Each frame was a steel skeleton that took the weight of the man inside it and everything he carried. It was powered by nothing but his own legs. The next version needed a small reactor, and I could draw the reactor and could not afford the metal for it.
 
-Servos whined. Steel rang on the slab.
+Along the east wall stood four security droids, delivered from Byron's Cleveland plant on Tuesday. Each one was a little over six feet of gray plate on a steel frame, with one of my data crystals in its chest. They were the first thing Oyama had built for me that wasn't a pod, and Byron had paid for the steel himself. When one of them took a step, you could hear it across the floor.
 
-The men spun. Flashlights swung.
+Vance wanted me to see one work. He nodded at a fighter named Pruitt, who stepped up in his frame and ran at the nearest droid.
 
-The pistol came up.
+The droid moved across, not back.
 
-A grey hand closed on the wrist.
+Plate clanged.
 
-The pistol left the man’s fingers.
+A gray hand took Pruitt's wrist. His feet left the floor. He hit the concrete flat on his chest.
 
-It sat in the sentry’s other palm.
+A knee settled between his shoulder blades. The other hand stopped an inch from his neck.
 
-The second man charged.
+Nobody breathed.
 
-The second sentry turned a shoulder.
+Then the droid released him and stepped back to the wall, and Pruitt rolled over, laughing, and said it was the fourth time that week. I stayed where I was, because I knew that move. A man shifts his weight onto his back foot, takes the wrist with the near hand, and drops the opponent as the other man's balance goes. I had watched Vance do it to a training dummy in September.
 
-He hit the concrete face first.
+Fifteen months earlier I had walked into a hospice room and told a dying man what I wanted. He said he had nothing to pay with but what was in his head, and I said that was what I wanted. I put him in the pod, and while he was in it I copied out everything he knew: the training, every lesson from every place he had been shot at, the way he stood in a doorway.
 
-A knee settled in the small of his back.
+Then I gave him his lungs back. When he came out he asked me what he was supposed to do, and I told him to teach people to guard me. He said, "Walk the ground first." We still start every job that way.
 
-Kenji’s hand found the monitors. Squared them.
+Every move those droids knew had come from him, and he and I were the only two people who knew it. Nobody else in the room wondered why a gray frame fought like their sergeant, and I did not plan to tell them.
 
-The third sentry took the man at the tarp by both arms.
+Late that night, when the others had gone, I went to the back of the warehouse where two frames stood on a bench. They had no skin and no faces yet, and their joints were finer than the droids', with hands that could one day pick a lock. They would be my own guards.
 
-The last man ran for the dock. His boot skidded on gravel dust.
+When people looked at them they would see two men, not machines, because a guard that looks like a machine tells everyone who I am, and a guard that looks like a man only tells them I have help. It would take three years to finish them, and the money would come from the pods that Oyama was building. Until then, Vance and Ashby would walk with me wherever I went.
 
-The first sentry took two heavy steps.
-
-A grey hand took his collar.
-
-Nobody fired. Nobody bled.
-
-Cable ties snicked down the row.
-
-None of them had reached the tarp.
-
-Then he did the rest from a list. He called the county sheriff on a prepaid phone bought for cash, gave the address and the word *burglary* and nothing more, and put the phone in the drainage ditch behind the lot. The sentries sat the men against the loading dock wall, walked back to their crates, and stood in them. Each frame sagged and went dark, the servos winding down in a long groan. The men would tell a deputy about grey machines, and the deputy would write down *intoxicated*.
-
-He washed his hands at the utility sink in the back, and when they were clean he washed them again.
-
-He was quietly pleased with himself, which was not a feeling he trusted. Under it he felt a debt to a man he had met twice. Last autumn, in a hospice room that smelled of bleach, a retired Marine named Dominic Vance had lain with failing lungs and nothing to pay with.
-
-“How about what’s inside your head?” Kenji had asked. “I can copy it out, and I can give you your breath back in the same hour.”
-
-Vance had studied the ceiling a while. “Do it,” he said. “I’ve got nothing else anyone would take.”
-
-All winter Kenji had run the sentries through the sergeant’s engagements. Tonight the second sentry had put a man down with the sergeant’s own knee in his back, and Kenji knew the movement from the sergeant’s memories. But the body doing it was slow and loud, and Vance had never been either.
-
-The sentries had worked, but only after the men were inside. No one had warned him, and no one was watching the road. A year ago, in the tire shop, he had promised himself a wall of people before he sold anything, and so far the wall was three machines. He needed people beyond the fence, and people could not be built in a shed over a winter. He had one name. He did not trust Vance from acquaintance, but the sergeant was the only living man who knew what the machine did, and he had told no one. Kenji had also read his memories closely enough to know how he behaved under fire.
-
-He lifted the desk phone and dialed from memory.
-
-The line rang.
-
-It rang again.
-
-Someone picked up.
-
-Nobody spoke.
-
-Far off, a dog barked on a porch.
-
-A man breathed on the line, slow, through the nose.
-
-Kenji’s hand lay flat beside the monitors, squared to their edge.
-
-His mouth opened.
-
-Nothing came.
+I took my notebook from my coat and wrote *2055* at the top of a clean page. I would sell nothing to anyone until the platoon was full, the droid squads were in place, and every site had a guard. Each of those was another person who knew something about me, and every one of them was a person I would owe.
 
 ---
 
-## *Act I, 1st Movement · A2 · Gunnery Sergeant Dominic Vance (50 to 59)*
+## *Act I, 1st Movement · A2 · Eleanor Whitcombe (60)*
 
-### *Houston and the Gulf coast, 2052 to 2061*
+### *Houston, February 2053*
 
-The ledger was a green canvas-bound book from a surplus store, and its first page held no names. Vance had bought it the week after the treatment. It rode in his coat, and every entry was either something he had walked himself or something marked *told*.
+The letter in Senator Eleanor Whitcombe's handbag gave the name of her cardiologist, the date of her last scan, and one sentence about how long the doctor had said she had. She had told no one alive those three things. Helen Marchetti, a lawyer she had known for twenty years, had delivered it by hand and had not read it. Eleanor had watched Helen's face while she read it, and Helen had looked at the envelope, not the page, with the careful blankness of a woman who had learned never to read another person's mail.
 
-**October 2052.** The phone rang on the porch before dawn. A level voice said, “Sergeant Vance, it’s Kenji Himura. A crew came through the dock of my warehouse tonight. My sentries stopped them, but only after they were inside.”
+That was why Eleanor had come to a rented warehouse east of the city on a wet Tuesday, with her driver waiting at the end of the lot and her committee scheduled to vote on Thursday. She had spent twenty years watching who looked at whom before anyone spoke. In this room everyone looked at Kenji Himura. He looked at no one but her.
 
-“Which way did they come in?”
+The older man by the door, the one in the gray coat, watched the entrance. The young one with the radio case watched the older man. Marchetti stood a little behind Himura's shoulder, looking at the floor, as she did when she was sure of the paper and not sure of the people.
 
-“I don’t know. That’s why I called you.”
+"Mr. Himura," Eleanor said. She kept one hand on the back of a folding chair. "You have my cardiologist's name in an envelope. In my line of work that's what we call a threat."
 
-“Then I’ll walk the ground,” Vance said. He found a culvert where a car could sit unseen, and a rise where a man with glasses could watch the dock all day. The machines held the door, but nobody held the road. He wrote that down, and under it what he needed: people who would stand where he told them.
+"I didn't mean it as one." He said it at once, and he did not look away. "My people found your records. I should have asked you first. I didn't, because I didn't think you'd come if I did. I'm sorry."
 
-**December 2052.** The first was a sapper. Daniel Shepard had been an Army engineer until an apartment block came down on him in 2047, and he had spent five years and most of a pension on a chair he hated. Vance named the price in a Houston ward: seven years of standing where he was told, for walking out on his own legs.
+"Then why put it in the letter?"
 
-“Can I see my family?”
+"So you'd know I could help. I can heal your heart. Completely, not a few more years of managing it." He pulled a second folding chair out from the wall and sat down on it himself, though he had been standing since she came in. It took her a moment to understand that he had done it so that she could sit without asking. She sat.
 
-“You can’t tell them what you do.”
+"That's generous," she said. "What do you want?"
 
-Shepard laid one palm flat on the table, as if testing it. “That’s load-bearing,” he said. “All right.”
+"I want you to lead people. I'll have clinics in Galveston, Marseille, and Singapore by summer. They'll offer organs grown from a patient's own cells, and the paperwork has to be real, with a license no minister can pull on a whim. I need someone who knows who to call in every ministry, and who can build a group of people who'd rather ask questions than close a clinic. People in your line of work call them factions."
 
-**March 2053.** The second he already knew. Ashby had been the youngest man in the squad, its radio technician, and the army had taken his pension when he refused to sign against the officer who sent them in. Vance found him in Duluth over a bait shop, a mechanic’s stethoscope around his neck. A transformer on the wall began to hum, and Ashby tilted his head, went still, and pulled its plug.
+"They are." Eleanor pushed her reading glasses up onto her head. "And in return?"
 
-“I need someone who’ll tell me when a machine is about to fail,” Vance said.
+"Health now, and a long life. Youth later. If a senator looks thirty next year, people will ask why, so I'd wait ten years, until no one will." He paused. "Anyone you bring in on the same terms gets the same."
 
-“I write down every fault I hear, and I give it to whoever is above me, even when they don’t want it. Is that a problem?”
+"Terms."
 
-“That’s the whole job.”
+"Seven years of work. After that you stay only if you choose to." He glanced at Marchetti, who nodded once. "There's a session after the treatment, and part of it stops you from telling anyone outside what we do. Helen can read you the exact wording."
 
-**June 2053.** Galveston opened on a Tuesday, and that date was a wall. The public line ran through the front. A locked corridor behind it led to a second wing, where Kenji treated the first of his veterans and the first of the rich. Behind the wing stood the new frames, taller and smoother than the Baytown ones and run by a crystal nobody on earth could open, and Vance’s people wore powered suits under their jackets. No frame stood at the front, because a public clinic could show the world nothing it could not have built itself.
+"I'd rather read it myself." Eleanor looked at the older man by the door, and then at Himura again. No one in the room mentioned what would happen if she said no. Nobody needed to. The man in the gray coat stood by the only door with his hands in his pockets, and it looked like an ordinary place for him to stand.
 
-The week before, Shepard had asked to see Kenji. “My father is dying of cancer,” he said. “I’m not asking as a recruit. I’m asking.” Kenji said yes before he had finished. On the morning the old man walked out whole, Shepard stood at the side door and did not go in. Vance wrote down that a man could give a gift and not be allowed to watch it opened.
+"Am I free to leave?" she asked.
 
-**November 2054.** A client’s household manager was stopped in Geneva by a stranger who asked, pleasantly, what his employer did on Thursdays. The man reported it. The stranger had paid in cash and left no face.
+"Yes, right now," Himura said. "Vance will hold the door."
 
-**January 2056.** The locksmith’s report named the back corridor to the wing as the one place a copied key would open a door. Vance asked Kenji for a pair of the frames, and Ashby tuned their servos until they moved almost like men, though he could not make them quiet. Tom Shepard, who ran the building, told the staff they were equipment. Nobody believed him.
+"I'm sure he's good at it." She almost laughed. "I vote on Thursday, as it happens, on the device licensing bill. I came here meaning to ask what you'd want from that."
 
-**September 2058.** Kenji married the foreman’s daughter in a hall on the seawall. Vance took the back door and read the room with his body. Shepard came down from Houston and stood beside him with one palm on the doorpost. “Does she look happy?” he asked. “Yes,” Vance said. “Then I’m on the door,” Shepard said, and did not sit.
+"Vote however you were going to. I'm not asking you to change anything. What I want comes later, when someone tries to close one of my clinics, and I want one person in a room who can say wait." He turned his hands palm up on his knees. "What do you need from me before you decide?"
 
-**Spring 2059.** The lamp in the clinic car park had been dead eleven days, and the sister had refused the guards the network offered. Shepard took the car park from outside her roster, where she would not see him. He called it in: a van, not the Thursday van, riding low on its springs, and he was going to look. Then the net carried a sound like a window. Vance wrote the entry without an adjective. *Shepard, D. Killed on post.*
+"A day," she said, and then, "No. A day wouldn't tell me anything new." She stood, and it cost her more than she let show. "Yes. I'll lead them. But I'd like the list of cities again."
 
-**February 2061.** Five of the full machines went missing from a site outside Tulsa in a single night, with every door still locked and the frames’ logs clean. The crates had left on a transfer order with the regional manager’s signature, and the manager swore he had signed nothing. The order led to a shell company, then another, then a desk that did not exist.
+"Galveston, Marseille, Singapore."
 
-Vance had the analyst lay four sheets side by side: the dock in Baytown, the hospital chain’s letter, the van, and Tulsa. The same broker had paid for the first and for the lawyer behind the second, and the money for the third had passed through both. “It’s one hand,” the analyst said. “It knows what the machine is, it has never touched one, and it has no name I can find.”
-
-“Guards and locked doors did not stop this,” Vance told Kenji. “Shepard is in the ground because of paper, and I don’t know how to watch for paper.”
-
-“What do you need?”
-
-“Someone who can read it.”
-
-**October 2061.** Vance had the network pull the staff files of every ministry that licensed a clinic, and he read them for weeks. One paper was better than the rest: an analysis of the Ankara tariff schedules, and the only one that said what the schedules left out. The author was Maya Brooks, an analyst in Marseille, but her file ended that spring with a leave of absence and a hospital ward. She was dying.
-
-He turned back to the first page of the green book, the one that had held no names, and wrote hers.
-
----
-
-## *Act I, 1st Movement · A2 · Kenji Himura (33)*
-
-### *Galveston, 2053*
-
-The clinic’s license lay face down in a drawer in the monitor room, under a box of spare keys, and the name printed on it was not his. Kenji had taken it off the wall the night before, because a license names an owner, and an owner is someone a stranger can find. On the center monitor a young woman sat in the waiting room with her dress blues folded on the chair beside her, staring at the bare paint where it had hung.
-
-He had watched her for most of three days from a chair set with its back to the wall, the way Vance had taught him to sit. She never wrote anything down, which was worse than if she had. She looked at the wall, then the front desk, then the bare chests of the staff one after another, and she kept coming back to whatever was missing. He had trained the staff to say nothing, and she was learning more from what they left out than from anything they said.
-
-Her father’s file lay beside the keyboard: pancreas, advanced; foreman, thirty years on hulls. Danny Shepard had asked for him the week before, standing in the workroom with his cap in his hands, the only favor he had asked in seven months. Kenji had said yes before he finished, and it bent the rule on the sheet pinned above his bench. He told himself there was another reason, that a man who could run a yard could run a building. He caught himself having thought it, and turned the file face down.
-
-At ten past six the frosted doors opened on the third monitor, and the old man walked out on his own feet. The gray was gone from his face. He asked for eggs, and his daughter crossed the room and took his wrist, two fingers on the pulse, and held on long after the count was done. Kenji found he had stopped breathing, and started again.
-
-The woman in gray scrubs made the offer, the daughter heard it through and said no, and her father said only that it was her call.
-
-In the drawer, under the license, lay a stack of blank intake cards. A card was for passing a name along, and he could not pass his. He sat with the pen uncapped over the white until he saw that a blank card was still a message, if he sent it on purpose.
-
-He capped the pen.
-
-He took the card.
-
-The side stairs. Two at a time.
-
-Danny Shepard stood at the side door and let him through without a word. He had one palm flat on the doorpost, and his eyes stayed on the glass.
-
-Wet air. Gulf heat. He went around the building at a walk that was nearly a run.
-
-The front glass was fogged. Two shapes behind it. The old man’s hand reaching.
-
-Kenji crouched. Slid the card under the door.
-
-It whispered on the tile.
-
-He did not wait.
-
-Corner. Brick at his back.
-
-Behind him, the door wrenched open.
-
-Silence. A gull working the street.
-
-At the side door Danny Shepard had not moved. “He’s walking,” he said, to no one. “He’s asking for eggs.” He did not go in.
-
-He pressed his palm flat to the wall. His heart would not slow.
-
-Ten days later the front desk sent word up that a man had come back without his daughter and was asking for whoever ran the place. The staff had given him no name, and he had refused to leave without one. Kenji could have sent him away, but a man with the wing’s training in his head would keep asking, and Kenji wanted, though he would not have said so, to see him well.
-
-He met them in the workroom, the one room in the building that never needed tidying. Tom Shepard stood by the door with his cap in both hands, and beside him stood a small woman with a steady look, who spoke before anyone else could.
-
-“Who are you? Nobody in this building will say, and I’d like to hear it from the one person who can.”
-
-“Kenji,” he said. “I answer for this building, for what happens in it and what doesn’t. That’s everything I can tell you that’s true, and I’m sorry it isn’t more.”
-
-“That’s an honest answer, and I can tell it cost you something,” Ruth said. “I won’t ask you again.”
-
-“I came to say thank you,” Tom said. “I’ve said it to a dozen people in scrubs who looked at me like I was reading them a bill, and I wanted to say it to the man it belongs to. So thank you, son. For my life, and for what you put in my head besides.”
-
-The word reached him a half second late. No one had called him that in this body, and no one had in the old life. His shoulders came up, and his hand found the pen on the bench and squared it against the clipboard.
-
-“What do you need?” he said. “If the upload is giving you trouble, I can have someone look at it today.”
-
-“Nothing’s wrong, but I keep waiting for the bill.” Tom turned the cap in his hands. “My daughter wouldn’t come. She turned down your upload, and she’s decided a place with nothing on the wall has something to hide. She’s right, isn’t she?”
-
-“She is right that this building keeps things back,” Kenji said. “I can’t tell you what, and I won’t tell you there is nothing.”
-
-Tom laughed, short and surprised. His eyes had drifted past Kenji to the bench along the wall, the vise, the half-built jig. “That vise is set for a left-handed man, and the bench is an inch too low for anyone. You’ve got a fine machine, but nobody running the building around it, have you?”
-
-“I’ve been doing it between everything else, and I’ve been doing it badly.”
-
-“Then I could run it,” Tom said. “I spent thirty years keeping yards standing, and a building this size is smaller. Show me the generator room, and I’ll tell you by tonight what it needs.”
-
-The pen sat square against the clipboard. Kenji picked it up, laid it down crooked, and left it there.
+She wrote the three names on the back of her committee agenda with the pen from her jacket, and saw as she wrote that she knew exactly whom she would call in each of them.
