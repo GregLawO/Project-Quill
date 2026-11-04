@@ -14,7 +14,7 @@ I was seating the last gauge on the Med-Pod when Delgado came in through the bac
 
 The machine filled the bench in the back bay of his tire shop: a long steel cradle under a clear lid, and behind it a tank I had made from a scrapped pressure vessel. The build diagram was pinned on the wall above it, with the word MED-POD across the top. Six months of yard wages had gone into the machine, and every part I couldn't weld myself I had bought used. The parts were the hard part. The knowing was easy, and that bothered me. Before I woke up in this body, I had seen a med-pod in a movie called Elysium. It was a fictional technology, a bed that fixed anyone who lay in it, and no one had ever worked out how such a machine could function. Now? I know exactly how it functions. Every weld. Every setting. The only thing that I don't know is how and why I know.
 
-I woke up in December of 2050 in a flat three streets from here, in a thirty-year-old body that wasn't mine. I think I used to be someone else, somewhere else, and I don't know how that happened. I haven't told anyone, because there is no one I could tell.
+I woke up in March of 2050 in a flat three streets from here, in a thirty-year-old body that wasn't mine. I think I used to be someone else, somewhere else, and I don't know how that happened. I haven't told anyone, because there is no one I could tell. It took me until the winter to find steady work at the yard and a bay Delgado would rent me, and I started the machine the day I got the key.
 
 A truck had hit Pancho on the ship channel road that morning and broken his hip in two places. The vet had quoted twenty-two hundred dollars, which Delgado didn't have, and had told him what the other choice was.
 
