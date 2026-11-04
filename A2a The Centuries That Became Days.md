@@ -168,7 +168,7 @@ Byron said nothing for a while. He had run Oyama for forty years and had no one 
 
 The sheets showed a squat housing with a ring of emitters around an open chamber. Across the top of the first sheet it said Phased Disassembler Array.
 
-"It vaporizes scrap and trash and breaks it down to its base components," Himura said. "It sorts the elements by atomic mass, so nothing is wasted. I built a crude one, and it's slow. These would be the best version there is."
+"It vaporizes anything and breaks it down to its base components," Himura said. "It sorts the elements by atomic mass, so nothing is wasted. I built a crude one, and it's slow. These would be the best version there is."
 
 Byron followed the airflow lines with his finger. "How much can it take?"
 
