@@ -68,7 +68,7 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 - **From A2 on.** Kenji carries POV. A1 stays as published: unnamed, no POV.
 - **First person (author ruling, 3 November 2026).** Every Kenji chapter is written in the first person ("I"). The rules below about what he thinks, notices, and says apply to the narration. All other POVs stay in the third person. Because "I" is Kenji, no other narrator may use it.
 - **Count.** He carries 7 of A2's 20 (A2.1, A2.4, A2.6, A2.9, A2.12, A2.13, A2.15), none of A3's 10, and 1 of A4's 10. In every other chapter he carries at most 3 or 4 per 10. This meets the older cap of 7.
-- **Before 2065.** He has full knowledge of his technology from the start. He knows the Med-Pod is the one from the film Elysium, and he does not know how or why he knows how to build it. His unease is a cautious man's unease. He may suspect he has transmigrated (revealed at A2.1).
+- **Before 2065.** He has full knowledge of his technology from the start. He knows the Med-Pod is the one from the film Elysium, but he does not know how or why he knows how to build it. His unease is a cautious man's unease. He may suspect he has transmigrated (revealed at A2.1).
 - **From 2065.** He may name his dread once per chapter at most. His past-life habits include flinching at being wanted.
 - **Speech.** Short declaratives, few metaphors, and workshop and tool images when he does use one. He asks "What do you need?" more often than he gives orders. Dry humor is rare.
 - **Fate habit.** He never says "it can't get worse." He notes what arrives early or late and does not call it luck.
