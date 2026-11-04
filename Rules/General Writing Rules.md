@@ -27,6 +27,7 @@ These are the rules that apply to every micro-chapter, in any chapter, with any 
     - **No sentence that needs a second read.** If a sentence needs a second read, split it or rewrite it.
     - **A mystery comes from a plain fact the reader can see** (a card with no name, a man who will not say where he is from), never from unclear wording. The reader always knows what has happened, even when the reason is not yet known.
     - **Endings state plainly what is about to happen or what has just been left unanswered.** A held breath still names the decision, and a withheld answer still names the question.
+53. **Kenji never doubts his technology (author ruling, 4 November 2026).** He has full knowledge and expertise in every technology he gets. He knows it works before he builds or switches it on, and he never hopes, wonders, or hedges about whether it will. Never write him unsure of his own machine, never write him not remembering what he built or drawn, and never write his hands acting without him. His risks come from other people: who finds out, who wants it, who can be trusted. Doubt about where the knowledge came from is allowed, because the story never explains it.
 
 ## C. Starting and ending
 
@@ -157,6 +158,7 @@ Each recurring POV gets one habit of attention, checked against this voice sheet
 - [ ] One earlier thread echoed
 - [ ] No word or structure that makes a reader pause
 - [ ] Plain, everyday language, with no abstract shorthand
+- [ ] Kenji never doubts his tech, never forgets what he built, and his hands never act without him (rule 53)
 - [ ] No vagueness, riddles, or hidden meanings (rule 52): no figures of speech standing in for facts, no unexplained gestures or objects, no cryptic dialogue
 
 ### Worked example: Marcus in the vault
