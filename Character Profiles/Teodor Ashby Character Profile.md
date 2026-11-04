@@ -83,7 +83,7 @@ In the years after the early network he becomes part of Kenji's personal guard s
 
 ## Updates (author rulings, 3 November 2026)
 
-- **Recruited in autumn 2051, not 2053.** Vance brings him in from Duluth, a few months after Vance himself is treated. He is Kenji's radio and communications man from the start. He is treated on a seven-year term (decision), and the treatment is what fixes his knee and lungs.
+- **Recruited in autumn 2051, not 2053.** Vance brings him in from Duluth, a few months after Vance himself is treated. He is Kenji's radio and communications man from the start. He serves for life, a life given for a life (author ruling, 4 November 2026), and the treatment is what fixes his knee and lungs.
 - **Security detail.** Vance and Ashby are Kenji's security detail from autumn 2051. They stand guard while Kenji recruits the lawyers (October 2051) and they walk with Kenji until the two Level 5 guards are finished in 2055.
 - **Communications.** One more network engineer joins him in autumn 2052 (decision).
 - **The June 2057 theft.** He finds that the alarm stayed silent when it should have rung. He blames himself (A2.7). This is another fault he heard and did not speak of in time, and it feeds his wound.

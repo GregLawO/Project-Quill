@@ -73,7 +73,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 ## Rules this profile follows
 
-- No Reaper thoughts and no past-fiction thoughts before 2065. Before then he may see a company name and feel he knows it without being able to place it (author ruling, the first of three waves of realization).
+- No Reaper thoughts, and no thought that his world is Mass Effect, before 2065. He may remember fiction from his past life, such as the film Elysium. Before 2065 he may also see a company name and feel he knows it without being able to place it (author ruling, the first of three waves of realization).
 
 * Dialogue never runs in single-sentence replies. Characters answer in several sentences, with reasons, hesitations, and follow-ups, as people do.
 
@@ -84,3 +84,10 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 - **No Primitive pod of his own.** He builds the Level 2 Med-Pod and the tier sheet in 2051. Oyama builds the Primitive pods.
 - **Two guards.** He builds two Level 5 droids himself (2052 to 2055). They look and move like men and are with him at all times. He tells Hannah what they are in 2060.
 - **The name Cerberus** reaches him in October 2058 through Marchetti, from the other side's lawyer. From then he may feel the name is familiar without placing it (the first wave).
+
+## Updates (author rulings, 4 November 2026)
+
+- **He never doubts his technology.** He has full knowledge and expertise and knows a machine works before he builds it. He knows the Med-Pod is the one from the film Elysium, but he does not know how or why he knows how to build it. He finds that strange, and the strangeness never becomes doubt that a machine works.
+- **Waking and building (A2.1).** He wakes in March 2050 in a flat in Texas City, in a thirty-year-old body that is not his. He first builds an automated scrapper and leaves it in a junkyard to collect metal and parts, then a nanoassembler that breaks scrap down into base elements, then the tools that make the tools. Last, he rents a bay in Delgado's tire shop and builds the Level 2 Med-Pod. Its first patient is Delgado's dog, Pancho.
+- **Service is for life.** Protectors give their lives to him in exchange for the ones he gives back, a life for a life. During treatment he adds a failsafe that guarantees their loyalty.
+- **Byron and Oyama.** He gets Oyama by treating Byron Pyrrus. Byron's death is staged, and he returns in a new identity to run Oyama for Kenji.
