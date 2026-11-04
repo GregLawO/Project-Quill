@@ -40,7 +40,7 @@ A man wakes up in a world very different from the one he knew when he last went 
 ## 4. Backstory Timeline (2050 to 2175)
 
 ### Stage 1: Awakening and caution (2050)
-1. **2050.** He wakes with inexplicable knowledge and expertise, suspects he has transmigrated, and chooses to build his foundation in secret. His hands finish a diagram he does not remember starting. He remembers this in 2051 while he builds the Level 2 Med-Pod (A2.1, which merges the old A2.1 and A2.2).
+1. **2050.** He wakes with inexplicable knowledge and expertise, suspects he has transmigrated, and chooses to build his foundation in secret. He draws the Med-Pod diagram himself in the first week and builds it over the next fifteen months, in the back bay of Delgado's tire shop (A2.1, which merges the old A2.1 and A2.2).
 
 ### Stage 2: The foundation (2050 to 2075)
 

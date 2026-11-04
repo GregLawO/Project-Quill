@@ -10,9 +10,9 @@
 
 ### *Texas City, 2051*
 
-The word across the top of the sheet was MED-POD, and I had no memory of writing it.
+The word across the top of the sheet was MED-POD, and I wrote it in the first week after I woke up in this body.
 
-The sheet had been on my kitchen table the morning I woke up in this body, a half-finished diagram in square capitals in a hand that was mine now. I didn't remember drawing any of it. But I knew exactly what it was, because I knew how to build the machine it showed, down to the last weld and the last setting on the last dial. I pinned the sheet above my bench in the back bay of Delgado's tire shop, finished the diagram myself, and spent the next fifteen months building what it described. In June of 2051 the machine was standing on the bench under it.
+I drew the diagram on the kitchen table in square capitals, because I knew exactly what the machine was and how to build it, down to the last weld and the last setting on the last dial. I pinned the sheet above my bench in the back bay of Delgado's tire shop and spent the next fifteen months building what it showed. In June of 2051 the machine was standing on the bench under it.
 
 It was a long steel cradle under a clear lid, with a tank behind it that I had made from a scrapped pressure vessel. Knowing how to build it was the easy part. Getting the parts was the hard part. Eleven months of yard wages had gone into it, and every part I couldn't weld myself I had bought used.
 
