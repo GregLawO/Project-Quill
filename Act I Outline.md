@@ -46,7 +46,7 @@ A1 (the body) is live and unchanged. Everything below it is open.
 
 **How the realization begins.**
 
-- **Wave 1 (October 2058 to 2064).** A short list of names that sound familiar. It starts with the name Cerberus, which is also an old myth, so a vague feeling is natural. Later the list holds company names: Hahne-Kedar, Ariake, and Sirta in 2063, and nine names by 2064. He cannot say where he heard them. His hands know things before his head does.
+- **Wave 1 (October 2058 to 2064).** A short list of names that sound familiar. It starts with the name Cerberus, which is also an old myth, so a vague feeling is natural. Later the list holds company names: Hahne-Kedar, Ariake, and Sirta in 2063, and nine names by 2064. He cannot say where he heard them.
 
 **A2. The Centuries That Became Days** (2051 to 2066, 20 micro-chapters in four batches)
 
