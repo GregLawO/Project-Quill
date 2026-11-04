@@ -29,7 +29,7 @@ A1 (the body) is live and unchanged. Everything below it is open.
 | Autumn 2051 | Vance brings in Ashby. | A2.2, A2.4 |
 | Oct 2051 | The lawyers are recruited, with Vance and Ashby standing guard. Tallis Bay is set up. | A2.2 |
 | Winter and spring 2052 | Vance expands the team twice. | A2.3, A2.4 |
-| Jul 2052 | Byron Pyrrus is treated. Oyama becomes the factory. | A2.3 |
+| Jul 2052 | Byron Pyrrus is treated, his death is staged, and he returns in a new identity to run Oyama for Kenji. Oyama becomes the factory. | A2.3 |
 | Autumn 2052 | Danny joins. The first security droid squad arrives from Oyama. | A2.4, A2.7 |
 | Feb 2053 | Whitcombe joins and builds the political faction. | A2.5 |
 | Summer 2053 | Three clinics open. Tom is treated. | A2.6, A2.7, A1.1 |
@@ -71,7 +71,7 @@ Dates run in order inside each chapter, except A2.7 (Vance's ledger, 2051 to 205
    - **Hook (Q).** She asks what happens to everyone's term if he dies, because someone has to hold every term and treatment after him. He says Tallis Bay holds them and asks her to be its trustee. She tells him a trustee can refuse him and stop the foundation. He says he knows, and that he chose her because she asked about his death before she asked about the money, and because she will read a page to the end before she stops him. She writes *trustee* in the margin beside her own name. *Tech: Med-Pod L2.*
 
 3. **A2.3 Byron Pyrrus (68), July 2052 [I] · Q. The producer.** About 800 words. (New main cast, placeholder age. Habit of attention: what a line can build by Friday, and what it cannot.)
-   - **Scene (Slow Gear), a private hospital room.** Byron owns and runs Oyama Industries, a manufacturing group with nine thousand workers, and he is dying of lung cancer. Vance and four fighters, whom Vance recruited this spring, wait in the corridor. Kenji offers treatment. In return Oyama will build what Kenji designs, under no name but Tallis Bay, for seven years. Byron stays chairman in public. Byron asks who owns the designs and what happens to his workers if Kenji disappears. Kenji says the designs belong to a foundation that cannot disappear, and that the contracts keep his workers paid.
+   - **Scene (Slow Gear), a private hospital room.** Byron owns and runs Oyama Industries, a manufacturing group with nine thousand workers, and he is dying of lung cancer. Vance and four fighters, whom Vance recruited this spring, wait in the corridor. Kenji offers treatment and Byron's prime years back. In return Kenji gets Oyama: Byron's death is staged, he returns in a new identity, and he runs Oyama for Kenji (author ruling, 4 November 2026). Oyama builds what Kenji designs, under no name but Tallis Bay. Byron asks who owns the designs and what happens to his workers if Kenji disappears. Kenji says the designs belong to a foundation that cannot disappear, and that the contracts keep his workers paid.
    - **The terms.** Oyama builds the Primitive Med-Pods, Level 1 robots, and Level 1 powered-suit frames first, and later Level 2 and 3 robots. Kenji also hands Byron the security-droid design for Oyama's internal use, with a rule: not for sale. Kenji will supply the data crystals and the Dumb AI himself. Byron asks why. Kenji says the first buyer who learns whose design it is will try to take it.
    - Want: Byron's signature before the board meets on Monday.
    - **Hook (Q).** Byron signs. He says the droid drawings will go in his own safe, and not in the plant's. *Tech: Med-Pod L1 (Oyama), Robotics L1, MIPS L1, Robotics L2 (design).*
