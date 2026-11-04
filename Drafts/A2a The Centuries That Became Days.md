@@ -10,21 +10,17 @@
 
 ### *Texas City, 2051*
 
-The word across the top of the sheet was MED-POD, and I wrote it in the first week after I woke up in this body.
+I was seating the last gauge on the Med-Pod when Delgado came in through the back door of the shop with his dog in his arms.
 
-I drew the diagram on the kitchen table in square capitals, because I knew exactly what the machine was and how to build it, down to the last weld and the last setting on the last dial. I pinned the sheet above my bench in the back bay of Delgado's tire shop and spent the next fifteen months building what it showed. In June of 2051 the machine was standing on the bench under it.
+The machine filled the bench in the back bay of his tire shop: a long steel cradle under a clear lid, and behind it a tank I had made from a scrapped pressure vessel. The diagram was pinned on the wall above it, in square capitals, with the word MED-POD across the top. I had drawn it in my first week in this body, and I had been building it for fifteen months. Eleven months of yard wages had gone into it, and every part I couldn't weld myself I had bought used. Knowing how to build it had been the easy part. The parts were the hard part.
 
-It was a long steel cradle under a clear lid, with a tank behind it that I had made from a scrapped pressure vessel. Knowing how to build it was the easy part. Getting the parts was the hard part. Eleven months of yard wages had gone into it, and every part I couldn't weld myself I had bought used.
+I woke up in March of 2050 in a flat three streets from here, in a thirty-year-old body that wasn't mine. I think I used to be someone else, somewhere else, and I don't know how that happened. I haven't told anyone, because there is no one I could tell.
 
-I woke up in March of 2050, in a flat three streets from here. The body was thirty years old and wasn't mine, and neither was the face in the bathroom mirror. I think I used to be someone else, somewhere else, and I don't know how that happened.
-
-I haven't told anyone, because there is no one I could tell. That first morning I ate the cold rice on the counter down to the last grain, because that is how I eat.
-
-On the last Friday of June, Delgado came to the back door with his dog in his arms. A truck had hit Pancho on the ship channel road that morning and broken his hip in two places. The vet had quoted twenty-two hundred dollars, which Delgado didn't have, and had told him what the other choice was.
+A truck had hit Pancho on the ship channel road that morning and broken his hip in two places. The vet had quoted twenty-two hundred dollars, which Delgado didn't have, and had told him what the other choice was.
 
 "I can't do that to him," he said. "I thought maybe you'd look at him. You're good with things."
 
-"I don't know if I can help," I said. It was true. I had never put anything alive in the machine. I laid Pancho in the cradle, closed the lid, set the dials by hand, and then there was nothing to do but stand there. Delgado stood beside me with his cap in both hands, and neither of us spoke for ninety minutes.
+"I don't know if I can help," I said. It was true. The machine had never had anything alive in it, and the gauge in my hand was the last part. I tightened it, laid Pancho in the cradle, closed the lid, and set the dials by hand. Then there was nothing to do but stand there. Delgado stood beside me with his cap in both hands, and neither of us spoke for ninety minutes.
 
 When the lid came up, the dog got to his feet, shook himself from nose to tail, and went looking for a ball that wasn't there. He ran the length of the bay on both back legs. Delgado made a sound I had never heard a grown man make, and then he sat down on an upturned tire and said "Okay" four or five times.
 
