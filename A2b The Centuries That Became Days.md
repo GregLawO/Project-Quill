@@ -62,11 +62,11 @@ Tom nodded slowly. Ruth had not moved. "Mr. Himura," she said, "who are you?"
 
 "Kenji Himura. I build things, mostly. I run this clinic because there wasn't anyone else I'd trust with it."
 
-She looked at me for a long moment. "I believe that," she said. "It doesn't tell me anything."
+She looked at me for a long moment. "I believe you," she said. "But you've told me what you do, and I asked who you are."
 
-"No, ma'am."
+"That's all I can say, ma'am."
 
-"No." She folded her hands. "Thank you. For my husband."
+"I thought so." She folded her hands. "Thank you. For my husband."
 
 "I have one request. Please don't tell Hannah about Danny and me. She'd ask questions I can't answer yet."
 
