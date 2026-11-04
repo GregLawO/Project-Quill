@@ -10,9 +10,9 @@
 
 ### *Texas City, 2051*
 
-The word across the top of the sheet was MED-POD, and for a year I could not read it.
+The word across the top of the sheet was MED-POD, and for a year I had no idea what it meant.
 
-I could see the letters, square capitals in a hand that was mine now. They meant nothing to me. The sheet had been on my kitchen table the morning I woke up in this body, half a diagram already drawn, and I had pinned it above my bench in the back bay of Delgado's tire shop and looked at it every working day since. In June of 2051 the word finally made sense, because the machine it named was standing on the bench under it, finished.
+The sheet had been on my kitchen table the morning I woke up in this body, a half-finished diagram in square capitals in a hand that was mine now. I knew the word was mine, because I had written it. I did not know what a med-pod was, or why my hand had started drawing one. I pinned the sheet above my bench in the back bay of Delgado's tire shop and looked at it every working day. In June of 2051 I understood the word, because the machine it named was standing on the bench under it, finished.
 
 It was a long steel cradle under a clear lid, with a tank behind it that I had made from a scrapped pressure vessel. Eleven months of yard wages had gone into it, and every part I couldn't weld myself I had bought used. I had never decided to build it. I would sit down meaning to think, and an hour later there would be a finished gauge on the bench, because my hands knew what to do before I did.
 
