@@ -34,7 +34,7 @@ I washed my hands twice and looked at the machine. I asked what it was for. It r
 
 Whoever owned it could heal anyone and, with the dials turned the other way, make them younger. Every government, hospital chain, drug company, and criminal who heard about it would want it for themselves or want it gone, and I was one man with a cracked lathe.
 
-Delgado hadn't asked. The next person would, and he would bring lawyers or guns or both. Whoever found out first would take the machine and the man who built it, and nothing in this country would stop him. Every sale from now on would make me an enemy, and I would lose the first fight, because I would be fighting it alone.
+Delgado hadn't asked. The next person would, and he would bring lawyers or guns or both. Whoever found out first would take the machine and the man who built it, and nothing in this country would stop him. Every sale from now on would make me an enemy, and the first fight could cost me my life, because I would be fighting it alone.
 
 I took the sheet down, turned it over, and wrote a plan on the back. Step one: protectors, people who could guard me and each other, starting with a man who knows how it's done. Step two: a factory, and buyers with enough power to protect me in public. Step three: everyone else.
 
