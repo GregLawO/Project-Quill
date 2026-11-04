@@ -10,11 +10,11 @@
 
 ### *Texas City, 2051*
 
-The word across the top of the sheet was MED-POD, and for a year I had no idea what it meant.
+The word across the top of the sheet was MED-POD, and I had no memory of writing it.
 
-The sheet had been on my kitchen table the morning I woke up in this body, a half-finished diagram in square capitals in a hand that was mine now. I knew the word was mine, because I had written it. I did not know what a med-pod was, or why my hand had started drawing one. I pinned the sheet above my bench in the back bay of Delgado's tire shop and looked at it every working day. In June of 2051 I understood the word, because the machine it named was standing on the bench under it, finished.
+The sheet had been on my kitchen table the morning I woke up in this body, a half-finished diagram in square capitals in a hand that was mine now. I didn't remember drawing any of it. But I knew exactly what it was, because I knew how to build the machine it showed, down to the last weld and the last setting on the last dial. I pinned the sheet above my bench in the back bay of Delgado's tire shop, finished the diagram myself, and spent the next fifteen months building what it described. In June of 2051 the machine was standing on the bench under it.
 
-It was a long steel cradle under a clear lid, with a tank behind it that I had made from a scrapped pressure vessel. Eleven months of yard wages had gone into it, and every part I couldn't weld myself I had bought used. I had never decided to build it. I would sit down meaning to think, and an hour later there would be a finished gauge on the bench, because my hands knew what to do before I did.
+It was a long steel cradle under a clear lid, with a tank behind it that I had made from a scrapped pressure vessel. Knowing how to build it was the easy part. Getting the parts was the hard part. Eleven months of yard wages had gone into it, and every part I couldn't weld myself I had bought used.
 
 I woke up in March of 2050, in a flat three streets from here. The body was thirty years old and wasn't mine, and neither was the face in the bathroom mirror. I think I used to be someone else, somewhere else, and I don't know how that happened.
 
