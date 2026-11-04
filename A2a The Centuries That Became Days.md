@@ -152,7 +152,7 @@ Byron turned his steel ring around his finger. Through the half-open door he cou
 
 "And what do you want for it?"
 
-"Oyama Industries. You'd run it for me, and Byron Pyrrus would die." Himura said it evenly. "The hospital will record lung cancer. You'd leave Houston in your prime, under another name, and no one would connect you to a dying chairman."
+"Oyama Industries. You'd run it for me, and Byron Pyrrus would die." Himura said it evenly. "The hospital will record lung cancer. You'd leave Houston in your prime, as Anthony Strauss, and no one would connect you to a dying chairman."
 
 Byron said nothing for a while. He had run Oyama for forty years and had no one to hand it to. Nine thousand people drew pay from it. "What happens to my workers if you disappear?"
 
@@ -226,7 +226,7 @@ At a trestle table by the wall, three people who had worked for intelligence ser
 
 Six more fighters stood in the open middle of the floor in the first frames Oyama had built for me. A frame was a steel skeleton that took the weight of the man inside it and everything he carried, and it ran on nothing but his own legs. The next version needed a small reactor. I could draw the reactor, but I could not pay for the metal.
 
-Along the east wall stood four security droids. They had come from Byron's Cleveland plant on Tuesday, built with steel he had paid for himself. Each was a little over six feet of gray plate on a steel frame, with one of my data crystals in its chest. A droid was for the hours of the night when a man cannot stay awake, and when one of them took a step you could hear it across the whole floor.
+Along the east wall stood four security droids. They had come from Strauss's Cleveland plant on Tuesday, built with steel he had paid for himself. Each was a little over six feet of gray plate on a steel frame, with one of my data crystals in its chest. A droid was for the hours of the night when a man cannot stay awake, and when one of them took a step you could hear it across the whole floor.
 
 Vance wanted me to see one work. He stood a training dummy upright in the open floor, a man-sized torso with jointed arms on a weighted base, and told the nearest droid to engage it.
 

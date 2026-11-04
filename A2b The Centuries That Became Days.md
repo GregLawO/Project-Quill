@@ -106,7 +106,7 @@ That same spring, the two machines Kenji had built himself were finished. They l
 
 Ashby told him afterward that the alarm should have sounded and had not. He said it flatly, writing it in the log, and Vance saw that he blamed himself. That autumn Kenji upgraded every security droid to Level 3.
 
-**January 2058.** Oyama's pods went on sale to the public under Oyama's own name. A law firm acting for a buyer no one could name offered to buy Oyama's patents, all of them. The man who ran Oyama, who had once been Byron Pyrrus, said no and telephoned Kenji the same hour. Vance read the offer twice. It came from a law office he could not search.
+**January 2058.** Oyama's pods went on sale to the public under Oyama's own name. A law firm acting for a buyer no one could name offered to buy Oyama's patents, all of them. Anthony Strauss, who ran Oyama and had once been Byron Pyrrus, said no and telephoned Kenji the same hour. Vance read the offer twice. It came from a law office he could not search.
 
 **April 2058.** A second offer arrived, with a forged safety audit behind it that claimed Oyama's plants were unsafe. Oyama refused again. Vance had the plants walked, one by one, and found nothing wrong. That was the worst part. A fence could not stop a forged audit.
 
