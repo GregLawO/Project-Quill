@@ -1,6 +1,6 @@
 # Act I Outline: The Gift
 
-Plans A2 and A3, the chapters being written now. A1 is published and never rewritten. Chapters from A4 on are cast in Excerpt_Bank.md. Endings, batch lines, echoes, and wants are proposals (decision).
+Plans A2, the chapter being written now, and A3, the next chapter. A1 is published and never rewritten. No chapter after A3 is outlined. Each later chapter is outlined, and any older sketch of it deleted, only when the story reaches the chapter before it (author ruling, 4 November 2026). Endings, batch lines, echoes, and wants are proposals (decision).
 
 ## Chapter by chapter
 
@@ -44,11 +44,9 @@ A1 (the body) is live and unchanged. Everything below it is open.
 | Spring 2059 | The bomb. Danny dies. | A1.4, A2.7, A2.12 |
 | Oct 2061 | A forged letter closes Galveston. Whitcombe's faction saves the rest and reopens it. Vance looks for someone who reads paper. | A2.13 |
 
-**How the realization comes in three waves.**
+**How the realization begins.**
 
 - **Wave 1 (October 2058 to 2064).** A short list of names that sound familiar. It starts with the name Cerberus, which is also an old myth, so a vague feeling is natural. Later the list holds company names: Hahne-Kedar, Ariake, and Sirta in 2063, and nine names by 2064. He cannot say where he heard them. His hands know things before his head does.
-- **Wave 2 (B1.2, 2065).** Manswell announces the Alpha Centauri expedition. The names fall into place: he knows which story they come from and what that story's enemy is. He believes it but cannot prove it.
-- **Wave 3 (B3.5 and B3.6, 2065).** His droids find the Mars cavern. The dead Protheans leave no doubt.
 
 **A2. The Centuries That Became Days** (2051 to 2066, 20 micro-chapters in four batches)
 
@@ -179,7 +177,7 @@ Tom, Ruth, Danny, Okonkwo, and the rigger appear in scenes and carry no POV. Pla
 
 **A3. Cheap Hands and Angry Ones** (2062 and 2066 to 2069, 10 micro-chapters in two batches, ordered by date)
 
-**No Kenji POV in A3.** A3 is dated 2066 to 2069, after the realization begins, apart from its first chapter. A Kenji chapter there would spoil B1.2.
+**No Kenji POV in A3.** A3 is dated 2066 to 2069, after the realization begins, apart from its first chapter. A Kenji chapter there would give the realization away early.
 
 **Level 3 labor robots go public through shell companies from 2066 (decision).** They are what the strikers are angry about. The public does not know who owns them. The reader does.
 
