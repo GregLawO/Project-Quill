@@ -32,15 +32,15 @@ He asked me nothing. He did not ask what the machine was, how I had built it, or
 
 I washed my hands twice and looked at the pod. It rebuilt a body from the inside, whatever shape the body was in. With the dials turned the other way, it made a person younger.
 
-Every government, hospital chain, drug company, and criminal who heard of it would want it. Delgado had not asked what it was. The next person would, and whoever found out first would take the pod and the man who built it. Nothing in this country would stop them.
+Every government, hospital chain, drug company, and criminal who heard of it would want it. Delgado had not asked what it was. The next person would, and whoever found out first would take the pod and the man who built it.
 
-I took the diagram down, turned it over, and wrote a plan on the back. Step one was protectors, people who could guard me and each other against legal and illegal threats. Step two was a factory, so I could build more things that would protect me.
+I took the diagram down, turned it over, and wrote a plan on the back. Step one was protectors, people who could guard me and each other against legal and illegal threats. Step two was a factory.
 
 I had one thing to pay with, and it was lying in the cradle. Anyone dying or broken could come out whole. I would look for people willing to give me their lives in exchange for the ones I gave back. A life for a life. During the treatment I would add a failsafe that made sure they stayed loyal.
 
 Under the plan I drew two columns. The left said PRIMITIVE and the right said LEVEL 2. Level 2 was the pod on my bench. It healed a dying person completely, made them young again, and slowed their aging for half a lifetime. I would keep it for myself.
 
-Primitive would be a cruder machine that cured diseases and injuries and did nothing else. That was the one I would share with the world, so it had to be something the world could have built without me. I would not build it myself, to keep the world's attention off me. I pinned the sheet back on the wall with the plan facing out.
+Primitive would be a cruder machine that cured disease and injury. That was the one I would share with the world, so it had to be something the world could have built without me. I would not build it myself. I pinned the sheet back on the wall with the plan facing out.
 
 The first name on my list was Dominic Vance. A volunteer at the veterans' hall in Galveston had given it to me in the spring: a retired Marine gunnery sergeant who had trained half the reservists in the county. He was dying of ruined lungs in a hospice in Houston.
 
