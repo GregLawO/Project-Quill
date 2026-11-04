@@ -36,7 +36,7 @@ Every government, hospital chain, drug company, and criminal who heard of it wou
 
 I took the diagram down, turned it over, and wrote a plan on the back. Step one was protectors, people who could guard me and each other against legal and illegal threats. Step two was a factory, so I could build more things that would protect me.
 
-I had one thing to pay with, and it was lying in the cradle. Anyone dying or broken could come out whole. In return they would swear themselves to me for seven years, and after that they could stay by choice, with the treatment continuing for as long as they served. During the treatment I would add a failsafe that made sure they stayed loyal.
+I had one thing to pay with, and it was lying in the cradle. Anyone dying or broken could come out whole. I would look for people willing to swear themselves to me in exchange for a new life. During the treatment I would add a failsafe that made sure they stayed loyal.
 
 Under the plan I drew two columns. The left said PRIMITIVE and the right said LEVEL 2. Level 2 was the pod on my bench. It healed a dying person completely, made them young again, and slowed their aging for half a lifetime. I would keep it for myself.
 
