@@ -74,7 +74,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 ## Rules this profile follows
 
 - Dialogue never runs in single-sentence replies. He answers in several sentences, position first and reason second.
-- He is not conditioned in his early years with Kenji, and he stays because he chooses to. Only later, when he joins Kenji's personal guard, does he receive the conditioning that makes betrayal unthinkable.
+- He is conditioned from the start of his service with Kenji (author ruling, 5 November 2026). Only the Shepards are not conditioned.
 - He does not count anything. His attention is ground, cover, and sight lines.
 
 - (author ruling, 2 November 2026) He recruits Danny Shepard in 2052 and writes his death into the ledger in 2059. See Daniel_Shepard_Character_Profile.md.

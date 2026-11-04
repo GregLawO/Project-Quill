@@ -148,13 +148,13 @@ Byron turned his steel ring around his finger. Through the half-open door he cou
 
 "Can it cure this?" Byron lifted two fingers toward the oxygen line at his nose.
 
-"This version can't. Yours has gone too far, and it would clear the cancer without giving you your lungs back. I have another machine in Houston that can, and more. I'd move you tomorrow, and you'd be well by Monday morning."
+"This version can't. Yours has gone too far, and it would clear the cancer without giving you your lungs back. I have another machine in Houston that can. It would also give you back your prime years. I'd move you tomorrow, and you'd be well by Monday morning."
 
-"My board meets Monday."
+"And what do you want for it?"
 
-"Then you'd be in the room." Himura answered at once. "In return, Oyama Industries will belong to me, and will build what I design under the name Tallis Bay. You'll remain the chairman."
+"Oyama Industries. You'd run it for me, and Byron Pyrrus would die." Himura said it evenly. "The hospital will record lung cancer. You'd leave Houston in your prime, under another name, and no one would connect you to a dying chairman."
 
-Byron had run Oyama for forty years and had no one to hand it to. Nine thousand people drew pay from it. "What happens to my workers if you disappear?"
+Byron said nothing for a while. He had run Oyama for forty years and had no one to hand it to. Nine thousand people drew pay from it. "What happens to my workers if you disappear?"
 
 "The contract says that if Tallis Bay ever stops paying, every design it holds becomes Oyama's to build and sell. A lawyer named Marchetti wrote that clause, and she'll go through it with you on Monday."
 
@@ -164,7 +164,19 @@ Byron had run Oyama for forty years and had no one to hand it to. Nine thousand 
 
 "Time." Byron thought it through. "I can have ten of these pods on the floor in a month if I pull Cleveland off the work it's doing. After that, fifty a month. What do you want by Friday?"
 
-"Nothing by Friday. Ten in a month is enough to start."
+"Nothing by Friday. Ten in a month is enough to start." Himura took a third folder from under the second and opened it on the blanket. "Before the pods, I want this built."
+
+The sheets showed a squat housing with a ring of emitters around an open chamber. Across the top of the first sheet it said Phased Disassembler Array.
+
+"It vaporizes scrap and trash and breaks it down to its base components," Himura said. "It sorts the elements by atomic mass, so nothing is wasted. I built a crude one, and it's slow. These would be the best version there is."
+
+Byron followed the airflow lines with his finger. "How much can it take?"
+
+"Whatever you feed it. We'll buy scrap and trash from across the whole country, and your plants will break it down in a short time."
+
+"That's every junkyard in America." He almost smiled. "You'd never be short of steel again."
+
+"No."
 
 Byron pulled the second folder toward him. The sheets showed a figure of a man's height, drawn from the front, side, and back, with hinged joints at the knee, hip, and shoulder and a thick plate over the chest. "This is a robot."
 
@@ -184,11 +196,9 @@ Byron looked at the chest plate. A square cavity was drawn behind it with no par
 
 Byron laughed, and the laugh set him coughing. When it stopped, he took a pen from the tray and read the contract to the last page. It took him eleven minutes.
 
-"I'm already sixty-eight," he said. 
+"The last page is a session after your treatment," Himura said. "It stops you from telling anyone outside the organization what we do. Marchetti can read you the exact wording."
 
-"You'll have more than sixty-eight years."
-
-He signed. "Don't thank me. Get me to Houston. I want the Cleveland press running on that lid by Friday, and I'm going to order it from the bed." He slid the second folder back across the blanket. "The droid drawings go in my own safe, not the plant's. Safes at the plant get opened by people who have keys. Nobody else has the key to mine."
+"I hid my cancer from my own board for a year," Byron said. "I can keep this." He signed. "Don't thank me. Get me to Houston. I want the Cleveland press running on that lid by Friday, and I'm going to order it from the bed." He slid the second folder back across the blanket. "The droid drawings go in my own safe, not the plant's. Safes at the plant get opened by people who have keys. Nobody else has the key to mine."
 
 ---
 

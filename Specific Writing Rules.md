@@ -83,7 +83,7 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 - He is the first recruit (summer 2051). He brings in Ashby in autumn 2051, and the two are Kenji's security detail when Kenji recruits the lawyers. He expands the team twice before Byron (July 2052). He stops walking behind Kenji when the two Level 5 guards are finished (2055).
 - **A3.1 must match every gesture of the published A1.5:** gray coat in July, the quarter-turned chair, the four-second pause, the hidden sidearm.
 - He reads ground and counts nothing, so he does not clash with Brooks.
-- He is not conditioned in his early years and stays by choice. He receives conditioning with the Primaris Process when he joins the guard (decision).
+- He is conditioned from the start of his service (author ruling, 5 November 2026). Only the Shepards are not conditioned.
 - Only Kenji and Vance know his memories became the droids' fighting style. No other character is told.
 
 ## 12. Secrecy and reveal discipline

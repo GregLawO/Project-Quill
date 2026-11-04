@@ -73,7 +73,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 ## Part I. Later
 
-In the years after the early network he becomes part of Kenji's personal guard squad, the Custodians, and receives the full enhancement and loyalty conditioning that go with it. He is not conditioned when he is recruited. He joins Vance by choice.
+In the years after the early network he becomes part of Kenji's personal guard squad, the Custodians, and receives the full enhancement and loyalty conditioning that go with it. He is conditioned from the start of his service (author ruling, 5 November 2026). Only the Shepards are not conditioned.
 
 ## Rules this profile follows
 
