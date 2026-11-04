@@ -8,7 +8,7 @@
 - **Gundam:** Axis Zeon Gundarium Gamma.
 - **Starship Troopers:** Terran Federation Mobile Infantry powered suit.
 - **MCU:** Anthony Stark's Palladium Arc Reactor.
-- **Homeworld:** Resource collection and assembly.
+- **Homeworld:** Resource collection and assembly, including the Phased Disassembler Array used by Resource Collectors. It vaporizes target matter and breaks it down to its base components. It separates and sorts the chemical elements by atomic mass, completely eliminating manufacturing waste.
 - **Star Trek:** Vulcan data crystal.
 - **I, Robot:** Robotics.
 - **Mass Effect (author ruling):** Systems Alliance technology and Cerberus technology.

@@ -40,7 +40,7 @@ A man wakes up in a world very different from the one he knew when he last went 
 ## 4. Backstory Timeline (2050 to 2175)
 
 ### Stage 1: Awakening and caution (2050)
-1. **2050.** He wakes with inexplicable knowledge and expertise, suspects he has transmigrated, and chooses to build his foundation in secret. He wakes in March 2050, first builds an automated scrapper and leaves it in a junkyard to collect materials, then a nano-disassembler that breaks scrap into its base elements, then rents a bay from Delgado (author ruling, 4 November 2026) and builds the Med-Pod in about six months, in the back bay of Delgado's tire shop (A2.1, which merges the old A2.1 and A2.2).
+1. **2050.** He wakes with inexplicable knowledge and expertise, suspects he has transmigrated, and chooses to build his foundation in secret. He wakes in March 2050, first builds an automated scrapper and leaves it in a junkyard to collect materials, then a Phased Disassembler Array that breaks scrap into its base elements, then rents a bay from Delgado (author ruling, 4 November 2026) and builds the Med-Pod in about six months, in the back bay of Delgado's tire shop (A2.1, which merges the old A2.1 and A2.2).
 
 ### Stage 2: The foundation (2050 to 2075)
 

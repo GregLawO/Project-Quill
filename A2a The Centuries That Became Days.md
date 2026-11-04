@@ -18,7 +18,7 @@ This machine was exactly the same as the Med-Pod from the film Elysium, a bed th
 
 I woke in March of 2050 in a flat three streets from here, in a thirty-year-old body that was not mine. I think I used to be someone else, somewhere else, and I do not know how I came to be here. I had told no one.
 
-A few months later, I built an automated scrapper and left it in a junkyard outside town, where it collected metal and parts. After that, I made a nanoassembler for breaking scrap down into its base elements. From there, I built the tools that would make the tools for building the fantastic things I got floating inside my head. And now, I've rented a bay from Delgado and created the pod.
+A few months later, I built an automated scrapper and left it in a junkyard outside town, where it collected metal and parts. After that, I made a Phased Disassembler Array for breaking scrap down into its base elements. From there, I built the tools that would make the tools for building the fantastic things I got floating inside my head. And now, I've rented a bay from Delgado and created the pod.
 
 "A truck hit him on the ship channel road this morning," Delgado said. "The vet says the hip is broken in two places, and it's twenty-two hundred dollars to fix it, or she'll put him down. I don't have twenty-two hundred, and I can't do the other. I dunno why, but I thought maybe you'd look at him. You're good with things."
 
