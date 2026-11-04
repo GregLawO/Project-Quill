@@ -7,7 +7,7 @@ These are the rules that apply to every micro-chapter, in any chapter, with any 
 ## A. How the prose moves
 
 1. **Two gears.** Use a slow, detailed gear when the story is quiet, and a short, blunt gear when danger starts. Switch at a clear trigger: something happens, the paragraph breaks, and the sentences get short.
-2. **Slow gear.** Paragraphs run 3 to 4 sentences and never more than 4. Sentences are mostly 15 to 25 words, with an occasional very short one for emphasis. Vary paragraph length.
+2. **Slow gear (author ruling, 4 November 2026, matched to the A2.1 and A2.2 drafts).** Paragraphs run 1 to 5 sentences, usually 2 to 4. Sentences are plain and direct, mostly 5 to 22 words. Narration averages about 12 to 14 words a sentence and dialogue about 10. A sentence over 25 words is rare. Vary paragraph length.
 3. **Fast gear.** Paragraphs run one or two lines. Sentences run 2 to 7 words. Use few adjectives and adverbs. Describe what the body does, second by second.
 4. **In the fast gear, don't name thoughts or feelings, but keep one body detail.** A shaking hand, a held breath, or an object the character won't put down carries the feeling.
 5. **In the slow gear, feeling shows in what the character notices and works out.** What a person notices tells the reader who they are.
@@ -47,7 +47,7 @@ These are the rules that apply to every micro-chapter, in any chapter, with any 
 19. **Each recurring character notices one kind of thing first.** Keep it specific and keep it the same each time.
 20. **Never give the same habit of noticing to two characters in one batch.** If one character counts, nobody else in that batch counts.
 21. **Characters speak in their own way.** Give each a spoken habit, a body tell, and a way of handling stress, and use them.
-22. **Dialogue is never single-sentence back and forth.** People answer with reasons, pauses, and follow-ups.
+22. **Dialogue is not a run of one-line replies.** Most replies run two or more sentences, with a reason, a pause, or a follow-up. A one-sentence reply is fine when it is the point (about one in five), but never more than two in a row.
 23. **Write a scene as dialogue whenever it is better served that way.** If the information, conflict, or feeling comes across more clearly through people talking than through narration, use dialogue.
 24. **A character knows only what they have seen, read, or been told.** No unexplained knowledge, and no reaction to something they couldn't have seen.
 25. **Every action has a purpose the character could state.** Every reaction ties to something actually said or done.
@@ -111,7 +111,7 @@ The style rules for how a chapter is built and how it sounds. This section was a
 
 ### The gears in detail
 - **Use the slow gear for** setup, entering a new place, examining a clue, interviewing a witness, and analyzing a problem.
-- **Slow gear texture.** Sentences are compound and descriptive, with rhythmic commas and sensory detail.
+- **Slow gear texture.** Sentences are plain and concrete. Use a few specific details of what the character sees, hears, or handles, and no long chains of commas. A scene may run on dialogue, with about half its paragraphs spoken, when the talking carries the information or the conflict.
 - **Slow gear focus** stays internal and environmental: the smell of the room, the physical laws of the world, the historical weight of the place, and the character's deliberate deductions.
 - **Use the fast gear for** the instant a choice is made, an alarm triggers, a weapon is drawn, a trap springs, or survival is threatened.
 - **Fast gear focus** turns external, onto second-by-second physical movement, in language that mimics a racing heartbeat.
@@ -231,7 +231,7 @@ The water reached his knees."
 | Area | Original | Revised |
 | --- | --- | --- |
 | Endings | One cliffhanger shape in every chapter | Four ending types, at most two physical events per batch, strongest hook last |
-| Slow Gear | 3 to 5 sentence paragraphs, 15 to 25 word sentences | Cap of 4 sentences, with occasional short emphasis sentences and varied paragraph length |
+| Slow Gear | 3 to 5 sentence paragraphs, 15 to 25 word sentences | 1 to 5 sentence paragraphs (usually 2 to 4), plain sentences of mostly 5 to 22 words, dialogue-driven scenes allowed |
 | Fast Gear | Strip all thoughts and feelings | Strip named thoughts and feelings, but keep one body detail |
 | Openings | Not specified | Concrete, question-raising first detail |
 | Batches | Chapters designed one at a time | Five chapters shaped as one rising unit |

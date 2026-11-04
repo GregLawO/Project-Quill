@@ -166,7 +166,7 @@ Tom turns a tool over. Ashby tilts his head and touches the stethoscope. Manswel
 - [ ] Word count in range
 
 **Style**
-- [ ] Slow Gear paragraphs are 3 to 4 sentences, never more than 4, sentences mostly 15 to 25 words
+- [ ] Slow Gear paragraphs are 1 to 5 sentences (usually 2 to 4), sentences plain and mostly 5 to 22 words, dialogue never a run of one-line replies
 - [ ] Fast Gear paragraphs are one or two lines, sentences of 2 to 7 words, sparing adjectives and adverbs
 - [ ] Gear shift: trigger, paragraph break, thought purge, one body detail that stays
 - [ ] Ending type matches the outline
