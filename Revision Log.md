@@ -466,3 +466,7 @@ Not updated: Story_Structure.md and the Legions file (flagged in Specific sectio
 - **A3.1 (Vance, 2062).** "The Tulsa theft" is replaced by "the forged state letter that closed Galveston", which matches the reason his profile gives for opening Brooks's file.
 - **Inferences made without asking:** that the plain variant of the Brooks chapter should lose its transfer-order sentence entirely and not be reworded; that the Level 3 guard and self-destruct sentences belong in the Summer 2053 ledger entry and not in A2.1; that "someone has opened it" is a plain reason for Kenji's weight list and states no new technology.
 - **Word counts.** A2.7 is about 871 words and A2.10 about 677, so both stay in range.
+
+## 5 November 2026: Drafting checklists
+
+- **Both checklists.** Added step 0A (work only on what is being written now [G54], no self-made notes [G55], no invented facts that later chapters must honor [G57]) and a note under the open-items section that rule 55 overrides it. The Project Version already carried these rules in other places, and the repo version did not.
