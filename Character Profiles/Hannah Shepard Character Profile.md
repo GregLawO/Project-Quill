@@ -20,7 +20,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 8. **Small want.** A straight answer from someone. On any given day, to get through it without discovering another missing record, person, or explanation.
 9. **Large want.** To raise a child who lives, and to be told the whole truth by the man she married. She would trade a great deal of the second for the first.
 10. **Fear.** Losing a child again and being used without knowing it. She will not risk the people under her command on a plan she has not been allowed to understand.
-11. **Wound.** The 2059 bomb at the Galveston clinic complex where she ran security. She was five months pregnant. She got the night staff out first and lost the child, and her brother Danny died outside the building in the same blast. Later she learns there is a second wound underneath the first: someone knew more than they told her.
+11. **Wound.** The 2059 bomb at the Galveston clinic complex where she ran security. She was five months pregnant. She got the night staff out first and lost the child. Later she learns there is a second wound underneath the first: someone knew more than they told her.
 12. **Pride.** Keeping people alive who are in her charge. When someone tells her she is wrong about a risk, she does not argue. She asks to see the numbers, checks them herself, and concedes plainly if she was mistaken. If she was not, she says so once and lets them check.
 
 ## Part C. How she sees the world
@@ -46,7 +46,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 ## Part E. Loyalties and limits
 
-22. **Who she protects.** In order: anyone under her care or command, her husband and her adoptive brother Danny, and her child. From 2154 her daughter Alexandra moves to the top of that list, ahead of everyone but those she is responsible for in the moment.
+22. **Who she protects.** In order: anyone under her care or command, her husband, and her child. From 2154 her daughter Alexandra moves to the top of that list, ahead of everyone but those she is responsible for in the moment.
 23. **Who she distrusts.** People who manage the truth for others' own good. Anyone certain they know what is best for everyone. And institutions that cannot show her where their authority comes from.
 24. **Who or what she owes.** Her husband, for the cure that gave her father years. Her father, for teaching her to check the weld. The child lost in 2059. The night staff, whose names she still knows.
 25. **Loyalty under pressure.** Her husband against her own sense of what is right. She stays, serves, and says openly that she disagrees. In 2125 she loses the argument against empire and takes command anyway, because the people under her will be at risk whether she serves or not. The cost is that she cannot fully trust him again.
@@ -75,10 +75,3 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 - Dialogue never runs in single sentence replies. She answers in several sentences, with reasons, pauses, and follow-ups, as people do.
 - No unexplained knowledge of what she has not been told. She works from what is in front of her and from what is missing.
-
-## Updates (author rulings, 3 November 2026)
-
-- **The two guards.** From 2056 she sees two quiet men who follow Kenji everywhere and never sit down. She takes them for his security. They are two Level 5 droids, built to look and move like men. Kenji tells her what they are in 2060 (A2.12).
-- **Dates.** Her early chapters are A2.8 (2054 and 2056), A2.10 (autumn 2057), and A2.11 (the proposal and wedding, December 2057 and September 2058). Her 2056 chapter does not name a rank (A1.1 has her on a single gold stripe in 2053).
-- **The 2056 shakedown** is a hospital chain's men, not Cerberus. She learns the name Cerberus from Kenji in 2060 (A2.12).
-- **Her firm** takes its first guard jobs in 2062. The Toulouse hangar scene was cut from Act I.

@@ -1,0 +1,218 @@
+# Act I Outline: The Gift
+
+Plans A2 and A3, the chapters being written now. A1 is published and never rewritten. Chapters from A4 on are cast in Excerpt_Bank.md. Endings, batch lines, echoes, and wants are proposals (decision).
+
+## Chapter by chapter
+
+**Key.** Type: [I] investigative, [A] action, [H] hybrid. Ending (End): P physical event, Q quiet reversal, B held breath, W withheld answer, E emotional beat. Batch line: what a batch of five ends on emotionally. Echo: the earlier element a batch returns to. Wants: the small want and deadline given to each exposition narrator.
+
+### Movement 1: The Three Doors
+
+A1 (the body) is live and unchanged. Everything below it is open.
+
+**The A2 plan in plain terms (author ruling).**
+
+1. **The problem (2051).** Kenji sees that selling his inventions will make him powerful enemies, and even cost him his life. Before he sells anything, he builds a safety net.
+2. **The Level 2 Med-Pod (2051).** It heals a dying person fully. It also rejuvenates, and it slows aging for a lifetime. Only Level 2 does any of this. A cruder version, the Primitive grade, cures disease and injury.
+3. **The protectors (summer 2051 to 2055).** He finds veterans and experts willing to serve him for seven years, renewable by choice, in exchange for being restored to health or to their prime. Before they agree, he tells them about a loyalty clause that keeps them from telling outsiders what they do. The order is an author ruling: Vance (summer 2051), then Ashby, then the lawyers (October 2051), then a larger team, then Byron (July 2052). Whitcombe joins in February 2053. The Med-Pod does not exist before 2051, so recruitment starts then (decision).
+4. **The fronts (summer 2053).** Three clinics, through a charity foundation called Tallis Bay: **Galveston, Marseille, and Singapore** (decision). The public floors run the Primitive pods that Oyama makes, and patients are asked to keep the true process secret. The hidden wings run Level 2, for recruits and later for paying elites. **The fronts also offer cloned organs for sale, pre-approved through the network's political faction.** That is why their paperwork is real.
+5. **The elites (from spring 2055).** When the protectors are ready, he sells health and youth to people who will pay a great deal for them, through Whitcombe's factions, and he uses the sales to buy favor and influence. Politicians and public figures get health and a long life but not youth, because an old politician who suddenly looks thirty would draw questions. Rich private clients who can step out of public life get full rejuvenation (decision). Every buyer is made to understand, without a word said, that he holds the bigger stick: his men, his guards, and the loss of the treatment if they double-cross him.
+6. **The Shepards (2053).** One of his men, Danny Shepard, asks him to save Danny's dying adoptive father, Tom. This is how Kenji meets the Shepards.
+7. **Time passes (2053 to 2058).** The organization grows. He gets to know Hannah, they marry in September 2058, and he spreads his inventions through Oyama and through legal and shell companies.
+8. **Good protection is not complete safety.** His people are human and make mistakes. A dedicated enemy who is willing to take losses can still reach him and the people he loves.
+
+**The secret war (2055 to 2061).** Cerberus is called by its name or "they," never "it."
+
+| When | What happens | Where the reader sees it |
+| --- | --- | --- |
+| Summer 2051 | Vance is treated. The network begins. | A2.1, A2.4, A2.7 |
+| Autumn 2051 | Vance brings in Ashby. | A2.2, A2.4 |
+| Oct 2051 | The lawyers are recruited, with Vance and Ashby standing guard. Tallis Bay is set up. | A2.2 |
+| Winter and spring 2052 | Vance expands the team twice. | A2.3, A2.4 |
+| Jul 2052 | Byron Pyrrus is treated. Oyama becomes the factory. | A2.3 |
+| Autumn 2052 | Danny joins. The first security droid squad arrives from Oyama. | A2.4, A2.7 |
+| Feb 2053 | Whitcombe joins and builds the political faction. | A2.5 |
+| Summer 2053 | Three clinics open. Tom is treated. | A2.6, A2.7, A1.1 |
+| Apr 2055 | First elite sales, through Whitcombe's factions. | A2.7 |
+| Nov 2055 | A physician asks questions. | A2.7 |
+| Jun 2056 | A hospital chain's men try to shake down Galveston. Ordinary greed, not Cerberus. | A2.8 |
+| Jun 2057 | Five Level 2 pods stolen. | A2.7, A2.10 |
+| Jan 2058 | Oyama's Primitive pods go on sale. The first offer to buy Oyama's patents. | A2.7, A2.10 |
+| Apr 2058 | The second offer, with a forged audit. | A2.7 |
+| Oct 2058 | The third offer. The other side's lawyer threatens Marchetti with "Cerberus." The name is learned. | A2.7 |
+| Nov 2058 | Three men raid Galveston. They say nothing. | A2.7 |
+| Spring 2059 | The bomb. Danny dies. | A1.4, A2.7, A2.12 |
+| Oct 2061 | A forged letter closes Galveston. Whitcombe's faction saves the rest and reopens it. Vance looks for someone who reads paper. | A2.13 |
+
+**How the realization comes in three waves.**
+
+- **Wave 1 (October 2058 to 2064).** A short list of names that sound familiar. It starts with the name Cerberus, which is also an old myth, so a vague feeling is natural. Later the list holds company names: Hahne-Kedar, Ariake, and Sirta in 2063, and nine names by 2064. He cannot say where he heard them. His hands know things before his head does.
+- **Wave 2 (B1.2, 2065).** Manswell announces the Alpha Centauri expedition. The names fall into place: he knows which story they come from and what that story's enemy is. He believes it but cannot prove it.
+- **Wave 3 (B3.5 and B3.6, 2065).** His droids find the Mars cavern. The dead Protheans leave no doubt.
+
+**A2. The Centuries That Became Days** (2051 to 2066, 20 micro-chapters in four batches)
+
+Dates run in order inside each chapter, except A2.7 (Vance's ledger, 2051 to 2059) and A2.11 (opens December 2057).
+
+*A2a: the safety net (2051 to early 2053). Every chapter builds the foundation and introduces a new main-cast member.*
+
+1. **A2.1 Kenji (31), 2051 [I] · B. The Med-Pod, the problem, and the plan.** About 1,000 words, first person. He builds no Primitive pod.
+   - **Opening detail.** The bench in the rented tire shop, with a finished Level 2 Med-Pod on it and the word at the head of an old diagram that he could not read a year ago.
+   - **The memory (Slow Gear, short).** He is already building the pod. While he works he remembers the day he woke in a body that was not his, in a flat that was, with his hands finishing a diagram he did not remember starting. He suspected what had happened and told no one. The word he could not read then is the pod's name now. No Reaper thought and no thought that this was once a story. His flinch at being wanted shows once.
+   - **The test.** A dog with a broken hip walks out of the pod. He asks what the machine is for. It rebuilds a body, so whoever owns it becomes a target for every government, hospital chain, and criminal who hears of it. He sees that every sale from now on will make him an enemy, and that he would lose the first fight alone.
+   - **The plan.** He writes it on a sheet and pins it above the bench. Step one: protectors, starting with a man who knows how to guard. Step two: a factory and buyers with enough power to protect him in public. Step three: everyone else. On the same sheet he starts the tier system in two columns. Primitive is what may leave the room. Level 2 is what stays behind. The Primitive grade must always be something the world could have invented unaided, or someone will ask who built it. He will not build the Primitive grade himself. He needs a factory owner for that, and nothing is sold yet.
+   - **The terms.** Seven years of work, renewable only if the person chooses it, with follow-up treatment for as long as they serve.
+   - **Hook (B).** Summer 2051. He stands outside the hospice room of a dying Marine named Dominic Vance, who he has decided to ask to build and train his guards, and opens the door. *Tech: Med-Pod L2.*
+
+2. **A2.2 Helen Marchetti (52), 2051 [I] · Q. The lawyers and Tallis Bay.** About 800 words. (New main cast, placeholder name. Habit of attention: who signs, and who can be sued.)
+   - **Scene 1, October 2051, a Houston hospital room (Slow Gear).** She has failing kidneys, and her partner Samuel Ortega has heart disease. A man she has never met offers both of them a cure for seven years of work. Two men stand at the door: a gray-haired man who looks like a Marine, and a younger one with a radio case. They are his security detail. He tells them what the upload does before they sign. She asks who owns the design. He gives a name he invented that morning, "Tallis Bay," and she writes it down without looking up.
+   - **Scene 2, December 2051, the firm after hours (Slow Gear).** Both are well. Want: the foundation filed before the quarter closes, so the first gift can be accepted tax-free. She drafts the seven-year contract and the clause that keeps follow-up treatment going for as long as someone serves.
+   - **Hook (Q).** She asks what happens to everyone's term if he dies. He names her the foundation's trustee, which means she can stop him. She understands that she now holds his safety net. *Tech: Med-Pod L2.*
+
+3. **A2.3 Byron Pyrrus (68), July 2052 [I] · Q. The producer.** About 800 words. (New main cast, placeholder age. Habit of attention: what a line can build by Friday, and what it cannot.)
+   - **Scene (Slow Gear), a private hospital room.** Byron owns and runs Oyama Industries, a manufacturing group with nine thousand workers, and he is dying of lung cancer. Vance and four fighters, whom Vance recruited this spring, wait in the corridor. Kenji offers treatment. In return Oyama will build what Kenji designs, under no name but Tallis Bay, for seven years. Byron stays chairman in public. Byron asks who owns the designs and what happens to his workers if Kenji disappears. Kenji says the designs belong to a foundation that cannot disappear, and that the contracts keep his workers paid.
+   - **The terms.** Oyama builds the Primitive Med-Pods, Level 1 robots, and Level 1 powered-suit frames first, and later Level 2 and 3 robots. Kenji also hands Byron the security-droid design for Oyama's internal use, with a rule: not for sale. Kenji will supply the data crystals and the Dumb AI himself. Byron asks why. Kenji says the first buyer who learns whose design it is will try to take it.
+   - Want: Byron's signature before the board meets on Monday.
+   - **Hook (Q).** Byron signs. He says the droid drawings will go in his own safe, and not in the plant's. *Tech: Med-Pod L1 (Oyama), Robotics L1, MIPS L1, Robotics L2 (design).*
+
+4. **A2.4 Kenji (32), October 2052 [H] · Q. The protectors.** About 1,000 words, two dated scenes.
+   - **Scene 1, a rented warehouse east of Houston (Slow Gear).** Fifteen people are on seven-year terms: the two lawyers, Vance and seven fighters, three intelligence staff, and Ashby and one more communications engineer. The newest fighter is Danny Shepard, restored in September, a sapper who stands with his palm flat on a roof post. The fighters wear Level 1 frames from Oyama. Kenji cannot pay for more, and the Level 2 suit needs a mini-reactor he cannot afford. One squad of four Level 2 security droids, built by Oyama to his design and running his data crystals, stands by the wall. They are loud and they clank. Kenji asks what each machine is for.
+   - **Told in one passage.** The hospice. Vance, dying, had nothing to pay with but what was in his head. Kenji copied his memories, experience, and expertise out and gave him his lungs back. The droids' fighting routines come from that copy. When a droid pins a training dummy, Kenji recognizes the way Vance would do it.
+   - **Scene 2, a back bench.** Two frames lie half built. They will be his personal guards and will look like men. He is building them himself with money from Oyama, and they will take three years. Until they are done, Vance and Ashby walk with him.
+   - **Hook (Q).** He writes 2055 in his notebook. He will sell nothing to anyone until the platoon is full, the droid squads are in place, and every site has a guard. *Tech: MIPS L1, Robotics L2, L5 (in progress), Dumb AI L2, Data Crystal.*
+
+5. **A2.5 Eleanor Whitcombe (60), February 2053 [I] · Q. The political arm.** About 800 words. (New main cast, placeholder name and age. Habit of attention: she watches who looks at whom before they speak.)
+   - **Scene (Slow Gear), the Houston warehouse.** She is a senator who chairs the committee that licenses medical devices, and she is hiding a failing heart. Marchetti, an old colleague, brought the invitation. Kenji's intelligence team found her heart records. She sees how the people in the room look at Kenji and at each other. She joins on the same seven-year terms as every recruit.
+   - **The offer.** Health and a long life now. Youth later, "in ten years, when no one will ask." In return she leads the organization's political factions worldwide: introductions, her committee asking questions before anyone closes a clinic, and pre-approval for the cloned organs the fronts will sell. No one mentions a threat.
+   - Want: her answer before her committee votes on Thursday.
+   - **Hook (Q).** She says yes, and her first act is to ask for the list of cities where the clinics will open. Kenji says Galveston, Marseille, and Singapore. *Tech: Cloning L1, Med-Pod L2.*
+- Batch ends on: a man who wants to stay unknown learning how many people it takes to protect him.
+- Echo: the invented name of A2.2 and, later, the blank card of A1.1.
+
+*A2b: the fronts and the first sales (2053 to 2057), and Kenji and Hannah begin.*
+
+Tom, Ruth, Danny, Okonkwo, and the rigger appear in scenes and carry no POV. Placeholder names: Dr. Nadia Okonkwo (A2.9), Rafael "Rafa" Ibarra (A2.10).
+
+6. **A2.6 Kenji (33), summer 2053 [I] · E. The Shepards.** The same morning as A1.1, seen from his side. The three fronts open that summer.
+   - **The night before.** Danny comes to the monitor room. He has seen "T. Shepard, pancreas, advanced" on the Galveston referral list. He says Tom is his father. Tom took him in at eight, after his own father died when a gantry cable failed. Danny says he has never asked for anything. Kenji has a rule against treating the family of staff, because it ties a man's love to the work. He breaks it. He moves Tom from the public line to the hidden wing. Danny asks that his family not learn where he works, and Kenji says he cannot stop Danny from being asked, only from lying. Danny says the directive stops him from telling them anyway.
+   - **The morning.** Kenji watches the clinic floor on a monitor, with Hannah in the waiting room. She found the clinic by an address on a napkin from an old yard foreman, which is how Tom ended up on the public list. Kenji took the license off the wall because a license names an owner. He sees her notice the bare wall and every missing name tag. Danny stands behind him and watches his father walk out whole. Danny puts his flat palm on the wall, then leaves by the side door before Hannah can see him.
+   - He writes a blank card and slides it under the door at the moment Tom walks out (the end of A1.1). He wants one person outside the network to know that someone is behind this place, even if he cannot give his name.
+   - **Ten days later.** Tom comes back with Ruth to thank someone. Tom took the training upload but not the directive. Tom says Danny is his boy and asks if this has anything to do with him. Kenji says Danny works for a company he runs, and asks them not to tell Hannah. Ruth asks "who are you?" before anyone else ever does. His answer is true and tells her nothing. Tom says "son," and Kenji flinches.
+   - **Hook (E).** Tom asks to work at the clinic, and Kenji has no one to run the building. *Tech: Med-Pod L1 (public floors, from Oyama), Med-Pod L2 wing.*
+
+7. **A2.7 Gunnery Sergeant Dominic Vance (placeholder), 2051 to spring 2059 [I] · Q. The network grows and Cerberus appears.** About 1,200 words. (Locked recurring OC, main cast. Told as his own ledger of dated entries. Habit of attention: what can be defended and what cannot. He reads ground, cover, and sight lines, and counts nothing.)
+   - **Summer 2051.** He is treated, gives up his memories, and starts the network. His first act is to recruit Ashby, because someone must hold the radio.
+   - **Nov 2052.** His rule: someone must watch the road beyond the fence. Danny Shepard reads a building by where it carries its weight, so Vance posts him to Galveston as site engineer and guard lead for the hidden wing.
+   - **Summer 2053.** Three clinics open: Galveston, Marseille, and Singapore. The platoon grows to forty by autumn. Danny is moved to Houston in 2054, because Tom will be running the Galveston building and Danny cannot be seen by him.
+   - **Apr 2055.** Whitcombe's factions bring the first elite buyers. Nobody has to be shown a threat, because the guards are in the room. The two Level 5 guards are finished this spring, and Vance stops walking behind Kenji.
+   - **Nov 2055.** A client's physician asks a network nurse how the treatment works and offers money. The nurse reports it. The doctor leaves the country, and no one learns who his buyer was.
+   - **Jun 2057.** Five Level 2 pods are stolen from a truck moving between clinics. The transfer order was forged. Droids do not ride on public roads, so only human guards were with the load. Ashby finds that the alarm stayed silent when it should have rung. He blames himself. Kenji upgrades the security droids to Level 3 that autumn.
+   - **Jan 2058.** Oyama's Primitive pods go on public sale. A law firm acting for a buyer no one can name offers to buy Oyama's technology patents. Byron refuses and calls Kenji.
+   - **Apr 2058.** A second offer arrives, with a forged safety audit behind it. Byron refuses again.
+   - **Oct 2058.** A third offer. Marchetti sits across the table from the buyer's lawyer, who tells her that people who refuse a third time meet "Cerberus." She tells Vance the same night. This is the first time the network has a name for its enemy. Vance writes it in his green book.
+   - **Nov 2058.** Three men raid the Galveston wing at night. The droids stop them. The men, held in the cellar, say nothing at all, and Vance does not expect them to.
+   - **Spring 2059.** The Galveston bomb. Vance was in Duluth that night. A delivery van that should have come never arrived, and another van took its place. The gate guard had been bought. Danny Shepard was on overwatch in the car park, outside Hannah's guard roster. He saw the van riding low and went after it. He died near the blast. His seven-year term would have ended that autumn. After this the cadre is given its conditioning layer (decision).
+   - **Hook (Q).** He writes the next job on a new page: find out who leads Cerberus. He has a name and no face, and he does not know where to start. *Tech: Robotics L2 and L3 (human guards beside them), Robotics L5, Med-Pod L2 wing.*
+
+8. **A2.8 Hannah (23 and 25), Galveston, 2054 and 2056 [I] · P. The first answer, the first no, and the shakedown.** About 850 words.
+   - **Opening detail.** The man across the table finishes everything on his plate, including the parsley.
+   - **Scene 1, November 2054, her parents' kitchen (Slow Gear).** Sunday dinner. She is a Navy lieutenant home on leave. A fifth place is set and empty. Her parents say her brother Danny is working in Houston for a security contractor. She asks Kenji what he does when he is not at the clinic. He says, "I build things." She asks what things, and he says, "Tools, mostly." It is a true answer and a small one. He clears the plates and squares the stack. She leaves not liking him, but he has not lied to her.
+   - **Scene 2, March 2056, the clinic (Slow Gear).** She left the Navy this spring, and her father talked her into the security post. Three weeks in, she walks the building with Kenji and lists what is missing: the license, the name tags, the locked wing, two grey frames the size of a man in the back corridor (her father calls them "equipment"), a door crew better trained than a clinic would pay for, and the two quiet men who follow Kenji from room to room and never sit down. He says yes or no to each. She asks what the grey frames are, and he says, "I can't answer that." She asks who the two men are. He says, "They're my guards." She sees it is true and sees that he will say no more. She says, "Which of these can you explain?" He says, "None of them, to you, yet." She says, "Yet." He lets her retrain the door crew her way. That evening she writes the first line on her list: why he stands at the edge of every room.
+   - **Scene 3, a Tuesday in June 2056, the back corridor (Fast Gear).** Men with a letter from a hospital chain arrive with a tool bag. The chain has been losing patients to the charity floors, so these men are ordinary hired muscle. Her father is fixing a valve. Hannah steps between the men and the wing door and tells them to leave. At the far end Kenji stands with one hand on the door frame, doing nothing, and his two guards stand still beside him. She takes it for fear. A man takes a pipe from the bag.
+   - **Hook (P).** Her father's hand goes to his back pocket. The pipe comes up. Servos shriek behind her. A metal hand closes around the hand that holds the pipe, and a second metal hand catches the pipe. The men are on the floor and tied, and two Level 2 droids stand over them. Hannah never sees them move. Kenji's two guards have not moved at all, because nobody has come near Kenji.
+   - **Voice.** She notices missing people and missing answers. *Tech: Robotics L2 (droids), Robotics L5 (the two men, not yet named as machines), Med-Pod L2 (wing).*
+
+9. **A2.9 Kenji (37), Galveston, April 2057 [I] · Q. The kidney and the apology.** About 900 words, two scenes, first person.
+   - **Opening detail.** Hannah measures the lid of a cooler with her father's tape before she will sign for it. First person, Kenji.
+   - **Scene 1, an evening in April 2057, the Galveston front desk (Slow Gear).** Dr. Okonkwo, a transplant surgeon, sets down the cooler. Her patient needs a cloned kidney before midnight, when the registry gives his slot to someone else. Her waiting lists used to run to two pages, and the clinics have emptied them. Two men stand by the monitor-room door, and Hannah writes the cooler's length on the custody sheet and asks where the donor line is. He says, "There is no donor." She goes quiet and asks nothing more. He is relieved, and he dislikes that he is. Okonkwo reads the tag: the clinic's licensed name, a batch number, and a state approval stamp, with the maker's line blank. The stamp is real, because Whitcombe's faction pre-approved the clinics' cloned-organ license. Okonkwo does not ask. His small want is the sheet signed and the cooler out the door before midnight.
+   - **Scene 2, 12:40 a.m., the staff kitchen (Slow Gear).** The patient will live. Hannah puts a plate of cold eggs in front of him, and he finishes it. She says, "You finish everything." He says, "I didn't always have enough." (His one sentence of past life.) She asks about last summer. He says the grey frames are droids, that they are the clinic's guards, and that they moved the moment the pipe came up. (The two men are not explained yet.) He stood still because there was nothing for him to do. What he is sorry for is that he never told her, when she is the head of security. She asks where the droids came from, and he says, "I can't answer that." She says, "I thought you were afraid." He says, "I wasn't afraid of the men. I was watching to see that you were clear of them."
+   - **Hook (Q).** He had thought she took the job for her father's sake. She tells him she took it to find out what he was hiding, and that she is staying because he finally told her something true about the building. Then she asks if there is more coffee. *Tech: Cloning L1, Med-Pod L1 and L2, Robotics L2.*
+
+10. **A2.10 Hannah (26), Galveston port and a restaurant, autumn 2057 [I] · E. The weight and the first dinner.** About 900 words.
+    - **Opening detail.** The weight line on the manifest is blank, and the rest of the page is in Kenji's square capitals.
+    - **Scene 1, the quay, morning (Slow Gear).** The five pods stolen in June went out on a transfer order with every box filled in except the weight. Since then Hannah signs for every pod that moves, and she checks the weight herself. She is at the port to get the first crate of Oyama's Primitive pods off the quay for the distributor. The pods go on public sale in January, under Oyama's name. Rafa Ibarra, a rigger, wears an Oyama Level 1 exoskeleton and drives an anti-gravity sled, and an Oyama robot arm ties down loads beside him. They talk in Spanish. He says the arm does in forty minutes what his crew of eight did in a day, and the crew is down to three. The sled lifts two tons, but only for twenty minutes before the battery is flat. He needs her signature on his tally before the shift whistle. Kenji phones and asks what she needs. She says, "A weight." He says, "Ask me tonight."
+    - **Scene 2, that evening, the clinic roof (Slow Gear).** He gives her the number and lets her write it on the manifest in her own hand. It is the first time she has been allowed to fix his paper. He says, "Whoever took the pods filled in everything but the weight. Check it every time." She asks: "Do you want me to stop asking? I will, if you say so." He says, "No. When you stop asking, I won't know what you think." She says, "I think you are hiding something large, and not for money." He says, "No, not for money." She says, "Then I can work with that. Have dinner with me, somewhere that isn't my mother's table."
+    - **Scene 3, Thursday, a diner on Seawall Boulevard (Slow Gear).** He asks her a question about herself, the first one he has ever asked: was it hard to leave the Navy? She talks for forty minutes. At her car he repeats back the name of her first ship and her old commanding officer. Nobody ever remembers those. At the corner table two men in plain jackets have had coffee in front of them for forty minutes and have not touched it. She takes them for his security.
+    - **Hook (E).** She kisses him once, briefly. He stands there with his hands at his sides and says, "What do you need?" She laughs so hard she has to lean on the car, and says, "That. Again, Thursday."
+    - **Voice.** She notices one blank number. *Tech: Robotics L1, MIPS L1, Anti-Gravity L1, Med-Pod L1.*
+- Batch ends on: a man who wanted a quiet life learning how much work it takes to protect one, and a woman who has decided to keep asking.
+- Echo: the blank line. The bare wall (2054), the blank weight (2057), and the maker's line on the kidney tag (2057). The nameless card of A1.1 and A2.6 also returns as the tag with no maker (A2.9).
+
+*A2c: the marriage, the bomb's cost, Brooks, and the first warp flight (2057 to 2063)*
+
+11. **A2.11 Hannah (26 and 27), Galveston, December 2057 and September 2058 [I] · W. The ring and the wedding.** About 900 words.
+    - **Opening detail.** The ring has no stone, and inside the band her name is cut in square capitals so small that she needs the clinic's magnifier to read it.
+    - **Scene 1, December 2057, the workroom after hours (Slow Gear).** He made the ring on his own lathe. He asks her to marry him, and before she can answer he says what he cannot give her. He has no family. He cannot tell her where he is from. There are rooms in his life she will not be shown for a long time, and some perhaps never. He says, "I will never say a false thing to you. That I can promise." She asks, "Is that the best you have?" He says, "It's the part I'm sure of." She asks one question: has he loved anyone before? He says, "No. I don't think anyone got close enough." She asks for a night. At dawn she is at the workshop door. She says, "Yes. And I'm going to keep asking." He says, "I'd be sorry if you stopped."
+    - **Scene 2, September 2058, a hall on the seawall (Slow Gear).** His side of the room is empty. In the minute before the music she asks, "Is there anyone you wish were here?" He says, "Your parents. They are." Then her brother Danny, who came in on leave for the day and sat on the bride's side, gets up and crosses the aisle to sit alone on the groom's side. No one asked him to. Two men in dark suits stand against the wall on the groom's side and do not sit, eat, or speak. She takes them for his security. A man in a gray coat stands at the back door like a Marine and watches the room instead of the bride. Her father walks her in with his wrench in his back pocket. At the altar Kenji says "Dad" to Tom for the first time, and Tom's hand stops on his cap. Ruth straightens Kenji's collar, which does not need it, and asks who looks after him. He offers to find her a waiter. Ruth sees he has dodged, lets him, and does not ask again.
+    - **Hook (W).** Ruth raises her glass to the groom's side, where only Danny sits. Hannah has a question ready, does not ask it, and raises hers. At the back door the man in the gray coat raises his.
+    - **Voice.** She notices empty seats. *Tech: Robotics L5 (the two guards, unrecognized).*
+
+12. **A2.12 Kenji (40), a Gulf coast plant, spring 2060 [I] · B. The gate.** About 900 words.
+    - **Opening detail.** First person. A thermos stands on the gatehouse ledge, and the guard has not touched it. The lid says EAT in block capitals.
+    - **Scene 1, 6 a.m., the plant gate (Slow Gear).** It is a year after the bomb. Danny died that night, outside the building, and Kenji has been sleeping at the plant more nights than not. They talk about errands and not about the child or about Danny. She has come to the gate on purpose. She says she is leaving the clinic security job in June to start her own firm, and she wants him to hear it from her. He asks what she needs. She says, "You to stop deciding what I can bear." He says, "I have been deciding it since the bomb." She asks, "Was it someone who wanted what you make?" He answers fully: "Yes, I think so. A group that calls itself Cerberus. They stole five of our machines in 2057. They tried three times to buy Oyama's patents in 2058, and the last time their lawyer said their name. They sent the men you saw stopped. I can't prove they did the bomb. I don't know who runs them." He tells her the rest as well. The two men who walk behind him are machines. She says she has nodded to one in the corridor for three years. Danny worked for him from 2052. Since 2056 Danny watched her back from the car park, because Kenji asked him to. Danny saw the van riding low and went after it. She says, "That is the most you have ever told me." He says, "I know." She is angry about Danny, and she says so, and she does not leave. The name Cerberus sounds like something he has heard before, and he cannot say where. She says she wants to talk about the child someday. He says he cannot yet. She says, "Not yet is fine. Not never." He asks if she has eaten. She laughs and hands him the thermos, and he finishes it.
+    - **Scene 2, an hour later, the hall (Slow Gear).** The foundation is finished. Oyama's Level 3 security droids guard a hall where a fusion reactor core, a data-crystal bank, a powered exoskeleton frame, and a Gundarium plate are being built under Kenji's design. His two Level 5 guards stand at the door, finished five years ago. They have walked behind him every day, and Hannah took them for men until an hour ago. He looks at each machine and asks what it is for and what it will be used for next. The two-column sheet from A2.1 is on the wall with nine rows. The yard lease has a line for the security contractor, and he has left it blank. The only name he wants there is hers, and putting it there means showing her the hall. He hears her say "stop deciding what I can bear."
+    - **Hook (B).** His pen is over the line, and the chapter cuts before he signs.
+    - **Voice.** Kenji asks what a thing is for and what it will be used for next. *Tech: Tokamak, Data Crystal, Gundarium, MIPS L1, Dumb AI L2, Robotics L3 and L5.*
+
+13. **A2.13 Kenji (42), 2062 [I] · Q. Brooks.** About 800 words, first person.
+    - Vance's note on Brooks is on my desk. It lists four times Cerberus beat the network with paper: the forged transfer of 2057, the forged audit of 2058, the van switch of 2059, and the forged state letter of 2061. The 2061 letter closed the Galveston clinic and no other, because Whitcombe's political faction stopped the rest and forced Galveston to reopen within weeks. Kenji reads that as the problem: the faction can undo paper after it lands, and nobody sees it coming.
+    - The night of the bomb comes back as the blank file he opened and still keeps, and Danny's name is the first line in it. He answers A1.5's recruiter question from his side: why a woman who counts is what he needs. She reads ministry paper for a living, and she is dying.
+    - **Hook (Q).** He writes "approved," and Vance is sent to make the pitch. (The pitch is A1.5 from her side and A3.1 from his.)
+
+14. **A2.14 Ashby (33), 2063 [I] · Q.** (Author-built, locked.) He oversees the droid crews on the test range and listens to what machines do wrong. The new drive does nothing wrong, and that is what he cannot get used to. Want: the range log signed before the crews rotate. Hook: his instruments hold a perfect silence through the whole flight.
+
+15. **A2.15 Kenji (43), 2063 [I] · B.** The first unmanned hull flies a measured light year in a day, from the yard to a point past Neptune's orbit and back. He keeps the test as cheap and quiet as he can. Brooks's first report on Cerberus's known customers and cutouts is in his pile. Three company names on it sound familiar to him (Hahne-Kedar, Ariake, Sirta), and he cannot say where he heard them. He puts a mark by them and starts a list. This is the list of Wave 1. He writes the flight log in a plain hand and squares the pages. Hook (B): the hull returns, and his pen is over the line that would let a customer buy the same drive. The chapter cuts before he signs. *Tech: Primitive warp.*
+- Batch ends on: a decision to sell what he built to keep people dreaming.
+- Echo: the silence of A2.14 and the blank line of A2.2.
+
+*A2d: the world meets it (the five drafted chapters, 2063 to 2066)*
+
+16. **A2.16 Brooks (25), 2063 [I] · Q.** As drafted (the three forms with the blank line).
+17. **A2.17 Hannah (33), 2064 [A] · P.** As drafted (the checklist and the stutter at midpoint).
+18. **A2.18 Emil Varga, 2065 [I] · E.** As drafted (the Lisbon docks).
+19. **A2.19 Colm Farrady, 2065 [I] · Q.** As drafted (the eleven-month-old firm).
+20. **A2.20 Hannah (35), 2066 [A] · P.** As drafted (the Halyard).
+- Edits to the drafted five: (1) A2.17: add one line recalling the first unmanned frame on a gantry that Hannah's firm guarded in 2062, and keep the line that nobody could find the technician. The half-tone drop in her pre-flight note then needs a source in A2.17 itself. (2) A2.16 and A2.17: Brooks and Hannah's firm now know Cerberus by name. Read each for any line that treats the 2054 to 2061 incidents as unrelated, and fix it.
+- Batch ends on: a ship that vanished, and no card for it.
+- Echo: the blank line, which Colm and Brooks both stared at, answered in A2.2 by Kenji's invented name.
+
+**A3. Cheap Hands and Angry Ones** (2062 and 2066 to 2069, 10 micro-chapters in two batches, ordered by date)
+
+**No Kenji POV in A3.** A3 is dated 2066 to 2069, after the realization begins, apart from its first chapter. A Kenji chapter there would spoil B1.2.
+
+**Level 3 labor robots go public through shell companies from 2066 (decision).** They are what the strikers are angry about. The public does not know who owns them. The reader does.
+
+*A3a: the strike*
+
+1. **A3.1 Vance (placeholder), 2062 [I] · Q. Brooks's recruitment and her introduction to Kenji.**
+   - Marseille, July. The same scene as A1.5, from his side, and it must match every gesture in the published chapter. Gray coat in July. The visitor's chair turned a quarter turn so that he can watch the door. A pause of four seconds, rehearsed in the car and counted by her. The coat hides a sidearm. His habit of attention: what can be defended and what cannot. He reads the ward as ground: eleven steps to the corridor door, a window painted shut, a vent too narrow for a child. He knows she is counting the same exits, and he approves of it. He counts nothing himself.
+   - Slow Gear: his year of scouting (a few lines, tying to A2.7). He chose her from the ministry's own files. He read her paper on the Ankara tariff schedules until he found what it left out. Want: her signature on the transfer before the day matron makes rounds.
+   - The cure is not shown, because A1.5 shows its end. He waits in the corridor for three days. When the frosted doors open, he stands with his back to the glass, so that he can see her come. He asks the published question: what would she do with sixty more years?
+   - **Her answer, which A1.5 withheld.** She does not say what she wants. She asks who is giving the cure away, and what it costs the one who gives.
+   - **The introduction to Kenji.** A week later, in a rented office above a ship chandler in Marseille. Kenji sits with his back to the wall, because Vance taught him that seat. He squares the folder on the desk, and Brooks notices. She counts the exits and he waits until she has finished. She calls him "Mr. Himura." He asks what she needs, and she says a window that opens. He tells her there is one.
+   - He tells her plainly about the enemy. A group called Cerberus has stolen his machines, tried three times to buy his factory's patents, sent armed men to his clinic, and probably killed his wife's brother Danny and his unborn child. He cannot prove it, and he does not know who runs it. The first file she is handed is the 2059 bomb. He asks her to count what he has, and what is missing from it. A droid stands dark in the stairwell, which she notes and does not ask about.
+   - Hook (Q): after she leaves, Kenji tells Vance that she will run this one day. Vance understands that he has just hired the person who will have his seat, and that his work will become guarding the man she serves. He finds that he does not mind.
+   - Echo: the quarter-turned chair of A1.5.
+2. **A3.2 OC utility engineer, 2066 [I] · Q.** A coastal grid station switches over to a functional tokamak plant, and the fuel contracts lapse. Want: the switch-over inspection signed before the fuel tanker's berth contract expires. He notices dials and the weight of the breaker handle. Hook: the plant's owner line on the inspection form is blank, and the supervisor says it always is. *Tech: Tokamak (public), Data Crystal logs.*
+3. **A3.3 Marek Kowalczyk, 2067 [I] · P.** As drafted (the march).
+4. **A3.4 OC site operative, 2067 [I] · W.** Night before the march. A human operative walks the Eastgate fence with an L3 droid. Want: the fence log signed before the shift change. She finds the roof hatch on the warehouse across the road unlocked, reports it, and is told to leave it. Her supervisor says only that Brooks wants to see who comes. Hook: the droid's camera has a blind arc over that roof, and she did not know it until now. *Tech: Robotics L3, Dumb AI.*
+5. **A3.5 Hannah (36), 2067 [A] · P.** As drafted (the gate). Add: the L3 droids stand at the yard's inner fence, powered down by standing order, with thirty-one humans on the apron, so that "the robots hold nothing" becomes visible. This is also why the stone came from the roof.
+- Batch ends on: a stone from a roof that nobody was meant to be on.
+- Echo: the blank owner line (A3.2), and the quarter-turned chair of A3.1.
+
+*A3b: what the machines took*
+
+6. **A3.6 Brooks (30), 2068 [I] · Q.** As drafted (the cream slip). The slip's hand is the one she has seen once before, in a ward in Marseille. Add one plain fact: the man who threw the stone was a Cerberus hire, caught on the roof after the throw, too late. Her trap cost three injured people. She adds it to her private count.
+7. **A3.7 OC anti-gravity rigger, 2068 [I] · Q.** The district's last Gundarium Alpha span goes up on a public L1 anti-gravity sled, with a Level 3 labor-robot crew below. Want: the span set before the wind rises. He notices that the beam is lighter than a hand-made one and that the crew does not need him. Hook: the crew sets the span to a tolerance he cannot measure with his tools. *Tech: Anti-Gravity L1, Gundarium Alpha, Robotics L3 (labor robots, open).*
+8. **A3.8 Aurelio Benedetti, 2068 [I] · Q.** As drafted (the stair rail).
+9. **A3.9 Manswell (53), 2068 [I] · Q.** He reads money and ownership. The hulls for his expedition need yards, and the only seller of robot labor offers a price that no company can undercut, with no seller to meet. Want: a contract signed before his lender's call. Hook: the quoted price is lower than the robots' own cost of metal.
+10. **A3.10 Hannah (38), 2069 [I] · W.** As drafted (the blank owner plate).
+- Batch ends on: "I don't know. Not all of it."
+- Echo: the bare "Owner" line of the service plate, first met in A3.2's blank owner line.
+
+## Voice fixes for A2
+
+| Batch | Clash | Fix |
+| --- | --- | --- |
+| A2a | A2.2 Marchetti (who signs, who can be sued), A2.3 Byron (what a line can build by Friday), A2.4 Kenji (what each machine is for), and A2.5 Whitcombe (who looks at whom) are four different habits, but A2.4 and A2.7 Vance both read a site | Kenji reads what each machine is for. Vance reads where a man would stand to hold the room, with his body and no numbers. |
+| A2b | Hannah narrates A2.8 and A2.10, and both could lean on what is missing | A2.8 notices missing people and missing answers, A2.10 one blank number. A2.11 (A2c) notices empty seats. She counts nothing. |

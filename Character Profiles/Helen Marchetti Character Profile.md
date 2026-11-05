@@ -74,6 +74,6 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 ## Act I facts (author rulings, 3 November 2026)
 
 - **Recruited in October 2051** (A2.2, her POV) in a Houston hospital room, with Vance and Ashby standing at the door as Kenji's security. Samuel Ortega, her partner, is recruited with her (heart disease). She asks who owns the design, and Kenji gives her the name "Tallis Bay," which he invented that morning. In December 2051 she files the foundation and Kenji names her trustee.
-- **Service for life.** Like every recruit, she serves for life, a life given for a life (author ruling, 4 November 2026).
+- **Seven-year term.** Like every recruit, she serves seven years, renewable by choice.
 - **The third offer (October 2058).** Across the table from the other side's lawyer, in the third attempt to buy Oyama's patents, she is told that people who refuse a third time meet "Cerberus." She tells Vance the same night. That is how the network learns the name.
 - **Later.** She becomes one of the Imperium's top administrators (title open).

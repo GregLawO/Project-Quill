@@ -9,11 +9,11 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 3. **Region of origin.** **(decision)** He wakes in a small flat in the Houston–Galveston shipyard belt, in a body that is not his own. The district is working-class, with cranes, tankers, and cheap rent, and it puts him a short walk from Tom Shepard's yard. The past life he remembers is a crowded, poor district with a quiet apartment, where someone else's footsteps always passed his door.
 4. **Languages.** English, plainly spoken and without accent. A few Japanese words come out when he is exhausted, mostly numbers and "ah." **(decision)** He talks the way a patient, practical man does: a few sentences at a time, with a reason and often a follow-up question, never a bare one-line answer. He rarely uses comparisons, and the ones he uses come from workshops and tools.
 5. **Trade.** Best: builder of production systems (factories, the tools that build the tools, and the supply lines behind them). Second-best: clinical technician, since the Med-Pod knowledge is full expertise.
-6. **Money and standing.** In 2050 he has nothing but his hands. From 2055 the elites pay him for rejuvenation, and by 2065 he controls an empire through layered holdings. He owns almost nothing in his own name, only his tools. Almost everyone in his network owes him, but he feels that he owes them, not the other way round.
+6. **Money and standing.** In 2050 he has nothing but his hands. From 2053 the clinics pay, and by 2065 he controls an empire through layered holdings. He owns almost nothing in his own name, only his tools. Almost everyone in his network owes him, but he feels that he owes them, not the other way round.
 7. **Appearance.**
    - His hands are scrubbed pink, with short nails and chapped knuckles.
    - He wears plain dark workshop clothes with no logos, and a good jacket only when forced.
-   - He stands at the edge of rooms near a door, and he sits with his back to the wall, a habit the marine taught him in 2051. He looks at what is in your hands before he looks at your face.
+   - He stands at the edge of rooms near a door, and he sits with his back to the wall, a habit the marine taught him. He looks at what is in your hands before he looks at your face.
 
 ## Part B. What drives him
 
@@ -30,7 +30,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
     - He assumes care must be paid for, and that people serve from gratitude or conditioning, not choice.
     - He reads coincidence as hostility. He feels the universe working against him, though chance or human causes could explain what happens.
     - He underrates how much of Hannah's dissent is love.
-15. **View of the age.** He trusts the technology completely and the people who will use it very little. He built the technology and knows exactly what it is for. He admires the God-Emperor, a ruler from a story he once read, for saving mankind, and criticizes him for failing it. In 2051 he decides that only a weaker, public version of any technology may leave his workshop, so that no one can trace it back to him. He builds none of the public versions himself: Oyama Industries makes the Primitive Med-Pods after he recruits its owner, Byron Pyrrus, in 2052.
+15. **View of the age.** He trusts the technology completely and the people who will use it very little. He built the technology and knows exactly what it is for. He admires the God-Emperor, a ruler from a story he once read, for saving mankind, and criticizes him for failing it. In 2051 he decides that only a weaker, public version of any technology may leave his workshop, so that no one can trace it back to him.
 16. **Humor.** Rare, dry, and understated, usually aimed at himself or at a tool. "Tools do what you point them at. That's the whole problem with them." He never jokes about the dead.
 
 ## Part D. How he behaves
@@ -46,9 +46,9 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 ## Part E. Loyalties and limits
 
-22. **Who he protects.** In order: Hannah, the found family (the first fifteen servants and the Shepards), then humanity's survival. From 2154 Alexandra sits beside Hannah at the top.
+22. **Who he protects.** In order: Hannah, the found family (the first dozen servants and the Shepards), then humanity's survival. From 2154 Alexandra sits beside Hannah at the top.
 23. **Who he distrusts.** Anyone who hopes a single hero will save everyone, because he knows how that usually ends. Whoever made the lenders withdraw in 2065, who he suspects is working against him. Institutions. And his own knowledge, since he never learns where it came from.
-24. **Who or what he owes.** Tom, who calls him "son." Hannah, who stayed. The marine, who traded his memories for treatment and became the first member of his network in 2051. The child lost in 2059. Danny Shepard, who died on a post he gave him. From 2125, the ten innocents.
+24. **Who or what he owes.** Tom, who calls him "son." Hannah, who stayed. The marine, who traded his memories for treatment and became the first member of his network. The child lost in 2059. From 2125, the ten innocents.
 25. **Loyalty under pressure.** His secret plan against Hannah's wish for openness. In 2065 he asks her to move work farther from Sol and says "farther" twice. She does not ask why, and from then on she trusts him a little less. In 2125 he carries out the operation despite her arguments against empire, and ten innocent people die with it.
 26. **Line and price.** He will never put a directive in Hannah or the found family, and Hannah and Alexandra receive the full Primaris enhancement without the loyalty conditioning. He would only break this if he had proof that conditioning was the only way to stop the Reapers from taking control of them. **(decision)**
 27. **Secret.** He is a transmigrator who read Mass Effect fan novels, and he knows the Reapers are coming. No character ever learns the first, and only the inner circle learns the second, much later.
@@ -73,21 +73,6 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 ## Rules this profile follows
 
-- No Reaper thoughts, and no thought that his world is Mass Effect, before 2065. He may remember fiction from his past life, such as the film Elysium. Before 2065 he may also see a company name and feel he knows it without being able to place it (author ruling, the first of three waves of realization).
+- No Reaper thoughts and no past-fiction thoughts before 2065.
 
 * Dialogue never runs in single-sentence replies. Characters answer in several sentences, with reasons, hesitations, and follow-ups, as people do.
-
-## Updates (author rulings, 3 November 2026)
-
-- **First person.** Every Kenji chapter is written in the first person ("I"). His voice rules (short declaratives, workshop images, "What do you need?") apply to the narration.
-- **Recruitment order.** Vance first (summer 2051), then Ashby, then the lawyers Helen Marchetti and Samuel Ortega (October 2051) with Vance and Ashby standing guard, then a larger team, then Byron Pyrrus of Oyama Industries (July 2052). Danny joins in autumn 2052 and Senator Eleanor Whitcombe in February 2053.
-- **No Primitive pod of his own.** He builds the Level 2 Med-Pod and the tier sheet in 2051. Oyama builds the Primitive pods.
-- **Two guards.** He builds two Level 5 droids himself (2052 to 2055). They look and move like men and are with him at all times. He tells Hannah what they are in 2060.
-- **The name Cerberus** reaches him in October 2058 through Marchetti, from the other side's lawyer. From then he may feel the name is familiar without placing it (the first wave).
-
-## Updates (author rulings, 4 November 2026)
-
-- **He never doubts his technology.** He has full knowledge and expertise and knows a machine works before he builds it. He knows the Med-Pod is the one from the film Elysium, but he does not know how or why he knows how to build it. He finds that strange, and the strangeness never becomes doubt that a machine works.
-- **Waking and building (A2.1).** He wakes in March 2050 in a flat in Texas City, in a thirty-year-old body that is not his. He first builds an automated scrapper and leaves it in a junkyard to collect metal and parts, then a very crude Phased Disassembler Array that takes a long time to break scrap down into base elements, then the tools that make the tools. Last, he rents a bay in Delgado's tire shop and builds the Level 2 Med-Pod. Its first patient is Delgado's dog, Pancho.
-- **Service is for life.** Protectors give their lives to him in exchange for the ones he gives back, a life for a life. During treatment he adds a failsafe that guarantees their loyalty.
-- **Byron and Oyama.** He gets Oyama by treating Byron Pyrrus. Byron's death is staged, and he returns as Anthony Strauss to run Oyama for Kenji.

@@ -61,14 +61,14 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 
 ## 10. Kenji's POV rules
 
-- **No Reaper thoughts and no past-fiction thoughts before 2065 (moved from General).** Kenji does not think that the world is from a story he once read, and he does not think about the Reapers, until 2065.
+- **No Reaper thoughts, and no thought that his new world is Mass Effect, before 2065 (author ruling, 4 November 2026).** Kenji may think about any fiction he remembers from his past life, such as a film. Until 2065 he does not think that the world he is in comes from a story, and he does not think about the Reapers.
 - **No Kenji chapter is set in 2065 or later until B1.2 (moved from General).** B1.2 is where he realizes where he is. A later Kenji chapter would show his thoughts and give that away early.
 - **At most three sentences of past life per chapter (moved from General).** They come only through small habits, such as finishing every meal.
 - **Nobody, in a chapter or a document, says how Kenji knows what he knows (moved from General).** No character is ever told.
 - **From A2 on.** Kenji carries POV. A1 stays as published: unnamed, no POV.
 - **First person (author ruling, 3 November 2026).** Every Kenji chapter is written in the first person ("I"). The rules below about what he thinks, notices, and says apply to the narration. All other POVs stay in the third person. Because "I" is Kenji, no other narrator may use it.
 - **Count.** He carries 7 of A2's 20 (A2.1, A2.4, A2.6, A2.9, A2.12, A2.13, A2.15), none of A3's 10, and 1 of A4's 10. In every other chapter he carries at most 3 or 4 per 10. This meets the older cap of 7.
-- **Before 2065.** The knowledge arrives in his hands before his head. His unease is a cautious man's unease. He may suspect he has transmigrated (revealed at A2.1).
+- **Before 2065.** He has full knowledge of his technology from the start. He knows the Med-Pod is the one from the film Elysium, but he does not know how or why he knows how to build it. His unease is a cautious man's unease. He may suspect he has transmigrated (revealed at A2.1).
 - **From 2065.** He may name his dread once per chapter at most. His past-life habits include flinching at being wanted.
 - **Speech.** Short declaratives, few metaphors, and workshop and tool images when he does use one. He asks "What do you need?" more often than he gives orders. Dry humor is rare.
 - **Fate habit.** He never says "it can't get worse." He notes what arrives early or late and does not call it luck.
@@ -83,7 +83,7 @@ Vance's chapters carry a want too, though he is main cast and not an exposition 
 - He is the first recruit (summer 2051). He brings in Ashby in autumn 2051, and the two are Kenji's security detail when Kenji recruits the lawyers. He expands the team twice before Byron (July 2052). He stops walking behind Kenji when the two Level 5 guards are finished (2055).
 - **A3.1 must match every gesture of the published A1.5:** gray coat in July, the quarter-turned chair, the four-second pause, the hidden sidearm.
 - He reads ground and counts nothing, so he does not clash with Brooks.
-- He is not conditioned in his early years and stays by choice. He receives conditioning with the Primaris Process when he joins the guard (decision).
+- He is conditioned from the start of his service (author ruling, 5 November 2026). Only the Shepards are not conditioned.
 - Only Kenji and Vance know his memories became the droids' fighting style. No other character is told.
 
 ## 12. Secrecy and reveal discipline
@@ -166,7 +166,7 @@ Tom turns a tool over. Ashby tilts his head and touches the stethoscope. Manswel
 - [ ] Word count in range
 
 **Style**
-- [ ] Slow Gear paragraphs are 3 to 4 sentences, never more than 4, sentences mostly 15 to 25 words
+- [ ] Slow Gear paragraphs are 1 to 5 sentences (usually 2 to 4), sentences plain and mostly 5 to 22 words, dialogue never a run of one-line replies
 - [ ] Fast Gear paragraphs are one or two lines, sentences of 2 to 7 words, sparing adjectives and adverbs
 - [ ] Gear shift: trigger, paragraph break, thought purge, one body detail that stays
 - [ ] Ending type matches the outline
@@ -177,7 +177,7 @@ Tom turns a tool over. Ashby tilts his head and touches the stethoscope. Manswel
 **Canon**
 - [ ] Consistent with the outline, character profile, and these rules
 - [ ] Emotion carried as the style requires (head and noticing in the Slow Gear, body in the Fast Gear)
-- [ ] Kenji: no Reaper or past-fiction thoughts before 2065, at most three sentences of past life per chapter, no Kenji chapter set in 2065 or later before B1.2
+- [ ] Kenji: no Reaper thoughts and no thought that his world is Mass Effect before 2065, at most three sentences of past life per chapter, no Kenji chapter set in 2065 or later before B1.2
 - [ ] No in-universe document or character reveals how Kenji knows what he knows
 
 ## 18. Working from the Project

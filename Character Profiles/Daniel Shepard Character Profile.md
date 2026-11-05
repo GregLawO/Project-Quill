@@ -18,7 +18,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 ## Part B. What drives him
 
 8. **Small want.** To see his adoptive father walk out of the frosted doors, and then, each day, to have his post covered and the people near it safe.
-9. **Large want.** To be the brother Hannah thinks he is and not the man who left. He would not say either aloud. **(decision)**
+9. **Large want.** To finish his seven-year term in autumn 2059 and stay anyway, by choice, and to be the brother Hannah thinks he is and not the man who left. He would not say either aloud. **(decision)**
 10. **Fear.** Being absent when someone he is responsible for needs him. He will not leave a post uncovered unless someone in his family is in danger.
 11. **Wound.** In 2047 a collapsed building crushed his legs and killed two men under his charge. He lived, was discharged, and left Galveston in 2048 without telling anyone why. The injury taught him that structures fail and that people stand under them. The leaving taught him that silence is easier than explaining. **(decision)**
 12. **Pride.** Reading a structure: what is holding it up and what would bring it down. When someone says he is wrong about a load, he does not argue. He walks to it, puts his palm on it, and either says "Come look" or says "You're right" and fixes it.
@@ -48,10 +48,10 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 
 22. **Who he protects.** In order: Tom and Ruth, Hannah, and the post he is assigned to. After 2056 Hannah moves to the top.
 23. **Who he distrusts.** Inspectors and officials who sign off on a structure without touching it, and helpful strangers who turn up near Hannah.
-24. **Who or what he owes.** Tom and Ruth, who took him in. Kenji, for his legs, which he repays with a life of service. The two men he lost in 2047.
+24. **Who or what he owes.** Tom and Ruth, who took him in. Kenji, for his legs, which he repays with seven years. The two men he lost in 2047.
 25. **Loyalty under pressure.** Kenji's order of silence against his family's need to know. He chooses the order, and it costs him Hannah's trust when she asks him straight out where he works and he gives her an answer that says nothing. **(decision)**
 26. **Line and price.** He will never leave a post uncovered. The one thing that could make him break it is someone in his family in danger, and in 2059 it does.
-27. **Secret.** Since 2056, on Kenji's off-the-books order, he has watched over Hannah from outside her security roster, in the car park and on the road, without telling her.  **(decision)**
+27. **Secret.** Since 2056, on Kenji's off-the-books order, he has watched over Hannah from outside her security roster, in the car park and on the road, without telling her. He has also decided to stay after his term ends, and has told no one. **(decision)**
 
 ## Part F. How he changes
 
@@ -82,10 +82,4 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 - **How this fits the published A1 (decision).** In A1 Tom reaches the clinic by a napkin address from a foreman, so Danny does not bring him in. He sees "T. Shepard" on the hidden-wing referral list as a network liaison and asks Kenji to put his father in the wing, which is why Tom goes through the frosted doors.
 - **The gate guard changes.** I earlier suggested he was the guard whose stool is empty in A1. That no longer works, because the guard is on Hannah's own roster and she would name her brother. **(decision)** The empty stool belongs to a bought guard. Danny is on overwatch in the car park, outside her roster. He sees the delivery van riding low, goes after it, and dies near the blast. This also fits "All of them. All there."
 - **What Hannah knows (decision).** She knows he is alive, and believes he works for a security contractor in Houston. She does not link that to Kenji's organization until after the bomb.
-- **Files that would need a matching change if you approve.** Tom (the welder he lost is Danny's father), Ruth, Hannah (an older brother), Human Characters, the Excerpt Bank, the A2 chapters, and the timeline. (Done on 3 November 2026.)
-
-## Updates (author rulings, 3 November 2026)
-
-- **Joins in autumn 2052.** Vance recruits him after he is restored in September 2052. He is the newest of the fifteen in service for life when Kenji sees them in a rented warehouse in October 2052 (A2.4). He wears a Level 1 powered-suit frame like the other fighters.
-- **Where he appears.** A2.4 (the warehouse, his palm flat on a roof post), A2.6 (the night before and the morning of A1.1), A2.8 (his empty fifth chair at Sunday dinner), A2.11 (the wedding, where he crosses the aisle), and A2.7 (Vance's ledger, including his death). He has no POV.
-- **Hannah and Danny.** Hannah believes he works for a security contractor in Houston. She learns the truth in 2060 (A2.12).
+- **Files that would need a matching change if you approve.** Tom (the welder he lost is Danny's father), Ruth, Hannah (an older brother), Human Characters, the Excerpt Bank, A2.4, A2.5, A2.6, and the timeline.

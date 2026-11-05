@@ -76,8 +76,3 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 - Dialogue never runs in single-sentence replies. She answers in several sentences, warmly and completely.
 - She knows only what she has seen and been told. She took Level 2 treatment but refused the knowledge upload, so she has no extra knowledge and no conditioning.
 - She does not know who is behind the clinics, or why.
-
-## Updates (author rulings, 3 November 2026)
-
-- **Chapters.** She appears in A2.6 (she asks "who are you?"), A2.8 (the empty fifth chair), and A2.11 (the wedding). Her first Act I POV is A4.7. The wedding is in A2.11 (not A2.9) and is in September 2058.
-- **Danny.** She sets his place every Sunday and keeps from Hannah that he works for Kenji.

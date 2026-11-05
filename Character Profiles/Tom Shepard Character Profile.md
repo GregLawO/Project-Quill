@@ -20,7 +20,7 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 8. **Small want.** To get the building through the night: the pipe fixed, the generator running, the shift crew home safe.
 9. **Large want.** To be chief engineer of the first test ship and see it fly, and to see his daughter out of danger. He would not say the second aloud.
 10. **Fear.** His daughter being hurt, and being useless or kept away from the work. He will not run a building or a crew he has not checked himself.
-11. **Wound.** Two. As a young foreman he lost a welder on his crew when a gantry cable failed, and he has checked every cable twice since then. The welder was Ray Iglesias, and Tom and Ruth took in his orphaned son Danny. **(decision)** Then he was dying, and watching his wife wait. The first taught him that every shortcut is paid for by someone else. The second taught him that nobody owns tomorrow.
+11. **Wound.** Two. As a young foreman he lost a welder on his crew when a gantry cable failed, and he has checked every cable twice since then. **(decision)** Then he was dying, and watching his wife wait. The first taught him that every shortcut is paid for by someone else. The second taught him that nobody owns tomorrow.
 12. **Pride.** Understanding how a machine works from the inside and building it right. He can tell a bad weld by the sound, and he can read a drawing and see where it will fail. When someone says he is wrong about a job, he does not argue. He asks to see it, checks it with his own hands, and fixes it before he says a word.
 
 ## Part C. How he sees the world
@@ -41,12 +41,12 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
     - Lying or avoiding: "Oh, it's just the heat getting to me. I've been on my feet since four this morning. Let's go in and eat."
 18. **Body tell****s****.** He turns a tool over in his hands, a wrench or a screwdriver, without looking at it. When it is bad he grips the nearest tool and will not put it down, even to shake someone's hand.
 19. **Stress response.** He takes the physical job. He shuts the valve, moves the people, and carries the load. On the night of the 2059 bomb he wanted to stay behind to shut off the oxygen line, and his daughter ordered him out. He obeyed, and it is the only order of hers he never argued with. **(decision)**
-20. **Honesty.** 4 out of 5 (1 lies easily, 5 cannot lie). He almost never lies, and he is bad at it. He keeps things from Ruth by not saying them, and she knows it. Danny, whom he has not seen in years, asked Kenji to save him. He took the knowledge upload but not the conditioning, so he can speak freely, and he chooses to stay quiet about what he sees.
+20. **Honesty.** 4 out of 5 (1 lies easily, 5 cannot lie). He almost never lies, and he is bad at it. He keeps things from Ruth by not saying them, and she knows it. He took the knowledge upload but not the conditioning, so he can speak freely, and he chooses to stay quiet about what he sees.
 21. **Authority.** He respects people who know the work and has no patience for people who don't. With a crew he is gruff, fair, and the first one on the dangerous job. With those above him he says what he thinks, once, and then does the job. He asks Kenji straight out to make him chief engineer of the test ship, and argues for it with reasons: no one else will care about the engines as much as he does. He calls Kenji "son" in private, and means it.
 
 ## Part E. Loyalties and limits
 
-22. **Who he protects.** In order: Ruth, Hannah and Danny (his adopted son), Kenji, and the crew he foremans. He would put the crew above himself without being asked.
+22. **Who he protects.** In order: Ruth, Hannah, Kenji, and the crew he foremans. He would put the crew above himself without being asked.
 23. **Who he distrusts.** People who talk about work but never touch it. Men with sidearms who have never worked a bench. And helpful strangers who turn up in the same corridor three nights in a row.
 24. **Who or what he owes.** Kenji, for the cure and the second life. The welder he lost. His crews, for putting up with a foreman who checked everything twice.
 25. **Loyalty under pressure.** Kenji's silence against his daughter's need for the truth. He gave his word to Kenji, so he keeps what he knows from Hannah and tells Ruth only what he has to. The cost is that Hannah sometimes looks at him and sees a man who is holding something back.
@@ -76,9 +76,3 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 - Dialogue never runs in single-sentence replies. He answers in several sentences, starting with the thing in front of him.
 - He knows only what he has seen and been told. He suspects Kenji is behind the technology, but he does not know where it came from or why it exists.
 - He has the knowledge upload but not the conditioning. He is free to speak and disagree, and he stays by choice.
-
-## Updates (author rulings, 3 November 2026)
-
-- **POV.** His first Act I chapter is A4.6 (2067). The old A2.11 (Tom at the first assembly yard, 2061) was cut on 3 November 2026. He is still the foreman of the yard in the background, and the keel-section stutter is held for his A4.6.
-- **The shakedown (A2.8, June 2056).** He is fixing a valve under the pipe when a hospital chain's men come in. His hand goes to his back pocket for a wrench.
-- **Danny.** Tom took in Danny, the son of his lost welder Ray Iglesias, at eight. He knows from 2053 that Danny works for Kenji and keeps it from Hannah at Kenji's request.
