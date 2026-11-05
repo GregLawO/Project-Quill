@@ -62,7 +62,7 @@ Tom nodded slowly. Ruth had not moved. "Mr. Himura," she said, "who are you?"
 
 "Kenji Himura. I build things, mostly. I run this clinic because there wasn't anyone else I'd trust with it."
 
-She looked at me for a long moment. "I believe that," she said. "It doesn't tell me anything."
+She looked at me for a long moment. "I believe you," she said. "But you've told me what you do, not who you are."
 
 "No, ma'am."
 
