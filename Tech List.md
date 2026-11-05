@@ -59,11 +59,11 @@ He allows the following technologies to spread, up to the limits shown.
 | Level | Description |
 | --- | --- |
 | 1 (Primitive) | Cures disease and mends injury, and stops there. It never renews a body. The public clinic grade. |
-| 2 | Full technology. Rebuilds a body, rejuvenates, and extends longevity. Private, used in the hidden wings. Every treatment carries a silence directive (see below). |
+| 2 | Full technology. Rebuilds a body, rejuvenates, and extends longevity. Private, used in the hidden wings. Every treatment seals the patient's memory of it (see below). |
 | 3 and above | (open) |
 
 - **Only Level 2 Med-Pods and better can rejuvenate and extend longevity (author ruling).** The public clinics never offer it.
-- **Silence directive (decision, 5 November 2026).** Every Level 2 rejuvenation and longevity treatment includes a directive that stops the patient from divulging who, how, where, when, and why. It is narrower than the recruits' conditioning and does not make betrayal unthinkable. Kenji leaves it out of the found family's treatments. The public Primitive grade has no directive. (open: whether the Imperium's treatments carry it.)
+- **Memory seal (decision, 5 November 2026).** Every Level 2 rejuvenation and longevity treatment seals the patient's memory of who, how, where, when, and why, and leaves them remembering only one contact person. The patient keeps every other memory and still knows they were treated. Recruits, managers, and the found family keep their memories. The public Primitive grade seals nothing. (open: how it is done, and whether the Imperium's treatments carry it.)
 - (inference) Anyone who is rejuvenated or lives past a natural span was treated at Level 2 or better: network recruits, the found family, the elites who pay for it, Manswell, and later the Imperium's own people. How life extension reaches the wider population (Protagonist_and_Timeline.md, item 9) is open.
 - (inference) Primitive is the grade the world could have invented unaided, which is why it cures and does not renew (A2.1).
 - **Who builds it (author ruling, 3 November 2026).** Kenji builds only the Level 2 pod. He builds no Primitive pod. Oyama Industries builds the Primitive pods after Byron Pyrrus is recruited (July 2052) and sells them under its own name from January 2058.
