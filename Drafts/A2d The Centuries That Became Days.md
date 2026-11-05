@@ -18,7 +18,7 @@ Her office was a rented room above a ship chandler, with one window and a door t
 
 She had one small want that morning. She wanted the three forms matched to the three hulls before Kenji's call at noon. She had matched them. What she had not done was stop looking at the blank lines.
 
-The year before, a forged transfer order had taken five pods because one box was empty. A forged audit had nearly closed Oyama's plants. Cerberus had beaten the network with paper four times, and each time the weakness was something no one had thought to check. She did not like a blank that nobody had explained.
+A forged audit had nearly closed Oyama's plants. Cerberus had beaten the network with paper three times, and each time the weakness was something no one had thought to check. She did not like a blank that nobody had explained.
 
 The phone rang at noon.
 

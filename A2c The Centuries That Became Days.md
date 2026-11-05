@@ -74,7 +74,7 @@ I did not answer at once. "I have been deciding it since the bomb."
 
 "I know. Was it someone who wanted what you make?"
 
-"Yes, I think so." I had practiced this for a year, but it still came out in the wrong order. "A group that calls itself Cerberus. They stole five of our machines in 2057. They tried three times to buy Oyama's patents in 2058, and the last time their lawyer said their name. Three men came over the Galveston wall that November, and they were theirs. I can't prove they did the bomb. I don't know who runs them."
+"Yes, I think so." I had practiced this for a year, but it still came out in the wrong order. "A group that calls itself Cerberus. They tried three times to buy Oyama's patents in 2058, and the last time their lawyer said their name. Three men came over the Galveston wall that November, and they were theirs. I can't prove they did the bomb. I don't know who runs them."
 
 She waited. She had always waited for the rest.
 
@@ -128,11 +128,11 @@ I took the pen and held it over the line.
 
 Vance's note on Brooks was on my desk, and I had read it four times. It was one page in his square hand. It said she had read ministry paper for six years, and that her paper on the Ankara tariff schedules had found what the schedules left out. It said she was twenty-four and dying in Marseille.
 
-The second page was his list. It had four lines.
+The second page was his list. It had three lines.
 
-The forged transfer order of 2057, which took five pods. The forged safety audit of 2058. The van that replaced the Thursday van in 2059. The forged state letter of 2061, which closed the Galveston clinic.
+The forged safety audit of 2058. The van that replaced the Thursday van in 2059. The forged state letter of 2061, which closed the Galveston clinic.
 
-I read the last line again. The letter had closed Galveston and nothing else. Senator Whitcombe's faction had stopped the other closures, and within weeks it had forced Galveston to reopen. The faction could undo paper after it landed. But nobody had seen the letter coming, and nobody had seen any of the other three.
+I read the last line again. The letter had closed Galveston and nothing else. Senator Whitcombe's faction had stopped the other closures, and within weeks it had forced Galveston to reopen. The faction could undo paper after it landed. But nobody had seen the letter coming, and nobody had seen either of the other two.
 
 Vance guarded doors. I had built a network around bodies and walls, and each time the enemy had walked in through paper. I needed someone who read paper the way Vance read ground.
 

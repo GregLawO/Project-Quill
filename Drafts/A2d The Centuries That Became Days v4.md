@@ -18,7 +18,7 @@ Her office was a rented room above a ship chandler, with one window and a door t
 
 Her small task that morning had been to match the forms to the three hulls before Kenji's call at noon. She had done it. What she had not done was stop looking at the blanks. Her thumb walked across her fingertips, one, two, three, four, and began again.
 
-Cerberus had beaten the network with paper four times: the 2057 transfer order, the 2058 audit, the 2059 van, the 2061 state letter. Each time the weakness had been a box no one thought to check. She did not like an empty box that nobody had explained.
+Cerberus had beaten the network with paper three times: the 2058 audit, the 2059 van, the 2061 state letter. Each time the weakness had been a box no one thought to check. She did not like an empty box that nobody had explained.
 
 The phone rang at noon.
 

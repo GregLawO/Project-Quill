@@ -94,17 +94,13 @@ When Vance woke from the pod, he could breathe to the bottom of his chest. His f
 
 **November 2052.** His rule was that someone must always watch the road beyond the fence. A wall only helps if you see what is coming up to it. A recruit named Danny Shepard read a building by where it carried its weight, so Vance posted him to Galveston as site engineer and guard lead for the hidden wing. Vance liked him at once. He never had to be told twice to walk a floor before standing on it.
 
-**Summer 2053.** Three clinics opened: Galveston first, then Marseille, then Singapore. The platoon was full by autumn. In 2054 Vance moved Danny to Houston, because Tom Shepard ran the Galveston building now and Danny could not be seen by him.
+**Summer 2053.** Three clinics opened: Galveston first, then Marseille, then Singapore. Kenji put Level 3 droids on every pod in the hidden wings, day and night, and ordered that no pod move without his knowing. He told Vance that a pod taken by force would destroy its own core. The platoon was full by autumn. In 2054 Vance moved Danny to Houston, because Tom Shepard ran the Galveston building now and Danny could not be seen by him.
 
 **April 2055.** The first rich buyers came through the senator's friends and entered quietly by the back door. Nobody had to be shown a threat. The guards stood in the room, and the buyers understood what that meant.
 
 That same spring, the two machines Kenji had built himself were finished. They looked and moved like men, and they did not tire. Vance stopped walking behind Kenji. For a month he felt the empty space behind him.
 
 **November 2055.** A client's doctor asked a network nurse how the treatment worked and offered her money to tell him. She reported it that day. The doctor left the country within the week, and no one learned who his buyer was. Vance wrote it down and marked it as the first time anyone outside had asked.
-
-**June 2057.** Five Level 2 pods vanished from a truck on the road between two clinics. The transfer order had been forged. Droids do not ride on public roads, so only human guards were with the load.
-
-Ashby told him afterward that the alarm should have sounded and had not. He said it flatly, writing it in the log, and Vance saw that he blamed himself. That autumn Kenji upgraded every security droid to Level 3.
 
 **January 2058.** Oyama's pods went on sale to the public under Oyama's own name. A law firm acting for a buyer no one could name offered to buy Oyama's patents, all of them. Anthony Strauss, who ran Oyama and had once been Byron Pyrrus, said no and telephoned Kenji the same hour. Vance read the offer twice. It came from a law office he could not search.
 
@@ -272,7 +268,7 @@ I got up and found the pot.
 
 ### *Galveston, autumn 2057*
 
-The weight line on the manifest was blank, and the rest of the page was in Kenji's square capitals. Hannah had been reading blank lines on his paper for two years. This one had stopped being strange in June, when five Level 2 pods left a loading dock on a transfer order with every box filled in but the weight. Kenji's own orders had left that line empty ever since. Whoever signed had to weigh the crate and write the number in.
+The weight line on the manifest was blank, and the rest of the page was in Kenji's square capitals. Hannah had been reading blank lines on his paper for two years. This one she had stopped finding strange. Kenji's orders left it empty on every pod manifest, and whoever signed had to weigh the crate and write the number in.
 
 The crate on the quay was the first load of Oyama's Primitive pods for the distributor. Sale to the public was set for January. Rafa Ibarra, the rigger, stood beside it in his company's exoskeleton, a steel frame that took the weight of a man and whatever he carried. Beyond him an Oyama robot arm, run from a panel by a man in a booth, tied down the next load.
 
@@ -294,7 +290,7 @@ She weighed the crate on the dock scale and wrote the number in the box. She did
 
 **That evening.** He was on the clinic roof, where he went when he wanted to be out of sight and in the open at once. He had the number written on a card and handed it to her without being asked. She compared it with her own, and they matched. He gave her a pen and let her write the figure into the box herself. It was the first time he had let her correct his paper.
 
-"Whoever took the pods in June filled in everything but the weight," he said. "They didn't know it. Nobody outside this building does. Check it every time."
+"I keep the weight of every pod on my own list," he said. "If a crate comes in different, someone has opened it. Check it every time."
 
 "I will." She capped the pen. "I want to ask you something. Do you want me to stop asking you things? I will, if you say so."
 
