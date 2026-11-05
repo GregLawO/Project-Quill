@@ -86,6 +86,7 @@ The process used to draft a micro-chapter, with the pre-draft checks and draft c
 - [ ] What the reader knows is kept separate from what the characters know [G33]
 - [ ] A secret stays secret: no character learns it by accident, and no in-universe document states it [G34, G36]
 - [ ] Reaper secrecy holds: only Kenji, Hannah, Brooks, and Alexandra (from her twenty-first birthday) know, and no one else refers to an unnamed enemy the drills are for [S12]
+- [ ] No Level 2 patient divulges who, how, where, when, or why, in speech, writing, or gesture, and the found family are the only exception [S12]
 - [ ] The incidents (the physician's offer in 2055, the theft of five Level 2 pods in 2057, the three offers for Oyama's patents in 2058, the raid, the bomb, and the forged letter that closes Galveston in 2061) are shown as the outline sets them. The 2056 shakedown is a hospital chain and not Cerberus. No chapter shows the network knowing who leads the organization before the outline says so [S12]
 - [ ] Cerberus is named only through the other side's lawyer at the third offer for Oyama's patents (October 2058), never from money trails, documents, or a captured raider, and the story writes "Cerberus" or "they," never "it" [S12]
 - [ ] In-universe documents never contain the conspiracy, the true cause of the 2065 withdrawals, Kenji's role in the Charon flare, or the truth of the 2125 killing, and Kenji's name appears only for minor matters [S12]
