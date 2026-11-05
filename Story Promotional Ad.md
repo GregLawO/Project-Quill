@@ -30,7 +30,7 @@ Spanning two decades, *Those Who Walked Out Whole* and *The Centuries That Becam
 **A:** Hannah is a former Navy officer and clinic security chief defined by her ruthless eye for detail. Unlike others who accept Kenji's miracles at face value, Hannah makes it her mission to unravel his secrets. Her years-long game of psychological chess with Kenji evolves into one of the story's most compelling relationships—a marriage built on deep love, mutual respect, and dangerous hidden truths.
 
 #### **Q: What is "Cerberus"?**
-**A:** Cerberus is the shadowy, highly funded adversary operating in the background. While Kenji’s network is nearly invincible on the ground, Cerberus attacks through bureaucratic warfare—forged government audits, stolen pod shipments, corporate buyouts, and covert sabotage. They are the constant, unseen threat driving the story's high-stakes intelligence game.
+**A:** Cerberus is the shadowy, highly funded adversary operating in the background. While Kenji’s network is nearly invincible on the ground, Cerberus attacks through bureaucratic warfare—forged government audits, attempted corporate buyouts, and covert sabotage. They are the constant, unseen threat driving the story's high-stakes intelligence game.
 
 #### **Q: How fast does the technology evolve?**
 **A:** The story spans from 2050 to the mid-2060s. It traces an extraordinary compounding leap from a single scrap-built medical bay in Texas to automated disassembler arrays, military security droids, powered exoskeletons, and ultimately humanity's first Faster-Than-Light (FTL) engines capable of crossing light-years in days.

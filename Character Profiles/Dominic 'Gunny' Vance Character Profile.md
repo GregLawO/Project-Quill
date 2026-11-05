@@ -84,5 +84,5 @@ Anything I invented to fill a gap is marked **(decision)** and is yours to overr
 - **First recruit.** Kenji recruits him first, in summer 2051, in the hospice. He starts the network and brings in Teodor Ashby, a radio technician from his old squad, in autumn 2051. The two are Kenji's security detail when Kenji recruits the lawyers (October 2051).
 - **He expands the team twice** before Kenji recruits Byron Pyrrus in July 2052: a first squad of four fighters in the winter, and four more fighters and three intelligence staff in the spring. His fighters wear Level 1 powered-suit frames.
 - **Walking behind Kenji.** He and Ashby walk with Kenji until the two Level 5 guards are finished in 2055.
-- **His ledger (A2.7)** runs from 2051 to spring 2059: Danny posted, three clinics open, elite buyers, the physician, the stolen pods, three offers for Oyama's patents, the name Cerberus from Marchetti (October 2058), the raid, and the bomb.
+- **His ledger (A2.7)** runs from 2051 to spring 2059: Danny posted, three clinics open, elite buyers, the physician, three offers for Oyama's patents, the name Cerberus from Marchetti (October 2058), the raid, and the bomb.
 - **Cerberus.** He hears the name from Marchetti the night of the third offer. He does not call Cerberus "it."

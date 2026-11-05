@@ -54,6 +54,7 @@ He allows the following technologies to spread, up to the limits shown.
 
 - (inference) Cerberus technology overlaps with the Primaris Process and the Inquisition's work, so it is more likely to stay private.
 - Cerberus (the author-side conspiracy) has no technology of its own. It seeks control of the firms, licensors, and regulators that stand between the allowed technologies and the public (author-side).
+- What Cerberus wants is the technologies he lets spread: anti-gravity and inertial dampening, robotics, the Level 1 Med-Pod, and later the gravitic drive and the warp drive (author ruling, 5 November 2026). It has no way to take a Level 2 Med-Pod. (open: the tier tables have no entries yet for inertial dampening or the gravitic drive.)
 
 ### Med-Pod tiers (author ruling)
 | Level | Description |
@@ -64,6 +65,7 @@ He allows the following technologies to spread, up to the limits shown.
 
 - **Only Level 2 Med-Pods and better can rejuvenate and extend longevity (author ruling).** The public clinics never offer it.
 - **Memory seal (decision, 5 November 2026).** Every Level 2 rejuvenation and longevity treatment seals the patient's memory of who, how, where, when, and why, and leaves them remembering only one contact person. The patient keeps every other memory and still knows they were treated. Recruits, managers, and the found family keep their memories. The public Primitive grade seals nothing. (open: how it is done, and whether the Imperium's treatments carry it.)
+- **Guard and anti-theft precaution (author ruling, 5 November 2026).** Every Level 2 Med-Pod is guarded around the clock by Level 3 droids, and none moves without Kenji knowing. Each carries an anti-theft precaution: if its guards are defeated and the pod is taken, its core components disintegrate, so a taken pod cannot be studied or reproduced. Cerberus does not know where any Level 2 pod stands.
 - (inference) Anyone who is rejuvenated or lives past a natural span was treated at Level 2 or better: network recruits, the found family, the elites who pay for it, Manswell, and later the Imperium's own people. How life extension reaches the wider population (Protagonist_and_Timeline.md, item 9) is open.
 - (inference) Primitive is the grade the world could have invented unaided, which is why it cures and does not renew (A2.1).
 - **Who builds it (author ruling, 3 November 2026).** Kenji builds only the Level 2 pod. He builds no Primitive pod. Oyama Industries builds the Primitive pods after Byron Pyrrus is recruited (July 2052) and sells them under its own name from January 2058.
@@ -109,7 +111,7 @@ He allows the following technologies to spread, up to the limits shown.
 | 4 | Specialized engineering and combat robots. |
 | 5 | Advanced humanoid robots. |
 
-- **Oyama and the security droids (author ruling, 3 November 2026).** Oyama sells Level 1 to Level 3 robots (decision on dates: Level 1 from 2057, Levels 2 and 3 from 2066). The organization's security droids guard only its private sites. They are Level 2 at first, built by Oyama from a design Kenji hands over for internal use, with Kenji's data crystals and Level 2 Dumb AI. They are upgraded to Level 3 after the June 2057 theft (decision on the date). Two Level 5 droids, which Kenji builds himself with money from Oyama between 2052 and 2055, are with him at all times. They look and move like men, so people take them for human.
+- **Oyama and the security droids (author ruling, 3 November 2026).** Oyama sells Level 1 to Level 3 robots (decision on dates: Level 1 from 2057, Levels 2 and 3 from 2066). The organization's security droids guard only its private sites. They are Level 2 at first, built by Oyama from a design Kenji hands over for internal use, with Kenji's data crystals and Level 2 Dumb AI. From summer 2053 Level 3 droids guard every Level 2 pod around the clock (author ruling, 5 November 2026; the date is a decision). Two Level 5 droids, which Kenji builds himself with money from Oyama between 2052 and 2055, are with him at all times. They look and move like men, so people take them for human.
 
 ### Gundarium tiers
 | Tier | Description |
